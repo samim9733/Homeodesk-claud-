@@ -1,0 +1,19 @@
+src/LibraryTabs.tsx:981:  // Update selected condition when system changes if current selection is not in the new system
+src/types.ts:89:  c?: string; // Color hex or tailwind class
+src/MateriaMedicaTab.tsx:29:          // match "rhus-t", "calc-c" etc.
+src/MateriaMedicaTab.tsx:34:        // Match just by ignoring dashes and spaces
+src/AnalysisRemindersTabs.tsx:332:  // Symptom States
+src/AnalysisRemindersTabs.tsx:386:  // Calculate Repertorization Results
+src/AnalysisRemindersTabs.tsx:413:        remedyMap[r.n].degrees[rubricIdx] = r.g === 1 ? 3 : (r.g === 2 ? 2 : 1); // Map grade to degree points
+src/AnalysisRemindersTabs.tsx:431:    // Update patient with core rubrics from analysis and symptom data
+src/App.tsx:25:// --- Components ---
+src/PhysiologyAnatomyTab.tsx:40:          const isLarge = index === 0 || index === 3; // Make some cards larger for bento feel
+src/MainTabs.tsx:770:          // Update grade if higher
+src/MainTabs.tsx:1044:                // Determine primary category by looking at keys in sub.d
+src/Modals.tsx:24:        // console.warn(error);
+src/Modals.tsx:139:      // 1. Fetch the image and convert to base64
+src/Modals.tsx:153:      // 2. Call Gemini for image editing
+src/Modals.tsx:172:      // 3. Extract the result image
+src/PatientModals.tsx:43:      // Save current content
+src/PatientModals.tsx:54:      // Restore content
+src/PharmacyComponents.tsx:14:  const [flipDirection, setFlipDirection] = useState(1); // 1 for next, -1 for prev

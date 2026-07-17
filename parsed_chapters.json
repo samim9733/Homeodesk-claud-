@@ -1,0 +1,11307 @@
+[
+  {
+    "name": "Mind",
+    "tr": "",
+    "icon": "🧠",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Abandoned",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Abandoned, feeling",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Anger",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Anger, violent",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Anxiety",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Anxiety, health, about",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bashful",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Bashful, timidity",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Company",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Company, aversion to",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          },
+          {
+            "name": "Company, desire for",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Confusion",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Confusion, concentration difficult",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Death",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Death, fear of",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Delusions",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Delusions, general",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fear",
+        "tr": "",
+        "em": "🧠",
+        "sr": [
+          {
+            "name": "Fear, dark, of",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          },
+          {
+            "name": "Fear, ghosts, of",
+            "tr": "",
+            "em": "🧠",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Grief",
+        "tr": "",
+        "em": "🧠",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Haughty",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": []
+  },
+  {
+    "name": "Hurry",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": []
+  },
+  {
+    "name": "Irritability",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": []
+  },
+  {
+    "name": "Jealousy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": []
+  },
+  {
+    "name": "Laughing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": []
+  },
+  {
+    "name": "Busy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Busy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Calmness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Calmness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Calumniate",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Calumniate, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Capriciousness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Capriciousness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Carefulness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Carefulness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Careless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Careless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cares",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cares, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Carphologia",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Carphologia, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Carried",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Carried, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cautious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cautious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Censorious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Censorious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Chagrin",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Chagrin, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Changeable",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Changeable, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Chaotic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Chaotic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Chases",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Chases, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cheerful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cheerful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Childish",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Childish, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Children",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Children, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Circumspection",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Circumspection, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Clairvoyance",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Clairvoyance, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Clinging",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Clinging, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Closing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Closing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cloudiness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cloudiness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Color",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Color, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Complaining",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Complaining, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Comprehension",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Comprehension, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Concentration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Concentration, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Confidence",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Confidence, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Confiding",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Confiding, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Confounding",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Confounding, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Conscientious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Conscientious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Consolation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Consolation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Contemptuous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Contemptuous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Contented",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Contented, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Contentions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Contentions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Contradict",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Contradict, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Contradiction",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Contradiction, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Contrary",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Contrary, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Conversation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Conversation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cosmopolitan",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cosmopolitan, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Counting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Counting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Courageous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Courageous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Covetous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Covetous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cowardice",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cowardice, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Crawling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Crawling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Crazy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Crazy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Critical",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Critical, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Croaking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Croaking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cruelty",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cruelty, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cursing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cursing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cut",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cut, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dancing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dancing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Darkness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Darkness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Deafness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Deafness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Deceitful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Deceitful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Deeds",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Deeds, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Defiant",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Defiant, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dejection",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dejection, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Delirium",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Delirium, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Deserted",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Deserted, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Desires",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Desires, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Despair",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Despair, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Despises",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Despises, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Despondency",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Despondency, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Destructiveness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Destructiveness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dictatorial",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dictatorial, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dipsomania",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dipsomania, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Disagreeable",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Disagreeable, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Disconcerted",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Disconcerted, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Discontented",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Discontented, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Discouraged",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Discouraged, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Disgust",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Disgust, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Disobedience",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Disobedience, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Displeased",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Displeased, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dissatisfied",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dissatisfied, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Distance",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Distance, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Distraction",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Distraction, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Distrustful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Distrustful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Disturbed",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Disturbed, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Diversion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Diversion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dogmatic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dogmatic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Domineering",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Domineering, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Doubtful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Doubtful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dread",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dread, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dream",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dream, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Drinking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Drinking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Drunken",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Drunken, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dulness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dulness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Duplicity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Duplicity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dwells",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dwells, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Earnestness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Earnestness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Eat",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Eat, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Eccentricity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Eccentricity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ecstacy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ecstacy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Egotism",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Egotism, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Embarrassed",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Embarrassed, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Embraces",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Embraces, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Emotional",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Emotional, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ennui",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ennui, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Entertainment",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Entertainment, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Envy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Envy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Escape",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Escape, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Estranged",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Estranged, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exaltation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exaltation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Excitement",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Excitement, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exclamation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exclamation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exercise",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exercise, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exertion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exertion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exhilaration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exhilaration, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Extravagance",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Extravagance, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Facetiousness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Facetiousness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Faces",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Faces, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fanaticism",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fanaticism, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fancies",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fancies, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fastidious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fastidious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Faultfinding",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Faultfinding, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Feces",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Feces, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Feigning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Feigning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fickle",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fickle, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fidgety",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fidgety, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fight",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fight, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fire",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fire, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fitful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fitful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fixed notions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fixed notions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Flattery",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Flattery, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Foolish",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Foolish, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Forebodings",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Forebodings, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Forgetful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Forgetful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Forgotten",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Forgotten, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Forsaken",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Forsaken, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Forsakes",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Forsakes, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Frantic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Frantic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fright",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fright, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Frightened",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Frightened, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Frivolous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Frivolous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Frown",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Frown, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fur",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fur, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fury",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fury, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gayety",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gayety, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gentleness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gentleness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gestures",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gestures, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Giggling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Giggling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gloomy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gloomy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Godless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Godless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Going out",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Going out, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Good humor",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Good humor, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gossiping",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gossiping, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gravity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gravity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Grimaces",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Grimaces, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Groaning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Groaning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Groping",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Groping, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Growling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Growling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Grumbling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Grumbling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Grunting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Grunting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Happy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Happy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hardhearted",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hardhearted, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hastiness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hastiness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hatred",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hatred, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Headstrong",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Headstrong, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Heedless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Heedless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Helplessness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Helplessness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hide",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hide, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hides",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hides, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "High places",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "High places, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "High-spirited",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "High-spirited, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hilarity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hilarity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Home",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Home, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Home-sickness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Home-sickness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Honor",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Honor, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hopeful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hopeful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hopeless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hopeless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Horrible",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Horrible, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Horror",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Horror, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Howling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Howling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Humor",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Humor, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Humorous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Humorous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Husband",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Husband, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hydrophobia",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hydrophobia, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hypochondriacal",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hypochondriacal, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hypocrisy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hypocrisy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hysteria",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hysteria, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ideas",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ideas, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Idiocy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Idiocy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Imbecility",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Imbecility, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Impatience",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Impatience, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Imperious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Imperious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Impertinence",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Impertinence, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Impetuous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Impetuous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Imprudence",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Imprudence, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Impulse",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Impulse, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Impulsive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Impulsive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Inciting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inciting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Inconsolable",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inconsolable, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Inconstancy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inconstancy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Indifference",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Indifference, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Indignation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Indignation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Indiscretion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Indiscretion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Indolence",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Indolence, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Industrious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Industrious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Inhumanity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inhumanity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Injure",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Injure, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Inquisitive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inquisitive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Insanity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Insanity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Insensibility",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Insensibility, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Insolent",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Insolent, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Instability",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Instability, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Intoxication",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Intoxication, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Introspection",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Introspection, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Irascibility",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Irascibility, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Irksome",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Irksome, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Irresolution",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Irresolution, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Isolation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Isolation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Jesting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Jesting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Joy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Joy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Joyless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Joyless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Joyous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Joyous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Jumping",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Jumping, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Kicks",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Kicks, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Kill",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Kill, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Killed",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Killed, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Kisses",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Kisses, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Kleptomania",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Kleptomania, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Kneeling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Kneeling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lamenting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lamenting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lasciviousness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lasciviousness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lewdness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lewdness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Libertinism",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Libertinism, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lie",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lie, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Light",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Light, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Listless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Listless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lively",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lively, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Loathing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Loathing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Locality",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Locality, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Loneliness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Loneliness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Longing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Longing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Looked",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Looked, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Loquacity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Loquacity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Love",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Love, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Low-minded",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Low-minded, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Low-spirits",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Low-spirits, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ludicrous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ludicrous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Magnetized",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Magnetized, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Malicious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Malicious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mania",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mania, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mania-a-potu",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mania-a-potu, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Marriage",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Marriage, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Meddlesome",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Meddlesome, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Meditation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Meditation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Melancholy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Melancholy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Memory",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Memory, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Men",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Men, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mental",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mental, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mesmerized",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mesmerized, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mildness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mildness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mirth",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mirth, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Misanthropy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Misanthropy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mischievous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mischievous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Miserly",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Miserly, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mistakes",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mistakes, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Moaning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Moaning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mocking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mocking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Monomania",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Monomania, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mood",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mood, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Moonlight",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Moonlight, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Moral",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Moral, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Morose",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Morose, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mortification",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mortification, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Motions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Motions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Murder",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Murder, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Music, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mutilating",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mutilating, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Muttering",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Muttering, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Naked",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Naked, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Narrating",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Narrating, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "New",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "New, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Noise",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Noise, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Nymphomania",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Nymphomania, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Obscene",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Obscene, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Obstinate",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Obstinate, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Occupation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Occupation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Offended",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Offended, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Over-sensitive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Over-sensitive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pertinacity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pertinacity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Petulant",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Petulant, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Phlegmatic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Phlegmatic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Picking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Picking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Piety",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Piety, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pities",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pities, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Plans",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Plans, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Playful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Playful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pleasure",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pleasure, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Positiveness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Positiveness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Power",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Power, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Praying",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Praying, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Precocity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Precocity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pre-occupied",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pre-occupied, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Presumptuous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Presumptuous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pride",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pride, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Prophesying",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Prophesying, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Prostration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Prostration, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pull",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pull, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Quarrelsome",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Quarrelsome, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Questions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Questions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Quick",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Quick, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Quiet",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Quiet, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rage",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rage, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rashness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rashness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reading",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reading, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Recognize",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Recognize, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Refuses",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Refuses, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Religious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Religious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Remorse",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Remorse, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reproaches",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reproaches, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Repulsive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Repulsive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reserved",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reserved, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Resolute",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Resolute, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rest",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rest, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Restlessness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Restlessness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reveals",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reveals, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Revengeful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Revengeful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reverence",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reverence, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reveries",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reveries, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ridicule",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ridicule, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ridiculous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ridiculous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Riding",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Riding, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rocking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rocking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rolling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rolling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Roving",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Roving, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rudeness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rudeness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Runs",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Runs, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sadness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sadness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Scolding",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Scolding, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Scorn",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Scorn, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Scratches",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Scratches, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Scream",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Scream, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Scrupulous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Scrupulous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Searching",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Searching, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Secretive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Secretive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Secrets",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Secrets, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Selfishness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Selfishness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Senses",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Senses, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sensitive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sensitive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sentimental",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sentimental, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Serene",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Serene, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Serious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Serious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sexual",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sexual, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Shameless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Shameless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Shining",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Shining, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Shrieking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Shrieking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Shy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Shy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sighing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sighing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Silent",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Silent, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Silly",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Silly, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Singing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Singing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sit",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sit, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sitting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sitting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Size",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Size, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Slander",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Slander, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Slowness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Slowness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sluggishness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sluggishness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Smaller",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Smaller, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Smiling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Smiling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sneers",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sneers, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sobbing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sobbing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Society",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Society, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Solemn",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Solemn, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Solitude",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Solitude, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Somnambulism",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Somnambulism, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sorrowful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sorrowful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Speech",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Speech, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Spiteful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Spiteful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Spits",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Spits, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Spoken",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Spoken, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Squanders",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Squanders, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Starting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Starting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stories",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stories, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Strange",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Strange, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stranger",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stranger, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Striking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Striking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stubborn",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stubborn, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Study",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Study, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stunned",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stunned, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stupefaction",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stupefaction, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stupidity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stupidity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stupor",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stupor, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Succeeds",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Succeeds, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Suggestions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Suggestions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Suicidal",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Suicidal, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sulky",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sulky, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sullen",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sullen, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Superstitious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Superstitious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Surprises",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Surprises, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Suspicious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Suspicious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Swearing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Swearing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sympathetic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sympathetic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Talk",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Talk, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Talkative",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Talkative, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Talking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Talking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Talks",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Talks, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Tears",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Tears, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Theorizing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Theorizing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Thinking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Thinking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Thoughts",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Thoughts, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Throws",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Throws, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Thunder",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Thunder, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Time",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Time, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Timidity",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Timidity, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Torpor",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Torpor, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Touch",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Touch, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Touched",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Touched, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Tranquility",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Tranquility, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Travel",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Travel, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Trifles",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Trifles, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unattractive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unattractive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unconsciousness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unconsciousness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Undertakes",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Undertakes, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unfeeling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unfeeling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unfortunate",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unfortunate, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unfriendly",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unfriendly, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unobserving",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unobserving, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unreal",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unreal, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unsympathetic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unsympathetic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Untruthful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Untruthful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Unworthy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Unworthy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vacillation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vacillation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Veneration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Veneration, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Verses",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Verses, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vexation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vexation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vindictive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vindictive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Violent",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Violent, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Visions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Visions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vivacious",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vivacious, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wailing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wailing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Walking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Walking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wander",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wander, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wants",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wants, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Washing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Washing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Weakness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Weakness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wearisome",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wearisome, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Weary",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Weary, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Weeping",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Weeping, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Well",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Well, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Whimsical",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Whimsical, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Whining",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Whining, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Whistling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Whistling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wicked",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wicked, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wild",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wild, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wildness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wildness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Will",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Will, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Witty",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Witty, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Women",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Women, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Work",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Work, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Writing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Writing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wrong",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wrong, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vertigo",
+    "tr": "",
+    "icon": "💫",
+    "pages": "",
+    "rubrics": []
+  },
+  {
+    "name": "Morning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Morning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Forenoon",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Forenoon, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Noon",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Noon, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Afternoon",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Afternoon, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Evening",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Evening, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Night",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Night, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Air",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Air, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Alcoholic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Alcoholic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Anger, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Anxiety",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Anxiety, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ascending",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ascending, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Back",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Back, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Balancing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Balancing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Bathing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Bathing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Bed",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Bed, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Beer",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Beer, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Bending",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Bending, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Blowing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Blowing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Bread",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Bread, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Breakfast",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Breakfast, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Breath",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Breath, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Child",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Child, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Chill",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Chill, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Chilliness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Chilliness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Chronic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Chronic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Closing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Closing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Coffee",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Coffee, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Coition",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Coition, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cold",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cold, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Colic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Colic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Colored",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Colored, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Concussion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Concussion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Constipation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Constipation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Continuous",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Continuous, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Coryza",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Coryza, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Coughing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Coughing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Crossing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Crossing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Crowd",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Crowd, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Damp",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Damp, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dark",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dark, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Descending",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Descending, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dilated",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dilated, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dinner",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dinner, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Diplopia",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Diplopia, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Drinking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Drinking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Eating",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Eating, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Elevated",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Elevated, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Emission",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Emission, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Epilepsy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Epilepsy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Epileptic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Epileptic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Erections",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Erections, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Eructations",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Eructations, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Eruptions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Eruptions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exercising",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exercising, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exertion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exertion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Falling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Falling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fall",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fall, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Floating",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Floating, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fright",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fright, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fulness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fulness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gargling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gargling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gaslight",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gaslight, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Headache",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Headache, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Heat",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Heat, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "High",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "High, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "House",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "House, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hungry",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hungry, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Injuries",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Injuries, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Inspiration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inspiration, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Intoxicated",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Intoxicated, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Kneading",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Kneading, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Kneeling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Kneeling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Leaning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Leaning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Left",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Left, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lifting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lifting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lights",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lights, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lightning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lightning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Looking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Looking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Loss",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Loss, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lying",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lying, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Meditating",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Meditating, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Menses",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Menses, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mental",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mental, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Mirror",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mirror, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Motion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Motion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Moving, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Nausea",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Nausea, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Noise",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Noise, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Objects",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Objects, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Occipital",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Occipital, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Odor",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Odor, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Old",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Old, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Opening",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Opening, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Painful",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Painful, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Paroxysmal",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Paroxysmal, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Periodical",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Periodical, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pregnancy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pregnancy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Raising",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Raising, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reaching",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reaching, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reading",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reading, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Reeling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Reeling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Relaxation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Relaxation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rest",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rest, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Resting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Resting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Riding",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Riding, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Right",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Right, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rising",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rising, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rocking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rocking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Rubbing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Rubbing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sewing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sewing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Shaking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Shaking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Shaving",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Shaving, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sinking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sinking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sitting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sitting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sleep",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sleep, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sleepiness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sleepiness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Smoking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Smoking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sneezing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sneezing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Spring",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Spring, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Staggering",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Staggering, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Standing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Standing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stars",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stars, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stomach",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stomach, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stool",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stool, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stooping",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stooping, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Supper",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Supper, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stretching",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stretching, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Stupefaction",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Stupefaction, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sudden",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sudden, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Summer",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Summer, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Sunlight",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sunlight, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Supporting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Supporting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Suspension",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Suspension, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Swimming",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Swimming, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Swinging",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Swinging, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Syncope",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Syncope, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Syphilitic",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Syphilitic, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Talking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Talking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Tea",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Tea, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Thinking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Thinking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Touch",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Touch, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Trembling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Trembling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Turned",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Turned, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Turning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Turning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Urination",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Urination, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vertex",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vertex, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vexation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vexation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vision",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vision, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Vomiting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Vomiting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Walking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Walking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Warm",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Warm, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Warmth",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Warmth, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Washing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Washing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Watching",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Watching, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Water",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Water, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Will",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Will, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Windy",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Windy, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wine",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wine, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Wiping",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Wiping, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Writing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Writing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Yawning",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Yawning, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Head",
+    "tr": "",
+    "icon": "🤕",
+    "pages": "",
+    "rubrics": []
+  },
+  {
+    "name": "Air or Wind",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Air or Wind, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Alive",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Alive, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Asleep",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Asleep, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Balancing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Balancing, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Baldness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Baldness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Ball",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Ball, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Band",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Band, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Beats",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Beats, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Bend",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Bend, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Board",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Board, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Boiling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Boiling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Bores",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Bores, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Bubbling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Bubbling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Caries",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Caries, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cephalematoma",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cephalematoma, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Clucking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Clucking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Coldness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Coldness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Coition",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Coition, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Cold",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Cold, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Commotion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Commotion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Compression",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Compression, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Concussion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Concussion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Congestion",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Congestion, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Constriction",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Constriction, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Contraction",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Contraction, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Covers",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Covers, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Crackling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Crackling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Crawling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Crawling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dandruff",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dandruff, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dilated",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dilated, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Distention",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Distention, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Dragging",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dragging, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Drawn",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Drawn, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Elongated",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Elongated, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Empty",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Empty, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Enlarged",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Enlarged, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Eruption",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Eruption, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Erysipelas",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Erysipelas, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Exostoses",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Exostoses, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Expanded",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Expanded, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Falling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Falling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Flapping",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Flapping, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Flattened",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Flattened, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fluctuation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fluctuation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fontanelles",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fontanelles, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Formication",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Formication, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fringe",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fringe, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fullness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fullness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Fungus",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Fungus, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Gurgling",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Gurgling, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hair",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hair, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hands",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hands, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hat",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hat, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Headless",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Headless, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Heat",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Heat, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Heaviness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Heaviness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Heaving",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Heaving, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hold",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hold, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hollow",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hollow, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Horripilation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Horripilation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Hydrocephalus",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hydrocephalus, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Inflammation",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inflammation, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Injuries",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Injuries, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Intoxication",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Intoxication, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Itching",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Itching, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Jerking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Jerking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Knocking",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Knocking, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Knocks",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Knocks, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Large",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Large, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lean",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lean, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lice",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lice, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lifting",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lifting, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lightness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lightness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Looseness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Looseness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lump",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lump, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lupus",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lupus, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Lying",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Lying, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Marble",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Marble, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Motions",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Motions, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Nodding",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Nodding, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Numbness",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Numbness, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Edema",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Edema, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Oily",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Oily, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Open",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Open, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Opening",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Opening, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Pain",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pain, general",
+        "tr": "",
+        "em": "💊",
+        "sr": []
+      }
+    ]
+  },
+  {
+    "name": "Eye",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inflammation",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Inflammation, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vision",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Blurred",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Blurred vision",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ear",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Noises",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Noises in ear",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nose",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Coryza",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Coryza, fluent",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Face",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Discoloration",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Discoloration, pale",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mouth",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Aphthae",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Aphthae, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Salivation",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Salivation, profuse",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Teeth",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pain",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Pain, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Throat",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Inflammation",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Inflammation, sore throat",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "External Throat",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Swelling",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Swelling, cervical glands",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stomach",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Appetite",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Appetite, lost",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Abdomen",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pain",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Pain, cramping",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rectum",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hemorrhoids",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Hemorrhoids, external",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Constipation",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Constipation, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stool",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Diarrhea",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Diarrhea, morning",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bladder",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Urination",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Urination, frequent",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kidneys",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pain",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Pain, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Urethra",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Discharge",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Discharge, gleety",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Urine",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sediment",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Sediment, red sand",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Genitalia Male",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Erections",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Erections, troublesome",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Genitalia Female",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Leucorrhoea",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Leucorrhoea, acrid",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "Menses",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Menses, painful",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prostate Gland",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Enlargement",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Enlargement, senile",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Larynx & Trachea",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Hoarseness",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Hoarseness, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Respiration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Difficult",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Difficult respiration, asthma",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cough",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Dry",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Dry cough, barking",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Expectoration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Mucus",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Mucus, thick",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chest",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pain",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Pain, stitching",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Back",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pain",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Pain, lumbar",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extremities",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Pain",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Pain, rheumatic",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sleep",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Sleeplessness",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Sleeplessness, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chill",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Shaking chill",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Shaking chill, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hearing",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Impaired",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Impaired hearing, deafness",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fever",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Heat",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Heat, general",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perspiration",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Morning",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Perspiration, morning",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skin",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Eruptions",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Eruptions, eczema",
+            "tr": "",
+            "em": "💊",
+            "d": {
+              "general": {},
+              "location": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Generalities",
+    "tr": "",
+    "icon": "💊",
+    "pages": "",
+    "rubrics": [
+      {
+        "name": "Abscess",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Abscess, general",
+            "d": {
+              "general": {
+                "g_patho": [
+                  {
+                    "n": "Hep.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Sil.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Merc.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Bell.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      },
+      {
+        "name": "Bathing",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Bathing, aversion to",
+            "tr": "স্নানে অনিচ্ছা",
+            "d": {
+              "general": {
+                "g_phys": [
+                  {
+                    "n": "Sulph.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Ant-c.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Psor.",
+                    "g": 2
+                  },
+                  {
+                    "n": "Sep.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      },
+      {
+        "name": "Cold",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Cold, in general, agg",
+            "tr": "ঠান্ডায় বৃদ্ধি",
+            "d": {
+              "general": {
+                "g_temp": [
+                  {
+                    "n": "Hep.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Sil.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Psor.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Ars.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Calc.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          },
+          {
+            "name": "Cold, taking, tendency to",
+            "tr": "সহজেই ঠান্ডা লাগার প্রবণতা",
+            "d": {
+              "general": {
+                "g_temp": [
+                  {
+                    "n": "Calc.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Sil.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Psor.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Nat-m.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      },
+      {
+        "name": "Food",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Food, sweets, desire",
+            "tr": "মিষ্টি পছন্দ",
+            "d": {
+              "general": {
+                "g_crav": [
+                  {
+                    "n": "Arg-n.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Lyc.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Sulph.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Calc.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          },
+          {
+            "name": "Food, salt, desire",
+            "tr": "লবণ পছন্দ",
+            "d": {
+              "general": {
+                "g_crav": [
+                  {
+                    "n": "Nat-m.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Phos.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Arg-n.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      },
+      {
+        "name": "Injuries",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Injuries, general",
+            "tr": "আঘাত, সাধারণ",
+            "d": {
+              "general": {
+                "g_phys": [
+                  {
+                    "n": "Arn.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Hyper.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Ruta",
+                    "g": 3
+                  },
+                  {
+                    "n": "Led.",
+                    "g": 2
+                  },
+                  {
+                    "n": "Calend.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      },
+      {
+        "name": "Motion",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Motion, agg",
+            "tr": "নড়াচড়ায় বৃদ্ধি",
+            "d": {
+              "general": {
+                "g_phys": [
+                  {
+                    "n": "Bry.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Ran-b.",
+                    "g": 2
+                  },
+                  {
+                    "n": "Bell.",
+                    "g": 2
+                  },
+                  {
+                    "n": "Cocc.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          },
+          {
+            "name": "Motion, amel",
+            "tr": "নড়াচড়ায় উপশম",
+            "d": {
+              "general": {
+                "g_phys": [
+                  {
+                    "n": "Rhus-t.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Puls.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Ferr.",
+                    "g": 2
+                  },
+                  {
+                    "n": "Lyc.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      },
+      {
+        "name": "Side",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Side, right",
+            "tr": "ডান দিক",
+            "d": {
+              "general": {
+                "g_side": [
+                  {
+                    "n": "Lyc.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Bell.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Chel.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Apis",
+                    "g": 3
+                  },
+                  {
+                    "n": "Sanguin.",
+                    "g": 3
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          },
+          {
+            "name": "Side, left",
+            "tr": "বাম দিক",
+            "d": {
+              "general": {
+                "g_side": [
+                  {
+                    "n": "Lach.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Phos.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Sep.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Spig.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Thuja",
+                    "g": 3
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      },
+      {
+        "name": "Weather",
+        "tr": "",
+        "em": "💊",
+        "sr": [
+          {
+            "name": "Weather, damp, agg",
+            "tr": "স্যাঁতস্যাঁতে আবহাওয়ায় বৃদ্ধি",
+            "d": {
+              "general": {
+                "g_temp": [
+                  {
+                    "n": "Rhus-t.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Dulc.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Nat-s.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Merc.",
+                    "g": 2
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          },
+          {
+            "name": "Weather, dry, cold, agg",
+            "tr": "শুষ্ক ঠান্ডা আবহাওয়ায় বৃদ্ধি",
+            "d": {
+              "general": {
+                "g_temp": [
+                  {
+                    "n": "Acon.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Hep.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Nux-v.",
+                    "g": 3
+                  },
+                  {
+                    "n": "Caust.",
+                    "g": 3
+                  }
+                ]
+              }
+            },
+            "em": "💊"
+          }
+        ]
+      }
+    ]
+  }
+]

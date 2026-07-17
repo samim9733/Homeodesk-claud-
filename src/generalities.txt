@@ -1,0 +1,562 @@
+GENERALITIES.
+DAYTIME: Alum., am-m., cimic., ferr., guaj., sang., Sep., Sulph.
+MORNING: Agar., agn., aloe, alum., ambr., am-c., bor., bov., Bry., bufo, calad., Calc., Calc-p., kalm., kreos., Lach., laur., led., lyc., mag-c., nat-c., Nat-m., nat-p., Nat-s., nicc., Nit-ac., nux-m., Nux-v., Onos., op., ox-ac., par., pareir., Petr., Phos., Ph-ac., phyt., pic-ac., plant., plat., plb., Podo., psor., ptel., Puls., stram., stront., Sulph., sul-ac., tab., tarax.
+10 a.m.: Cimic., gels., Nat-m., nux-v., Sulph.
+FORENOON: Aloe, alum., ambr., am-c., am-m., mosch., mur-ac., nat-a., Nat-c., Nat-m., Sulph., Sul-ac., tarax., teucr., valer., verb.
+amel.: Alum., Lyc.
+AFTERNOON: Acon., æth., agar., all-c., aloe, asaf., asar., aur., bar-c., bar-m., Bell., kreos., lach., laur., led., Lyc., mag-c., phos., ph-ac., phyt., plan., plb., ptel., Puls., teucr., Thuj., valer., verb., viol-t., Zinc.
+2 p.m.: Calc., lach., lob., nit-ac., ol-an.
+3 p.m.: Apis, ars., asar., Bell., cench., clem.
+4 p.m.: Alum., anac., arum-t., calc-p., carb-v., lachn., Lyc., mag-m., mur-ac., nat-s., puls.
+4 to 8 p.m.: Alum., Bov., hell., Lyc.
+4 to 10 p.m.: Alum., plat.
+EVENING: aloe., Alum., Ambr., Am-c., am-m., bar-c., bar-m., Bell., berb., bism., bor., bov., brom., Bry., calad., Calc., calc-p., calc-s., Carb-v., Carb-s., Caust., cedr., Cham., kalm., kreos., Lach., laur., led., lil-t., Lyc., Mag-c., mag-m., mang., Meny., Merc., Phos., Ph-ac., phyt., pic-ac., plan., Plat., Plb., psor., ptel., Puls., ran-b., Ran-s., Sulph., Sul-ac., tab., tarax., teucr., thuj., Zinc.
+amel.: Alum., arn., arg-m., asaf., Aur., chel.
+every other evening: Puls.
+lying down after agg.: Ars., ign., led., phos., nat-m., plb., Puls., rhus-t., staph., sul-ac.
+amel.: Alum., bry., phos.
+NIGHT: Abrot., acet-ac., Acon., agar., agn., Calc., Calc-i., Calc-p., Calc-s., camph., Cham., chel., Chin., chin-a., cic., Cinnb., Ferr-i., fl-ac., gamb., Graph., guaj., hell., kali-n., kali-p., kreos., Lach., laur., led., Merc., merc-c., merc-i-f., mez., mosch., Plb., Psor., Puls., ran-b., ran-s., rheum., Sulph., sul-ac., tarax., tarent., Tell., teucr.
+every other night: Puls.
+11 p.m.: Bell., cact., lach., rumx., sil.
+midnight, before: Alum., ambr., am-m., anac., ant-t., apis, Arg-n., arn., Ars., asar., bell., ign., Kali-ar., kali-c., lach., Led., Lyc., nat-m., nit-ac., nux-v., osm., petr., Phos., phyt., plat., psor., Puls., ran-b., Ran-s.
+after: Acon., alum., ambr., am-m., ant-c., ant-t., Ars., ars-i., asaf., aur., bar-c., nit-ac., Nux-v., par., Phos., ph-ac., phyt.
+amel.: Lyc.
+1 a.m.: Ars., caul., cocc., lachn., mag-m.
+to 4 p.m.: Nux-v.
+6 a.m.: Aloe, calc-p., ox-ac., sep., sil.
+AIR, draft agg.: Acon., anac., Bell., benz-ac., bov., bry., Calc., Calc-p., calc-s., camph., caps., stront., Sulph., valer., verb., zinc.
+open agg.: Acon., agar., agn., alum., ambr., chel., Chin., chin-a., cic., cina, clem., Cocc., mag-c., mang., meny., Merc., merc-c., Nit-ac., Nux-m., Nux-v., olnd., op., par., stram., stront., Sulph., sul-ac., teucr., thuj.
+amel.: aloe, Alum., ambr., am-m., aml-n., ant-c., apis, arg-m., Arg-n., arn., Ars., ars-i., plat., plb., ptel., Puls., ran-b., ran-s.
+seashore: Ars., kali-i., mag-m., nat-m., nat-s.
+ALCOHOLIC stimulants: Acon., agar., alum., Ars., Asar., Bar-c., bell., bor., bov., cadm., Lach., laur., led., lyc., naja, nat-c., nat-m., nux-m., Nux-v., Op., petr., puls., Ran-b., Sulph., Sul-ac., tab., thuj., verat., zinc.
+brandy: Agar., ars., bell., calc., chin., cocc., hep., hyos., ign., lach., laur., led., Nux-v., stram., Sulph., sul-ac., verat., zinc.
+AMELIORATION, general: ant-c., arn., arg-m., arg-n., Ars., ars-i., bell., Bor., bov., bry., Calc., Calc-p., carb-v., caust., cedr., cham., Chin., chin-a., cina, Graph., Hell., helon., ign., iod., Kali-ar., mag-m., Mang., Med., Merc., merc-c., mez., nat-a., nat-c., Nat-m., nat-p., nat-s., Phos., ph-ac., pic-ac., Plb., psor., Puls., sil., spig., Squil., stann., Staph., Sulph.
+hemorrhage, after: Calc., carb-v., Chin.
+ANALGESIA (See Irritability): Bell., chel., cic., Lyc., merc., mosch., Olnd., Op., phos., mosch., mur-ac., nat-m., Nux-v., Phos., Ph-ac., plat., plb., Puls., rhus-t., sabad., stram., Sulph., sul-ac., teucr., thuj., verat.
+APOPLEXY: Acon., anac., ant-c., arn., asar., aur., bar-c., Bell., bry., calc., camph., Lach., laur., lyc., merc., nat-m., nit-ac., Ars., asar., aur., bar-c., bar-m., bell., bor., Bry., cadm., Calc., calc-p., cann-i., cann-s.
+high agg.: Acon., bry., calc., coca, conv.
+ASCENDING, steps agg.: Acon., arg-n., asaf., bell., brom., bry., calc., cupr., graph., Ign., kali-c., lach., mag-m., Sulph., sul-ac., zinc.
+BATHING agg.: bry., Calc., Calc-s., canth., carb-s., carb-v., stann., staph., stront., Sulph., sul-ac.
+amel.: Acon., agar., alum., am-m., ant-t., Puls., rhod., sabad., sep., spig., staph.
+the affected part amel.: Alum., am-m., ant-t.
+sea, agg.: Ars., mag-m., rhus-t., sep.
+BLACKNESS of external parts: Acon., agar., arn., Ars., ars-i., asaf., asar., aur., bar-c., Merc., nat-m., nit-ac., nux-v., Op., phos.
+BREAKFAST, after, agg.: Agar., ambr., am-m., nat-c., nat-m., nit-ac., nux-m., Nux-v., par., petr., Phos., ph-ac., plb., puls., rhod., valer., verat., Zinc.
+BRITTLE bones: Calc., symph.
+BURNS: Agar., alum., ant-c., Ars., calc., Canth.
+CANCER: apis, ambr., Ars., ars-i., aster., aur., kali-s., kreos., lach., lapis-a., Lyc., merc., merc-i-f., nat-m., Nit-ac., Phos., ph-ac., lach., nit-ac., Phos., sil., sulph., thuj.
+epithelioma: clem., Con., hydr., kali-s., kreos., Lyc.
+fungus haematodes: Ant-t., Ars., bell., calc., Carb-an., carb-v., clem., kreos., Lach., lyc., merc., nat-m., nit-ac., Phos., puls.
+lupus: Agar., alum., alumn., ant-c., arg-n., Ars., ars-i., aur-m., bar-c., calc., carb-ac., kali-s., kreos., lach., Lyc., nit-ac., phyt.
+noma: Alum., alumn., ars., calc., carb-v., lach., Lyc., Merc., mez., nat-m., nit-ac.
+CARRYING on the back agg.: Alum.
+on the head agg.: Calc.
+CATALEPSY: Acon., agar., aran., art-v., bell., ferr., gels., Graph., ign., ip., lach., nat-m.
+fright, after: Acon., bell., gels., Op.
+grief, after: Ign., ph-ac., staph.
+jealousy, from: Hyos., Lach.
+CHANGE of position agg.: Acon., bry., Caps., Puls., ran-b., rhod., rhus-t., sabad., samb.
+amel.: Agar., ars., cham., Ign., meli., nat-s.
+temperature agg.: Acon., alum., Ars., carb-v., petr., Phos., Psor., puls., Ran-b., rheum., nat-s., Psor., puls., Sulph., Tub.
+CHLOROSIS: bar-c., Bell., Calc., Calc-p., carb-an., Ferr-ar., ferr-i., Ferr-m., ferr-p., Graph., kali-p., kali-s., Lyc., Mang., merc., nat-c., Phos., ph-ac., pic-ac., Plat., plb., Puls., sabin., Senec., Sep., spig., staph., Sulph.
+alternate days, symptoms agg.: Alum.
+CHOREA: Acon., Agar., ant-t., apis, arg-n., cact., Calc., caul., Caust., cham., cedr.
+right side: Ars., nat-s., phys., tarent.
+evening agg.: Zinc.
+night: Caust.
+children who have grown too fast: Phos.
+coition, after (woman): Agar., cedr.
+dinner, after: Zinc.
+dry weather: Caust.
+eating, after: Ign.
+emotional: Agar., ign., op., phos.
+exercise amel.: Zinc.
+fright, from: Acon., agar., calc., Caust.
+imitation, from: Caust., mygal.
+menses, during: Zinc.
+onanism, from: Calc., chin.
+one sided: Calc., cocc., cupr., nat-s., phys.
+pregnancy, during: Caust., cupr.
+rest, during: Zinc.
+rheumatic: Caust., cimic., kali-i., rhus-t.
+sleep amel.: Agar., hell., ziz.
+suppressed eruptions: Caust., Sulph., zinc.
+thunder storm, before: Agar., sep.
+during: Phos.
+worms, from: Calc., cina.
+wine agg.: Zinc.
+CLEAR weather agg.: Acon., asar., bry., caust.
+CLOTHING agg.: kali-n., kreos., Lach., lyc., nat-s., Nux-v.
+woolen: Phos., psor., puls., sulph.
+COFFEE agg.: Calc., cann-i., caps., carb-v., caust., chel., chin., coff., hep., Lach., Lyc., Nit-ac., Nux-v., olnd., op., puls., ran-b., sanic.
+COITION, complaints from: Caust., cocc., dros., merc., nux-m.
+after: Agar., agn., am-c., anac., anan., apis, arg-n., asaf., bar-c., bor., bov., calad., Calc.
+COLD in general agg.: Acon., aesc., agar., alum., arg-n., arn., Ars., asar., aur., bad., Bar-c., bar-m., bell., bor., bov., bry., cadm., Calc., carb-s., carb-v., Caust., cham., chel., Chin., ferr., ferr-ar., Graph., gymn., hell., helon., kreos., lac-d., lach., laur., led., Lyc., lycps., nat-m., nat-p., Nit-ac., nux-m., Nux-v., petr., Phos., ph-ac., plb., Psor., puls.
+air agg.: Abrot., acon., aesc., Agar., All-c., arn., Ars., asar., Aur., Bad., Bar-c., bar-m., bell., bor., bov., bry., cadm., Calc., Calc-p., carb-v., Caust., cham., chin., chin-a., cic., Lyc., lycps., mag-c., mag-m., Mag-p., nit-ac., Nux-m., Nux-v., osm., par., petr.
+taking cold: ant-c., arg-n., arn., Ars., ars-i., asar., Aur., Kali-c., kali-p., kali-s., kreos., lach., Lyc., nit-ac., nux-m., Nux-v., petr., phos., ph-ac.
+amel.: Acon., agn., alum., ambr., ant-c., Iod., ip., lac-c., lach., led., Lyc., mang., plat., Puls., sabad., sabin., sars., sec., sel.
+COLLAPSE: Acet-ac., Am-c., amyg., apis, Ars., diarrhea, after: Ars., Camph., Carb-v.
+sudden: Ars., phos.
+vomiting, during: Ars.
+after: Ars., lob., phys., verat.
+CONGESTION of blood: Acon., Aesc., aloe, arn., asaf., aur., bar-c., Bell., bor., bov., Chin., clem., cocc., coff., colch., coloc., nat-c., nat-m., nit-ac., nux-m., Nux-v., op., stram., Sulph., sul-ac., tarax., thuj., valer.
+internally: Aloe, apis, ars., Cact., camph.
+CONSTIPATION amel.: Calc., merc., psor.
+CONTORTIONS: euphr., ferr., gels., glon., Graph., guaj., lyc., mag-c., mag-m., mang., meny., Merc., Nux-v., olnd., op., ox-ac., par., petr., phos.
+CONVULSIONS: bapt., bar-c., Bell., benz-ac., bism., bor., carb-s., carb-v., caust., cham., chel., Chin., graph., guaj., hell., hep., hyos., Ign., iod., nat-a., nat-c., Nat-m., Nit-ac., nux-m., Nux-v., olnd., op., ox-ac., par., petr., phos.
+of orifices: Acon., alum., ars., ars-i., bar-c., Bell., brom., Cact., calc., carb-v., chel., cic., Lach., lyc., Merc., merc-c., mez., nat-m., Sulph., zinc.
+band, sensation of a: Acon., alum., alumn., Sulph., sul-ac., tarent., til., zinc.
+flammation: Agar., alum., ant-c., arg-m., dros., dulc., euph., lach., led., Merc., mez., nat-m., nit-ac., Nux-v., petr., phos., plb., Bell., bry., Bufo, cact., Calc., carb-s., Caust., Cham., chen., chin., Cic., Cina, Nux-m., Nux-v., oenan., olnd., Op., ox-ac.
+right side of body: Bell., caust., Lyc., nux-v.
+4 a.m. to 4 p.m.: Calc.
+evening: Alum., Calc., caust., gels., laur.
+open air: Caust.
+8 p.m.: Ars.
+Addison's disease, in: Calc.
+unconsciousness: Agar., Nux-v., op., plat., sulph.
+apoplectic: Bell., lach., nux-v., stram.
+back: Sulph.
+bending elbow amel.: Nux-v.
+head backwards, from: Nux-v.
+changing in character: Bell., ign., puls.
+children: Acon., aeth., agar., ambr., apis, Art-v., Bell., bry., calc., camph., caust., sec., sil., Stram., sulph., Verat., Zinc.
+chill, during: Ars., lach., merc., nux-v.
+clonic: Acon., Agar., alum., ambr., am-c., Bell., bor., bry., Bufo, calc., calc-p., camph.
+after: Agar.
+cold air, from: Ars., bell., cic., merc., nux-v.
+water amel: Caust.
+cold, becoming: Bell., caust., cic., nux-v.
+consciousness, with: Ars., bell., calc., camph., ars., aster., aur., bell., Calc., calc-s., Calc., Cham., cic., cina, cupr., hyos., ign.
+drinking, after: Ars., bell., hyos., carb-s., carb-v., Caust., cedr., chin-s., cic., stram., Sulph., syph., tarent., Visc.
+arms, in: Calc., lach., sulph.
+cold air over spine and body: Agar.
+coldness running down spine: Ars.
+drawing in limbs: Ars.
+mouse, running like a: Bell., Calc., ign.
+shocks: Ars.
+calc., caust., Cic., cupr., indg., Nux-v., sil., Sulph.
+uterus to throat: Lach.
+warm air streaming up spine: Ars.
+epileptiform: Acon., aeth., agar., alum., arn., ars., asaf., aur., Bell., bry., bufo, Calc., calc-s., camph., canth., Caust., cedr., cham., chin., Cic., Cina, Stram., Sulph., tarax., teucr., thuj., valer., Cupr., Zinc.
+sulph., Zinc.
+excitement, from: Acon., agar., aster., bell.
+falling, with: Agar., alum., am-c., ars., aster., Bell., calc., calc-p., canth., caust., cedr.
+backwards: Bell., canth., chin., cic., ign.
+right side: Bell.
+runs in a circle to: Caust.
+left side: Bell., caust., lach., sabad.
+fluids, from: Bell., canth., hyos., Lyss.
+fright, from: Acon., agar., apis, arg-n., art-v., bufo, Calc., caust., cic., cupr., Hyos., Ign.
+hemorrhage, with: Chin., hyos., plat., sec.
+heat, during the: Cina, cur., hyos., Nux-v., croc., hyos., Ign., iod., ip., lach., lyc.
+internal: Acon., agar., ambr., am-c., anac., carb-v., Caust., cham., cina, Cocc., coff., Hyos., Ign., iod., ip., kali-c., kreos., lach., Nux-v., op., petr., phos., ph-ac., plat., plb., Puls., rhod., sabad., sec., seneg., sep., sil.
+light agg.: Bell., Lyss., op., nux-v., Stram.
+lying on side: Puls.
+during: Apis, arg-n., bell., caul., caust.
+mortification: Calc.
+motion agg.: Ars., bell., cocc., graph., nux-v.
+paralyzed side: Phos., sec.
+paralysis of the other: Apis, art-v., bell.
+pain in soles, during: Ars.
+paralysis, with: Arg-n., bell., Caust., cic., Nat-m.
+followed by: Caust.
+periodic: Agar., ars., bar-m., calc., chin-s.
+every 7 days: Agar., chin-s., indg., nat-m.
+puberty, at: Caust., Bell., canth., carb-v., caust., cham., Cic.
+hemorrhage: Chin., hyos., plat., sec.
+punishment, after: Cham., cina., Ign.
+rubbing amel.: Phos., sec.
+shining objects, from: Bell., Lyss., Stram.
+of limbs before convulsions: Calc.
+eruption: Agar., bry., calc., caust., cupr.
+swing, letting legs, excites convulsion: Calc., mur-ac., Nux-v., oenan., op., Petr., phos.
+wiping perspiration from face agg.: Nux-v.
+wounds in the soles, finger or palm: Bell.
+thunderstorm: Agar.
+tight grasp amel.: Nux-v., asar., Bell., bor., bry., Bufo, calc., camph.
+touched, when: Acon., bell., carb-o., Cic.
+vexation, from: Ars., bell., calc., camph.
+amel.: Agar.
+warm bath agg.: Apis, glon., nat-m., op.
+water, at sight of: Bell., Lyss., Stram.
+wet, from becoming: Calc., cupr., rhus-t.
+yawning: Graph.
+CYANOSIS: Acon., agar., alum., am-c., ant-c., ip., kali-chl., Lach., Laur., led., lyc., carb-v., chin., Dig., Lach., laur., naja., am-c., arn., ars., bar-c., bar-m., Bell., bry., Chin., chin-a., chin-s., cic., coloc., con., olnd., op., phos., ph-ac., plb., podo., Puls.
+evening: Puls.
+fever, during: Agar., bell., camph., Chin., ant-t., Apis, apoc., Ars., ars-i., asc-c., aut., cedr., chel., Chin., chin-a., cinnb., coca., ferr-ar., ferr-i., ferr-p., Graph., guaj., Hell., Apis, apoc., arg-m., arn., Ars., ars-i., aur., aur-m., Bell., bry., calc., camph., cann-s., canth., caps., carb-v., Card-m., Chin.
+Sulph., teucr., verat., viol-t.
+DRY weather agg. (See cold dry weather): Alum., Asar., bry., caust., Hep., kali-c., Nux-v., ol-j., sec., sil., Sulph., zinc.
+EATING, before: Acon., alum., ambr., am-c., Phos., plb., puls., ran-b., rhus-t., sabad., while: Aloe, alum., ambr., Am-c., am-m., stram., Sulph., sul-ac., tarax., teucr., thuj.
+amel.: Aloe, alum., ambr., am-m., Anac., cocc., croc., dig., dros., ferr., graph., Ign., iod., Lach., laur., led., lyc., mag-c., mang., tarax., Zinc., Aloe, alum., ambr., am-c., am-m., Anac., ant-c., ant-t., apis, apoc., arg-n., arn., Ars., bov., Bry., bufo, cain., calad., Calc., calc-p., carb-s., carb-v., Caust., cham., chel., chin., Kali-c., kali-n., kali-p., kali-s., kreos., Lach., laur., led., Lyc., mag-c., mag-m., mang., Nux-v., olnd., op., ox-ac., par., petr., Phos., ph-ac., phyt., plat., plb., podo., ptel., Puls., stann., staph., stront., Sulph., sul-ac., verat., verb., viol-t., Zinc.
+amel.: Acon., aloe, alum., ambr., am-c., fast: Ars., p., led., nux-v., sulph.
+satiety, to: Bar-c., calc., carb-v., Lyc., nat-c., nat-m., nux-v., Puls., sep., sil., sulph.
+amel.: Ars., iod., phos., ant-t., apis, arg-m., arg-n., arn., Ars.
+cact., Calc., Calc-i., calc-p., camph., canth.
+EMACIATION: carb-s., cham., chel., Chin., chin-a., chlor., ferr-ar., ferr-i., Graph., guaj., Hell., hep., kali-i., kali-p., kali-s., kreos., lach., Lyc., Nat-h., Nat-m., nat-p., nat-s., Nit-ac., nux-m., Nux-v., op., petr., Phos., ph-ac., stram., stront., Sulph., uran., verat., Tub.
+affected parts, of: Ars., bry., carb-v., dulc., Graph., Led., lyc., mez., nat-m., nit-ac., nux-v., phos., ph-ac., plb., Puls., Sec., sel., arg-n., Ars., Ars-i., bar-c., Calc., calc-p., kreos., lyc., mag-c., Nat-m., nux-m., nux-v.
+downwards, spreads: Lyc., nat-m., sars.
+loss of animal fluids: Chin., Selen.
+old people: Ambr., Bar-c., Iod., Lyc., sec.
+pining boys: Aur., Lyc., nat-m., Tub.
+EMISSIONS agg.: Agar., alum., ars., bar-c., bor., merc., mez., nat-c., Nat-p., Nux-v., petr.
+EXERTION, physical, agg.: Acon., agar., Alum., alumn., ambr., am-c., am-m., anac., Arn., Ars., Ars-i., asaf., asar., aur., bar-c., benz-ac., bol., bor., bov., Bry., cact., Calc., murx., naja, Nat-a., Nat-c., Nat-m., nat-p., Sulph., sul-ac., thuj., tub., valer., verat., mez., nit-ac., Phos., puls., rhus-t., ruta, arg-n., arn., Ars., ars-h., ars-i., asaf., atro., Caust., cedr., cench., Cham., chel., chim., Chin., chin-a., chin-s., chlol., cic., cimic., hell., hep., hura, hydr-ac., hyos., Ign., Iod., kalm., kreos., Lach., lac-ac., laur., led., nit-ac., Nux-m., Nux-v., oena., ol-an., plan., Plb., Podo., psor., ptel., Puls., ran-b.
+FAINTNESS: morning: Alumn., Ars., carb-v., cocc., con., dios., kreos., nat-m., Nux-v., plb., puls.
+eating, before: Calc.
+8 to 9 a.m.: Phos.
+forenoon: Phos., sep., staph., stram.
+11 a.m.: Ind., lach., Sulph.
+exertion, on: Nat-m.
+8 to 9 p.m.: Nux-v.
+ascending hill, on: Agar.
+chill, during: Ars., asar., Sep.
+close room, in: Acon., asaf., ip., lach., Puls.
+coition, after: Agar., asaf., dig., nat-p., sep.
+constriction of chest: Acon.
+cough, during: Ars., coff., nux-v., phos., plb., Puls., sulph.
+diarrhea, before: Ars., sulph., sumb.
+after: Ars.
+discouraged, when: Ars.
+drowsy: Ars.
+eructation, after: Nux-v., caust., cham., Coff., Ign., Lach., nat-c.
+exertion, on: Ars., calc., carb-v., caust., cocc.
+frequent: Ars., phos.
+fright, after: Acon., gels., ign., lach., Op.
+hunger, from: Phos., sulph.
+hysterical (See Hysteria): Ars., cham., cimic., Cocc., Ign., lac-d., mosch., nat-m., nux-m.
+labor, during: Cimic., coff., Nux-v., Puls., Nux-v.
+on the side, while: Lyc., sil.
+during: Apis, berb., calc., cham., cimic., cocc., ign., Lach., mag-m., mosch., nat-m., nux-m., Nux-v., plb., puls., raph., sars.
+after: Chin., lach., lyc.
+moving, on: Ars., cocc., cupr., kali-c., nit-ac.
+odors, from: Ign., Nux-v., phos.
+of flowers: Phos., sang.
+pain, from: Apis, asaf., cham., cocc., coloc.
+heart, in: Lach.
+teeth, in: Chin., puls., verat., Lach., Nux-m., petr., verat.
+perspiration, during: Agar., apis., ars., carb-v.
+pregnancy: Bell., nux-m., nux-v., puls., sec.
+up, from: Acon., arn., Bry., carb-v., dios.
+speaking, from: Ars.
+standing, while: Alum., apis, bry., dig., lil-t.
+stool, before: Ars., dig., glon., puls., sars.
+during: Aloe, coll., dios., ox-ac., puls., sars.
+after: Ars., calc., cocc., colch., Con., cur.
+sudden: Phos., rhus-t., sep.
+temples, on rubbing, with both hands: Merc.
+vomiting, after: Ars., dig., elaps., gamb.
+open air, after: Nux-v.
+warm bath: Lach.
+warm room: Acon., ip., kreos., lach., lil-t., lyc., nux-v., Puls., Sep., spig., tab.
+FISTULAE of glands: Phos., sil., sulph.
+FLABBY feeling: Acon., agar., ambr., am-m., ant-t., arg-m., arn., Ars., asar., bar-c., bell., bov., bry., Calc., calc-p., calc-s., canth., Caps., carb-an., carb-v., Caust., cham., hep., Ign., iod., ip., kali-ar., kali-c., kali-n., kali-p., kali-s., laur., Lyc., mag-c., mag-m., Phos., plat., psor., puls., rhod., rhus-t., staph., stront., Sulph., tarax., teucr., thuj.
+hard parts, in: Caust., merc., mez.
+internally: Calc., kreos., Sep., chin., cupr., hell., kali-c., Lyc., nat-m.
+FOOD: beer agg.: Acon., aloe, ars., asaf., bell., bry., Puls., ran-s., rhus-t., ruta, sars., sec., sep.
+buckwheat agg.: Ip., Puls., verat., ptel., Puls., sep., spong., sulph., tarax.
+cabbage agg.: Ars., Bry., calc., carb-v., chin., cupr., hell., kali-c., Lyc., nat-m., nat-s.
+carrots agg.: Calc., lyc.
+cheese, old, agg: Ars., bry., coloc., ph-ac., Caust., Cham., cist., cocc., colch., cycl., form., glon., grat., hep., Ign., ip., kali-bi., Nux-v., ox-ac., ph-ac., plat., puls., rhus-t.
+amel.: Acon., agar., arg-m., ars., cann-i., cold drinks agg.: Agar., alum., anac., calc., Caust., cham., clem., coc-c., coff., cupr., kali-c., laur., onos, Phos., puls., arg-n., Ars., bar-c., bov., brom., bry., calad., kali-c., kali-i., kali-n., kreos., Lach., Lyc., nux-m., Nux-v., par., ph-ac., plb., puls.
+dry food agg.: Agar., Calc., chin., ip., lyc.
+farinaceous food agg.: Caust., lyc., nat-c., Nat-m., Nat-s., nux-v., sulph.
+fat, agg.: Acon., ant-c., ant-t., ars., asaf., nit-ac., nux-v., phos., ptel., Puls., ruta, sep.
+spoiled, agg.: Ars., carb-v., chin., puls., chin., cupr., hell., kali-c., Lyc., nat-m., dulc., ip., Puls., rumx.
+fruit agg.: Acon., aloe, ant-c., ant-t., Ars., bor., Bry., calc., calc-p., carb-v., Chin., Puls., rheum., rhod., ruta, sel., sep., sul-ac.
+amel.: Lach.
+bad, agg.: Ars., carb-v., chin., crot-h., lach.
+fresh, agg.: Caust., carb-v., cham., chel., Chin., cic., Con., cupr., stram., Sulph., sul-ac., valer., zinc.
+amel.: Apis, ars., iod., mez., ruta, verat.
+onions agg.: Lyc., nux-v., puls., thuj.
+oysters agg.: Aloe, brom., bry., lyc., podo.
+pancakes agg: Bry., ip., kali-c., Puls., verat., kali-chl., lyc., phos., Puls.
+pepper agg.: Ars., cina., nat-c., sep., sil.
+raw, agg.: Ars., bry., chin., lyc., puls., Ruta., nat-m., nat-s., nit-ac., phos., Puls., sep.
+salad agg.: Ars., bry., calc., carb-v., lach.
+salt agg.: Ars., calc., carb-v., dros., lyc., mag-m., nux-v., Phos., sel.
+sausages, spoiled, agg.: Ars., Bell., bry., spig., Sulph., xanth.
+smell of, agg.: Ars., cocc., Colch., dig.
+smoke food agg.: Calc., sil.
+spices agg.: Phos., calc., cham., Ign., merc., nat-c., ox-ac.
+tea agg: Chin., coff., dios., ferr., lach.
+vinegar agg.: Aloe., Ant-c., ars., bell., bor., warm drinks amel.: Alum., Ars., arg-n., mang., nux-m., Nux-v., pyrus., Rhus-t., euph., ferr., gran., hell., kali-c., Lach., nit-ac., nux-m., nux-v., par., Phos., ph-ac., Puls., rhod., rhus-t., sars., sep., sil., spig.
+FORMICATION, external parts: Acon., aesc., Nux-v., olnd., onos., op., pall., par., phos.
+internally: Acon., acon-f., agar., agn., alum., spig., spong., stann., staph., Sulph., tarax.
+bones: Acon., arn., cham., Colch., merc.
+FULL feeling externally: Ars., aur., aur-m.
+internally: Acon., Aesc., agar., alum., am-c., chel., Chin., cic., Cimic., cocc., coff., colch., Phos., ph-ac., phyt., plat., plb., psor., puls., staph., stict., stront., Sulph., sul-ac., thuj.
+GLANDERS: Ars., calc., ph-ac., sulph., Arn., ars., ars-i., bar-c., bar-m., Bell., bov., bry., cact., Calc., Calc-s., Canth., caps., carb-an., carb-s, Carb-v., cham., Chin., kali-i., kali-n., kali-p., kreos., Lach., led., lyc., Meli., Merc., Merc-c., mez., Mill., mosch., mur-ac., nat-c., Nat-m., Nit-ac., nux-m., Nux-v., Phos., ph-ac., plat., psor., Puls., rhod., rhus-t., Sabin., sang., sars., Sulph., Sul-ac., ter., thuj., trill., dig., dor., elaps., Lach., lat-m., nat-m.
+HEMORRHAGE: Crot-h., elaps., ip., lach., Phos., sul-ac.
+HAND, laying, on part amel.: Bell., calc.
+HARD bed, sensation of: Acon., agar., Arn., cact., Calc., calc-s., carb-an., carb-s., carb-v., kali-s., kreos., lac-ac., Lach., lob., Lyc., nux-v., olnd., op., ox-ac., petr., Phos., Sulph., Sul-ac., teucr., Thuj., Tub., valer.
+alternating with chills: Acon., ars., asar.
+chilliness, with: Agar., apis, ars., carb-v.
+after: Alum., arg-n., carb-v., par., sumb.
+emotions, from: Lach.
+exertion, from least: Alum., sep.
+followed by chill: Caust., sang.
+menses, before: Alum., iod.
+upwards: Alum., alumn., ars., asaf., calc.
+walking in open air: Caust.
+warm water were poured over one, as if: Ars.
+dashed over one: Calc., cann-s., nat-m.
+when an idea occurs vividly: Phos.
+HEAT, sensation of: Agar., agn., alum., am-c., ant-t., Apis, arg-n., ars., ars-i., asaf., asar., laur., Lyc., mag-c., mag-m., mang., merc., ph-ac., plat., Puls., ran-b., rheum., rhod., seneg., staph., Sulph., Sul-ac., teucr., thuj., lach., Phos., Puls., sep., sul-ac.
+bloodvessels, in: Agar., Ars., bry., calc., aran., arg-m., arg-n., Ars., ars-i., aur., Bar-c., bar-m., bor., cact., cadm., Calc., carb-s., carb-v., Caust., chel., chin., cinnb., Graph., Hep., Kali-a., Kali-bi., Kali-c., nux-m., Nux-v., ol-j., Phos., Ph-ac., plb., phos., Puls., ran-b., sep., Sil., staph., thuj.
+HEAVINESS externally: Acon., Aesc., agar., aur., bar-c., bar-m., Bell., bor., bov., Bry., nux-m., Nux-v., onos., op., par., petr., Phos., ph-ac., pic-ac., plat., plb., psor., Puls., Sulph., sul-ac., thuj., valer., verat., verb.
+internally: Acon., agar., agn., Aloe, alum., mur-ac., nat-c., Nat-m., nit-ac., nux-m., Nux-v., olnd., onos., op., par., Petr., Phos., ph-ac., plat., plb., prun., Puls., ran-b., squil, Stann., staph., stram., stront., Sulph., Bell., bry., calc., camph., cann-s., caps., chel., Chin., cina, Clem., coloc., Con.
+Glands: Agar., agn., alum., ambr., am-c., bar-c., Bar-m., Bell., bov., Brom., bry., Calc., Calc-f., camph., cann-s., canth., sil., spig., Spong., squil., staph., Sulph.
+Muscles: Alum., bad., bar-c., bry., carb-an., ambr., am-c., ant-c., arn., Ars., ars-i., asaf., asar., aur., bar-c., Bell., bor., bov., bry., Lach., led., lyc., mag-c., mag-m., mang., Puls., ran-b., rhus-t., sabad., sabin., samb.
+internally: Acon., agar, alum., ant-c., ant-t., apis, arg-mi., arn., Ars., ars-i., arum-t., Lach., laur., lil-t., lyc., mag-m., mang., Merc., mez., nat-a., nat-c., nat-m., nit-ac., Nux-v., op., par., pareir., petr., Phos., ph-ac., phyt., Plb., Puls., ran-b., ran-s.
+gangrenous: Ars., bell., Canth., carb-v., Lach., merc., phos., plb., rhus-t., Sec.
+Bloodvessels: Acon., ant-t., ars., ars-i., Bar-c.
+Bones: Acon., ars., ars-i., asaf., aur., aur-m., kreos., lach., lyc., mag-m., mang., Merc., psor., Puls., rhus-t., sep., Sil., spig., Staph.
+Glands: Acon., alumn., anan., arn., ars., Bell., bry., brom., bufo, Calc., cist., camph., kali-p., lach., laur., lyc., Merc., nit-ac., nux-v., petr., Phos., ph-ac., phyt., plb., squil., staph., Sulph., sul-ac., thuj., verat.
+Nerves: Acon., alum-sil., ars., Bell., cact.
+Serous membranes: Acon., am-c., Apis, apoc., arg-m., Ars., ars-i., asaf., aur., aur-m., bell., Bry., Calc., calc-p., carb-v., colch., ferr., Lyc., mag-m., merc., nat-m., phos., ph-ac., Bone: Calc., calc-p., Ruta, sul-ac., symph.
+INOCULATION: INTOXICATION, after: Acon., agar., am-m., nux-m., Nux-v., Op., ph-ac., puls., rheum.
+IRON, after abuse of: Ars., puls, sulph., Apis, Arn., ars., asaf., Asar., Aur., bar-c., Bell., bor., bov., bry., camph., cann-i., Canth., carb-s., caust., cham., Chin., chin-s., mag-c., mag-m., mang., Med., Merc., mez., Nux-v., par, petr., ph-ac., phos., plat.
+IRRITABILITY: brom., bry., Calc., Calc-i., camph, cann-s., asar., bar-c., Bell., bor. Bry., cact., calad., kali-i., kali-n., Lach., led., lil-t., lyc., arn, ars., bell., bov., bry, calad., Calc., Puls., ran-s, rhod., rhus-t., ruta, samb., sep.
+convulsions, as in: Acon., agar., alum., Caust., cham., chin., cic., coloc., cupr., merc., mez., mur-ac., nat-c., Nat-m., nit-ac.
+muscles: Acon., agar., alum., anac., ant-c., spig., stann., staph., Stram., Sulph., Sul-ac., ter., valer., viol-t., visc., Zinc.
+sleep, during: Agar., aloe, ambr., anac., sleep, on going to: Acon., agar., arg-m., Ars., cob., hyper., ign., Kali-c., phys., hydr-ac., kreos, Lach., mag-m., merc-i-r., sec., sep., Spig., staph., stict., Sulph.
+LASSITUDE: Acon., agar., ail., Alum., ambr., bism., bor., bov., bry., cact., Calad., Calc., carb-v., casc., caust., cham., chel., Chin., ferr-p., gels., Graph., guaj., hep., hyos., nit-ac., nux-m., Nux-v., olnd., op., ox-ac., evening: Ars, carb-v., Caust., graph., naja, eating after: Lyc., Ph-ac.
+menses, before: Calc., lyc.
+motion, on: Phos.
+sitting: Phos.
+talking, after: Alum.
+walking in open air amel.: Alum., Am-c.
+LEAD, chronic effects of: Alum., alumn., ars., bell, Caust., chin., nux-v., op., plat., sul-ac., phos., Sec., sep., sil., Sulph., tub.
+LIE down, inclination to: Acon., Alum., ambr., Ars., asar., aur., bapt., bar-c., bar-m., bell., nat-m., nat-p., nit-ac., Nux-v., op., petr., from: Alum., ambr., Arn., bar-c., bor., bry., Calc., calc-s., carb-an., carb-s., carb-v., dulc., ferr., ferr-p., Graph., iod., kali-c.
+LOSS of fluids: Agar., alum., anac., ant-c., ant-t., bry., calad., Calc., Calc-p., cann-s., canth., cham., Chin., chin-a., Chin-s., cina, coff., Graph., hep., ign., iod., ip., kali-c., kali-p., nux-v., petr., phos., Ph-ac., plb., Puls., am-c., am-m., anac., ant-c., ant-t., Apis, apoc., aral., arg-m., arn., Ars., ars-i., asaf., kreos., lach., lact., laur., led., Lyc., mag-c., par., petr., phel., Phos., ph-ac., Plat., plb., Puls., raph., ran-b., rheum., rhod., Rhus-t.
+amel.: Acon., agar., agn., alum., ambr., am-c., ars., Asar., bar-c., Bell., bor., Bry., calad., Calc., calc-p., camph., cann-s., canth., caps., merc., mez., mur-ac., nat-c., Nat-m., nit-ac., nux-m., Nux-v., olnd., op., par., petr., Ars., asaf., asar., Aur., bar-c., bell., bism., ip., kali-c., kali-n., lach., laur., led., Lyc., ph-ac., Plat., plb., Puls., ran-b., ran-s.
+amel.: Acon., agar., agn., ambr., am-m., anac., ant-c., ant-t, arg-m., arn., Ars., calad., Calc., calc-f., camph., cann-s., nat-c., Nat-m., Nit-ac., nux-m., Nux-v., Puls., ran-b., rheum., rhod., rhus-t., am-c., ars., bar-c., Bell., bry., calc., chel., Nux-v., op., par., Phos., plat., ran-b., amel.: Acon., aeth., am-c., Am-m., anac, calad., Calc., canth, carb-an., caust.
+bed, in, agg.: Acon., agar., agn., aloe, alum., Lach., laur., led., lil-t., lith., Lyc., mag-c., mang., meny, Merc., merc-i-f., mez., petr., Phos., ph-ac., phyt., plat., plb., Puls., stann., staph., stict., stram., stront., Sulph., amel.: Acon., agar., ambr., am-m., anac., Nux-v., olnd., par., petr., phos., ph-ac., side, on, agg.: Acon., am-c., am-m., Anac., calad., Calc., canth., Carb-an., caust., ip., Kali-c., kreos, lach., Lyc., merc.
+amel.: Acon., alum., am-c., am-m., arn, iod., kali-c., lach., nat-m., Nux-v., par., right, agg.: Acon., alum., am-m., anac., kreos., lyc., Merc., mag-m., mur-ac., left, agg.: Acon., ail., am-c., anac., ant-t., nat-p., nat-s., op., bar., petr., Phos., plat., Puls., rhus-t., seneg., seb., sil., sulph., nux-v., phos., plan., Puls., rhus-t., sep.
+amel.: Acon., agar., ambr., am-c., am-m.
+MAGNETISM amel.: Acon., bar-c., bell., calc., nat-c., nux-v., Phos., sabin., sep., sil., mosch., nux-v., Puls., rhus-t., sulph.
+MENSES, before: Alum., am-c., am-m., arg-n., bry., Calc., Calc-p., canth., carb-an., carb-s., kali-c., kali-n., kreos., Lach., Lyc., mag-c., mur-ac., nat-c., Nat-m., nat-p, nux-m., nux-v., petr., phos., ph-ac., plat., Puls., spong., stann., staph., Sulph., sul-ac., valer., Verat., vib., Zinc.
+at beginning of: Acon., asar., bell., bry., cact., Graph., hep., Hyos., ign., iod., Kali-c., nat-m., nat-p., nit-ac., nux-m., Nux-v., oena., op., petr., phos., ph-ac., plat., Puls., sil, spong., stann., stram., stront., Sulph., sul-ac., thea., verat., vib., Zinc.
+amel.: Cycl., kali-c., kali-p., lac-c., Lach., after: Alum., am-c., Bor., bov., bry, calc., con, cupr., ferr., ferr-i., Graph., iod., kali-c., Kreos., Lach., lil-t., lyc., mag-c., Zinc.
+Lach., led., mez., mur-ac., Nat-s., Nit-ac., Sulph., thuj., valer., viol-t., zinc.
+asaf, asar., aspar., aur., bapt., bar-c., Bell., mang., meli., meny., Merc., merc-c., mez., nux-m., Nux-v., olnd., ol-an., onos., op., stram., stront., Sulph., sul-ac., tarax., amel.: Acon., agar., aloe, alum., ambr., am-c., kreos., lach., laur., lil-t., lith., lob., Lyc., ph-ac., plat., Pyrog., Puls., rat., Rhod., sep., spig., stann., stront., Sulph., sul-ac., at beginning of, agg. (see walking): Agar., led., Lyc., mag-c., nit-ac., petr., phos., ph-ac., plat., plb., psor., Puls., rhod., after, agg.: Agar., am-c., anac., arn., Ars., phos., plb., Puls., Rhus-t., ruta, sabin., of affected part agg.: Acon., Aesc., agar., nat-c., ph-ac., Puls., rhod., Rhus-t., Sulph., tarax., thuj., valer., verb., viol-t.
+aversion to: Acon., alum., ambr., am-c., anac., ant-c., ant-t., arn., Ars., asar., bar-c, Bell., nat-a., nat-c., nat-m., nit-ac., Nux-v., op., sep, Sil., stann., stront., Sulph., tarax., continued, amel.: Agar., ambr., am-m., bry., Puls., rhod., rhus-t., ruta, sabad., sabin., benz-ac., bisu, bor., bov, bry., Calc., Lach., laur., Lyc., mag-c., mag-m., Merc., Nux-v., olud., par., Petr., Phos., ph-ac., plat., plb., podo., Puls., ran-b., rheum, squil., stann., staph., Sulph., sul-ac., Tab., NARCOTICS agg.: Acon., agar., ars., aur., Bell., Lach., lyc., merc., mosch., nat-c., nat-m., nit-ac., nux-m., Nux-v., op., phos., ph-ac.
+NECROSIS bones: Ars., asaf., bell., con, euph., gnaph., Graph., hell., hydr-ac., Hyos., Lyc., mag-m., merc., mosch., nux-m., par., petr., Phos., Ph-ac., phys., pic-ac., internally: Acon., ambr., am-c, ars., asaf., lach., nat-m., phos, Puls., Rhus-t., sil., Graph., guaj., hep., hyos, ign., iod., ip., kreos., laur., led., Lyc., mag-c., mag-m., op., par., petr., phos., plat., plb., Puls., spots, in: Lyc., plat.
+suffering parts, of: Acon., alum., ambr., anac., Plat., Plb., Puls., rheum., rhod., rhus-t., NURSING children: Acon., agn., ars., bell., Bor., bry., Calc., calc-p., carb-an., carb-v., OBESITY: Agar., ambr., am-m., ant-c., asaf., aur., bar-c., bor., bry., Calc., calc-ar., cupr., euph., Ferr., Graph., guaj., iod., ip., Coca., colch., con., iod., Kali-c., Lyc., ONANISM, from: Agar., alum., ambr., anac., Calc., calc-s., carb-v., Chin., Cocc., Con., Staph., Sulph.
+ORGASM of blood: Acon., aloe, alum., ambr., Arg-n., arn., ars-i., Aur., bar-c., Bell., berb., bov., bry., Calc., calc-ar., calc-s., kiss., Kreos., Lach., lil-t., Lyc., mag-m., petr., Phos., plb., rhod., puls., rhus-t., Sulph., tab., thuj., tell., verat.
+after restless sleep: Calc.
+on waking: Graph., lyc., nux-v.
+rising, amel.: Nux-v.
+beer, after: Sulph.
+disagreeable news, from: Lach.
+eating amel.: Alum., chin., cupr., Hyos., Ign., kali-c., kali-p., lach., op., petr., phos., ph-ac., plat., Puls., sep., menses, before: Alum., cupr.
+during: Calc., merl.
+sensual impressions, from: Phos.
+and disappear gradually: Acon., arn., ars., appear suddenly: Agar., arg-m., aster., Bell., aster., Bell., carb-s., fl-ac., ign., Kali-bi., led., lyc., mag-c., mag-m., mang., Merc., op., petr., phos., Ph-ac., plb., Puls., ran-s., fl-ac., kalm., Kali-i., mang., mez., Merc.
+Glands: Acon., alum., ambr., am-c., ant-c., Bell., bry., calc., cann-s., canth., carb-an., ign., iod., kali-c., kali-s., Lyc., mag-c., Merc., nat-m., nit-ac., nux-v., petr., Phos., Paralyzed parts: Agar., arn., ars., bell., calc., benumbing: Acon., agar., agn., am-c., anac., biting: Acon., agar., agn., alum., ambr., nat-c., nat-m., nit-ac., nux-m., Nux-v., stanu., staph., stram., stront., Sulph., sul-ac., teucr, thuj., valer., verat., viol-t., Zinc.
+boring: Acon., agar., aloe, alum., am-c., Arg-n., arn., ars, asaf., Aur., bar-c., Bell., ph-ac., plat., plb., Puls., ran-b., Ran-s., inward: Alum., bell., calc., cocc., kali-c., Bones: Agar., asaf., aran., Aur., bar-c., hep., lach., lyc., mang., Merc., mez., Glands: Bell., puls., sabad., ant-t., Apis, arg-m., arn., Ars., ars-i., caps., carb-an., Carb-s., Carb-v., Caust., mag-m., manc., mang., meny, Merc., nat-c., Nat-m., nit-ac., nux-m., Nux-v., olnd., op., paeon., par., petr., Phos., Ph-ac., part that is grasped, in the: Caust.
+internally: Abies-c., acet-ac., Acon., acon.f., arg-n., arn., Ars., ars-i., Arum-t., asaf., asar., aur., bapt., bar-c., bar-m., Bell., Graph., hell., hep., hydr., byos., ign., nat-m., Nit-ac., nux-m., Nux-v., op., osm., ox-ac., par., petr., Phos., ph-ac., phyt., plat., plb., Prun., psor., Puls., stram, stront., Sulph., sul-ac., tarax., as from: Agar., aloe, alum., ambr., apis, Blood-vessels: Agar., Ars., aur., bry., Glands: Alum., ant-c., arn., Ars., bell., Parts grasped with the hand: Bry., Caust.
+internally: Acon., agn., Ambr., am-m., dulc., ferr., graph., hyos., Ign., iod., Bones: Alum., Bell., bism., bor., brom., bry., Calc., Bell., berb., bism., bor., bov., bry., calad., Calc., calc-p., camph., cann-i., cann-s., laur., led., Lyc., mag-c., mag-m., mang., meny., Merc., merc-c., mez., mosch., mur-ac., nat-c., Nat-m., nit-sc., nux-m., Nux-v., op., par., petr., phos., ph-ac., plat., plb., Puls., ran-b., ran-s., rheum., vib., viol-t., Zinc., zing.
+Bones, in long: Calc., osm., sabad., Acon., agar., alum., ambr., am-c., am-m., Glands: Acon., am-m., arn., asaf., bell., drawing: Acon., aloe, am-c., anac., bar-c., euon., ferr-ar., gamb., goss., Graph., guare., morning after rising: Graph.
+menses, during: Phos.
+extending to fingers: Apis.
+toes: Apis.
+gnawing: Ars, caust., Merc., sil., staph., internally: Agar., alum., am-m., arg-m., canth., carb-v., Caust., chel., cocc., phos., ph-ac., plat., Puls., ran-s., rhod., Bones: Am-m., arg-m., Bell., brom., canth., bism., bor, bov., bry., Calc., camph., canth., caps, carb-s., carb-v., Caust., cham., Nat-m., nit-ac., Nux-v., olnd., op., par., affected parts; Merc., anac., arn., ars., Bell., bor., bry., calc., cann-s., carb-v., caust., cham., Chin., Ign., Kali-c., lyc, mang., meny., merc., plat., plb., Puls., ran-b., ran-s., rhus-t., sep., Sil., spig., stann., stront., Sulph., sil., Sulph., valer., asaf., asar., aur., bar-c., Bell., bism., bov., Nux-v., olnd., par., petr., phos., ph-ac., pinching: Agar., alum., ambr., anac., Arn., ars., ars-i., asar., Bell., bov., bry., calc., nux-m., Nux-v., op., par., petr., phos., externally: Acon., anac., ant-c., arg-m., bism., bor., bov., bry., Calc., camph., euphr., gamb., Graph., guaj., hell., hep., hyos., Ign., iod., ip., kali-c., kreos., Lyc., Bones: Bell., calc., cina, ign., mez., osm., Agar., agn., aloe, alum., ambr., am-m., carb-s., Caust., cedr., cham., chel., chin., nat-c., nat-m., Nit-ac., nux-m., Nux-v., olnd., ox-ac., par., pareir., petr., Phos., Puls., ran-b., ran-s., rheum., Rhod., squil., Stann., Staph., stict., stront., Sulph., internally: Acon., aesc., agar., agn., ail., Ars., ars-i., arum-t, Asaf., asar., aur., bar-c., Bell., berb., bism., bor., bov., Brom., bry., cact., calad., Calc., camph., chen., Chin., cic., Cimic., cina, clem., kreos., Lach., laur., led., lept., Lil-t., lith., Lyc., mag-c., mang., Meny., merc., nit-ac., nux-m., Nux-v., olnd., onos., stram., stront., Sulph., sul-ac., tab., viol-o., viol-t., vip., xanth., Zinc.
+inward: Acon., agar., alum., Anac., ant-c., load, as from: Abies-n., Acon., aesc., agar., asar., aur., bar-c., Bell., bism., bor., bov., nat-m., nit-ac., nux-m., Nux-v., olnd., op., Par., petr., Phos., ph-ac., plat., plb., stann., staph., Stict., stront., Sulph., Acon., agar., Alum., ambr., nat-m., nit-ac., nux-m., Nux-v., olnd., stront., Sulph., sul-ac., tarax., teucr., within outward, from: Acon., aloe, alum., ph-ac., plat., prun., Puls., ran-b., ran-s., squil., stann., staph., stront., Sulph., Merc., mur-ac., osm., par., ph-ac., puls., Muscles: Agar., agn., am-m., anac., arg-m., in muscles: Agar., anac., arg-m., arn., scraped, as if: Acon., aesc., alumn., arg-n., Nux-v., osm., par., phos., ph-ac., phyt., Puls., rhus-t., rumx., sabad., sel., seneg., spig., stann., Sulph., tell., Verat.
+Periosteum: Asaf., Chin., coloc., Ph-ac., externally: Acon., aesc., agar., aloe, alum., Bell., bov., bry., calad., calc., camph., carb-v., caust., cedr., cham., chel., Chin., mur-ac., nat-c., Nat-m., nit-ac., nux-m., Nux-v., ox-ac., par., petr., phos., ph-ac., stram., stront., Sulph., sul-ac., tarax., internally: Acon., aesc., agar., alum., ambr., Chin., cina, clem., cocc., coff., coloc., con., nux-v., op., phos., ph-ac., phyt., Puls., evening: Lyc.
+midnight, after: Caust.
+open air amel.: Caust.
+spots, in: Aloe, ox-ac., plat., Sabad.
+working amel.: Caust.
+Bones, as if: Acon., agar., am-m., Arg-m., PAIN.
+ars-i., Asaf., asar., aur., bar-c., bar-m., Bell., berb., bism., bor., bov., Bry., calad., Calc., Merc. mez., mosch., mur-ac., naja, nat-a., phos., ph-ac., phyt., plat., plb., psor., Puls., stann., Staph., still., stram., stront., Sulph., verb., viol-o., viol-t., Zinc.
+cham., Chel., Chin., chin-a., cic., cimic., guaj., hell., hep., hydr., hyos., Ign., iod., kali-n., Kali-s., kalm., kreos., Lach., meny., Merc., Merc-c., merc-i-r., merc-n., phel., Phos., ph-ac., phyt., plan., plat., Plb., prun., psor., Puls., Ran-b., ran-s., burning: Ars., ol-an.
+cold needles, like: Agar.
+inward: Acon., alum., am-m., arg-m., Arn., outward: Alum., am-m., ant-c., Arg-m., Chin., clem., cocc., coff., colch., Con., laur., lith., lyc., mang., meny., Merc., Sulph., tarax., ther., thuj., Valer., verat., transversely: Acon., ambr., anac., arg-m., atro., asc-t., Bell., bov., bry., calc., canth., upward: Acon., alum., arn., ars., bar-c., Bell., bry., calc., canth., carb-v., caust., Bones: Acon., agar., agn., am-c., anac., ant-c., arg-m., ars., asaf., aur., Bell., Bry., Calc., canth., carb-v., Caust., cedr., chel., lach., lyc., mag-c., mang., Merc., mez., Puls., ran-s., ruta, sabin., samb., Sars., -Sep., sil., spig., staph., stront., Sulph., Glands: Acon., agn., alum., am-m., arg-m., Merc., mez., mur-ac., nat-c., nat-m., Nit-ac., nux-v., phos., ph-ac., plb., Puls., Muscles: Acon., agar., agn., alum., ambr., bar-m., Bell., bism., bor., bov., Bry., calad., Calc., camph., cann-s., canth., mag-c., mag-m., mang., meny., Merc., phos., ph-ac., plat., plb., Puls., ran-b., stront., Sulph., sul-ac., Tarax., Thuj., burning in muscles: Acon., alum., am-m., mang., merc., Mez., mur-ac., Nux-v., like hot needles: Ars., ol-an.
+lyc., mang., meny., mez., mur-ac., Nux-v., asaf., asar., aur., bell., bism., bor., Calc., nat-m., nux-v., olnd., phos., ph-ac., Puls., tearing, externally: Acon., aesc., agar., agn., bar-c., bar-m., Bell., Berb., bism., bor., cham., chel., Chin., chin-a., cic., cina, Lyc., mag-c., mag-m., mang., meny., merc., Nat-m., nat-p., Nat-s., Nit-ac., nux-m., plat., plb., Puls., ran-b., ran-s., rheum., Sulph., sul-ac., tarax., teucr., thuj., valer., verat., verb., viol-o., viol-t., Zinc.
+internally: Acon., aesc., agar., agn., aloe, asar., aur., bar-c., Bell., Berb., bism., Led., Lyc., mag-c., mag-m., mang., meny., Merc., mez., mosch., mur-ac., Nux-v., olnd., op., par., petr., phos., ph-ac., plat., plb., Puls., ran-b., ran-s., stram., stront., Sulph., sul-ac., tarax., asunder: Agar., alum., am-m., anac., arn., mez., mur-ac., nat-m., Nit-ac., Nux-v., downward: Acon., agar., agn., alum., anac., bar-m., Bell., bism., bry., calc., canth., kali-n., kali-p., kali-s., laur., Lyc., mag-c., Sulph., thuj., valer..verat., verb., zinc.
+upward: Acon., alum., anac., ant-c., arn., ars., asaf., aur., Bell., bism., bor., calc., Bones: Acon., agar., alum., am-m., anac., caust., cham., chel., Chin., cina, cocc., Kali-c., kali-n., Lach., laur., lyc., mag-c., mag-m., mang., Merc., merc-c., mez., jerking: Ang., bry., Chin., cupr., mang.
+paralytic: Bell., bism., chel., chin., cocc., sticking: Bell., cina, mur-ac., sabin.
+carb-an., carb-v., caust., cham., Chin., Muscles: Acon., agar., agn., alum., ambr., bar-m., bell., bism., bor., bov., bry., Calc., Carb-v., Caust., cham., chel., chin., cic., laur., led., Lyc., mag-c., mag-m., mang., meny., Merc., mez., mosch., mur-ac., stann., Staph., Stront., Sulph., sul-ac., viol-o., viol-t., Zinc.
+burning in muscles: Bell., carb-v., caust., jerking in muscles: Acon., agar., agn., alum., bell., calc., camph., Chin., cina, merc., nat-c., phos., ph-ac., plat., Puls., pressing in muscles: Acon., ambr., anac., sulph., teucr., thuj., Zinc.
+twinging: Aloe, alum., Am-m., ant-c., apis, twistings: Agar., alum., am-m., anac., ant-c., nux-v., petr., phos., ph-ac., plat., Puls., internally: Acon., am-c., arg-n., ars., bell., hell., hep., kali-c., kreos., Lach., laur., Puls., Ran-b., rhus-t., ruta, sabad., sep., Phos., puls., rhus-t., ruta, Sil., staph., undulating: Acon., anac., ant-t., arn., asaf., wandering: Acon., aesc., am-c., am-m., aur., Puls., rhod., sabin., sal-ac., sars., sep., hyos., kali-br., mag-p., Merc., phos., plb., Rhus-t., tab., tarent., Zinc.
+gradually appearing: Caust.
+intermittent fever, after: Nat-m.
+internally: Acon., ant-c., ars., bar-c., Bell., one-sided: Acon., agar., alum., am-m., anac., carb-v., Caust., chel., chin., cocc., coc-c., right: Apis, arn., bell., calc., canth., Caust., hydr-ac., Lach., nit-ac., Nux-v., ox-ac., con., lach., laur., nux-v., Phos., stann., coldness of the paralyzed part. with: Ars., heat in the prralyzed part: Alum., phos.
+suppression of eruption: Caust., hep.
+arn., ars., asaf., asar., aur., bar-c., Bell., petr., phos., ph-ac., plb., Puls., rheum., Lyc., merc., nat-m., nux-m., nux-v., Olnd., post-diphtheritic: Ars., caust., Cocc., con., single parts: Caust.
+PERIODICITY: Acon., agar.. Alum., am-br., Ars., asar., bar-c., bell., bov., bry., bufo, Cedr., Chin., Chin-a., Chin-s., cina, clem., merc., nat-a., Nat-m., nat-s., Nit-ac., PERIODICITY.
+annually: Ars., thuj.
+chin-s., con., Lach., plan..psor., puls.
+twenty-eighth day: Nux-m., Nux-v., puls., PERSPIRATION gives no relief: Acon., anac., Caust., Cham., chel., chin., cimx, cina, kreos., led., lyc., mang., Merc., mez., nit-ac., Nux-v., Op., par., phos., ph-ac., stann., staph., Stram., stront., Sulph., amel.: Ars., bov., Bry., calad., calc., Cupr., after, agg.: Ars., bell., bry., calc., carb-v., Chin., con., ign., iod., kali-c., lyc., merc., amel.: Acon., aesc., ambr., am-m., ant-t., kali-n., led., lyc., mag-m., Nat-m., nit-ac., cold, amel.: Nux-v.
+suppression of: Acon., am-c., anth., arn., apis, ars., Bell., bry., cadm., Calc., cann-s., carb-v., Cham., Chin., clem., coff., Colch., Sulph., teucr., verb., viol-o.
+PLETHORA: Acon., alum., ambr., am-c., arn., ars., Aur., bar-c., Bell., bov., Bry., Calc., led., Lyc., mag-m., merc., mosch., nat-c., Nat-m., nit-ac., nux-v., op., petr., Phos., stann., staph., stram., stront., Sulph., PLUG, sensation of, externally: Agar., arn., internally: Acon., agar., Aloe, ambr., am-br., ferr., graph., hell., hep., Ign., iod., kali-c., POLYPUS: Ambr., ant-c., aur., bell., Calc., Phos., ph-ac., puls., sang., sep., sil., Staph., PRESSURE agg.: Acon., Agar., alum., ambr., am-br., am-c., am-m., anac., ant-c., Apis, kali-i., kali-n., kali-p., Lach., laur., led., Lil-t., Lyc., mag-c., mag-m., mang., meny., chel., Chin., cina, cinnb., clem., Coloc., Puls., hus-t., ruta, sabad., sabin., sang., cham., coloc., Ign., kali-c., lyc., nux-v., Puls., rhus-t., sep., stann., viol-o., viol-t.
+PRICKLING externally: Acon., agar., ail., PULSATION, externally: Acon., asc., agar., calad., Calc., calc-p., calc-s., cann-s., canth., Glon., Graph., guaj., hell., helod-hor., hep., kali-n., kali-p., Kali-s., kiss., Kreos., Lach., nat-a., nat-c., Nat-m., nat-p., nat-s., nít-ac., phos., ph-ac., phys., phyt., plat., plb., Puls., morning on waking: Bell.
+coughing, from: Calc.
+half awake, while: Sulph.
+cough, during: Calc.
+headache: Lach.
+sleep, during: Nat-m., sulph.
+standing: Alum.
+PULSATION.
+internally: Acon., aeth., agar., aloe, Alum., cact., calad., Calc., calc-p., camph, Cann-i., petr., Phos., ph-ac., phys., pic-ac., plan., plat., plb., psor., Puls., ran-b., rheum., Merc., nat-c., nit-ac., phos., rhod., sabad., PULSE abnormal: Acon., agar., agn., ambr., arn., Ars., Ars-i., asaf., asar., aur., bar-c., Bell., bism., bor., bov., bry., calad., calc., kali-c., kali-n., Kreos., Lach., laur., led., olnd., Op., par., petr., Phos., Ph-ac., plat., PULSE.
+bounding: Ars., benz-ac., camph., cann-i., double: Agar., bell., cycl., glon., phos., plb., febrile: Acon., alum., ars., bell., bcv., lac-ac., fluttering: Apis, arn., ars., colch., crot-h., gels., kali-bi., kali-n., Nux-v., op., ph-ac., innumerable, rapid: Acon., aesc., aeth., agar., anac., ant-c., ant-t., Apis, arg-m., arg-n., Arn., Ars., Ars-i., asaf., asar., aster., Aur., lob., lyc., lycps., manc., mang., Merc., mur-ac., naja, nat-a., nat-c., Nat-m., nat-s., nicc., nit-ac., nux-m., Nux-v., olnd., onos., Op., osm., ox-ac., par., petr., phel., Phos., Stann., staph., Stram., Sulph., sul-ac., vesp., Zinc.
+morning: Agar., ail., ars., asaf., canth., forenoon: Calc., chin., mez., op., plant.
+afternoon: Lyc.
+carb-an., Caust., cinnb., crot-h., dulc., eating, after: Arg-n., iod., Lyc., nux-v., faster than the heart-beat: Acon., arn., gels., graph., iod., lycps., Nat-m., nux-v., stool, after: Agar., Con.
+vexation, after: Acon., arg-n., Cham., warm applications, from: Sulph.
+and intermittent: Acon., agar., aloe, alum., and small: Acon., aeth., alum., apis, arn., Ars., ars-i., asaf., aur., aur-m., bell., mur-ac., nat-m., nit-ac., nux-m., Nux-v., strong and small: Acon., apis, arn., ars., full: Acet-ac., Acon., aesc., aloe, all-c., Ant-t., bapt., bar-c., bar-m., Bell., benz-ac., Berb., evening: Acon., hell., olnd., ran-b., night: Merc.
+hard: Acon., aesc., all-c., am-c., am-m., ant-c., bar-c., bar-m., Bell., benz-ac., Berb., bism., heavy: Phos., stram.
+PULSE.
+imperceptible: Acon., agn., ant-t, ars., bell., imperceptible, almost: Acon., am-c., ant-t., carb-ac., carb-v., cedr., Chin., chin-s., lil-t., lob., Merc., merc-c., merc-cy., mez., mur-ac., naja, nat-a., Nat-m., nit-ac., irregular: Acon., agar., ang., aloe, alum., Chin., chin-a., cimic., cimx., cor-r., coff., kalm., Lach., laur., lob., lycps., mang., nat-a., Nat-m., nit-ac., nux-v., olnd., op., stool, after: Agar.
+and slow: Acon., arn., ars., asaf., bell., jerking: Acon., aur., bar-c., dulc., plb.
+evening: Ars., graph., phyt., nat-a.
+slower than the beat of heart: Agar., cann-s., small: Acon., agar., alum., ant-c., ant-t., apis, arn., Ars., ars-i., asaf., aur., aur-m., kalm., kreos., lac-ac., Lach., laur., lob., spasmodic: Ars., bism., cupr., merc., nux-m., strong: Acon., aloe, am-c., ant-t., apis, arn., thready: Acon., alum., arn., ars., bell., camph., tremulous: Acon., ambr., Ant-t., ars., bell., Calc., camph., cann-i., canth. carb-ac., cic., night: Calc.
+eating, after: Calc.
+undulating: Ars., camph., crot-h., dig., op., Ant-t., apis, arn., Ars., asaf., aspar., Aur., Lach., Laur., lac-ac., lil-t., lob., lycps., apis, Arn., ars., asaf., bell., bry., Calc., merc., Nat-m., nux-v., ph-ac., phos., plb., Puls., samb., sep., stann., sul-ac., sulph., QUIVERING: Am-c., Bell., berb., bism., calc., sil., stann., stront., Sulph., verb.
+all over, followed by vertigo: Calc.
+Glands: Bell., calc., kali-c., mez., nat-c., sil.
+REACTION, lack of: Agar., alum., Ambr., Am-c., bar-c., bism, brom., bry., Calc., calci., stann., stram., stront., syph., Sulph., tarent., RELAXATION of muscles: Agar., ambr., ant-t., arn., ars., asaf., bor., bry., Calc., camph., Nux-v., puls., rhus-t., sulph.
+RIDING horseback agg.: Ars., bell., bry., graph., amel.: Ars., brom., kali-n, Nit-ac., phos.
+after: Graph., kali-n., nat-c., nat-m., nit-ac., RISING up agg.: Acon., alum., am-m., anac., Bell., bov., Bry., cact., calad., cann-i., merc., mur-ac., nat-m., nit-ac., Nux-v., staph., stram., sul-ac., Sulph., tarax., amel.: Acon., alum., Am-c., am-m., ant-t., Ars., asaf., aur., bar-c., bell., bor., bov., bry., Calc., cann-s., canth., carb-v., caust., ph-ac., Puls., seneg., Sep., sil., spig., Stront., Sulph.
+amel.: Acon., agar., agn., alum., ambr., ars., asaf., bell., bor., bov., bry., Calc., ol-an., olnd., osm., pall., Phos., ph-ac., RUNNING agg.: Alum., arg-m., arn., Ars., olnd., phos., plb., Puls., rheum, rhod., spong., squil., staph., Sulph., sul-ac., verat., amel.: Caust., ign., nat-m., Sep., sil., stann.
+Bell., bry., calc., carb-ac., carb-v., Cham., kreos., lyc., mag-m., Merc., Mur-ac., SENSITIVENESS externally: Acon., aesc., agar., ant-t., Apis, arg-m., Arn., ars., asaf., aur., bapt., bar-c., Bell., bor., bov., bry., calc., carb-an., carb-v., caust., Chin., Chin-s., kali-p., kali-s., kreos., Lach., led., lyc., nit-ac., nux-m., Nux-v., olnd., op., par., petr., Phos., ph-ac., plb., psor., Puls., Ran-b., internally: Acon., agar., alum., am-c., ant-c., Lach., laur., led., lil-t., mag-c., mag-m., nat-a., nat-c., Nat-m., nit-ac., nux-v., olnd., osm., par., Phos., puls., ran-b., rhus-t., to pain: Acon., agar., alum., ambr., am-c., Ign., iod., ip., kali-ar., kali-c., kali-p., Lach., laur., led., Lyc., mag-c., mag-m., nux-m., Nux-v., olnd., petr., Phos., ph-ac., phyt., plb., Psor., Puls., rhus-t., sabad., nat-c., Phos., puls., rhus-t., sil., stram., nat-c., nit-ac., nux-v., petr., ph-ac., Phos., SEPTICEMIA: Anthr., apis, arg-n., arn., Ars., kali-p., Lach., lyc., phos., puls., Pyrog., SEXUAL excesses, after: Acon., Agar., agn., bar-c., bell., bor., bov., bry., calad., Calc., kali-n., Kali-p., led., Lyc., mag-m., merc., mez., mosch., nat-c., Nat-m., Nat-p., nit-ac., Nux-v., op., petr., Phos., Ph-ac., plat., squil., stann, Staph., Sulph., thuj., valer., zinc.
+desire, suppression of, agg.: Apis, berb., ph-ac., pic-ac., plat., Puls.
+SHOCKS from injury: Acon., am-c., Arn., bell., coff., cupr., gels., Hyper., ip., Lach., SHOCKS.
+electric-like: Acon., agar., ail., alum., ambr., Ars., art-v., bar-c., bar-m., bell., bufo, epilepsy, before: Ars.
+motion or rest, during: Graph.
+on going to: Agar., alum., Arg-m., Ars., touching anything: Alum.
+SHUDDERING, nervous: Acon., anac., am-m., mang., mez., nat-m., nux-m., Nux-v., phos., Alum., ambr., am-c., am-m., Anac., ant-c., kali-n., Kali-p., Kreos., Lach., laur., led., Lyc., mag-c., mag-m., mang., meny., merc., alternating sides: Agar., ant-c., Lac-c.
+crosswise, left upper and right lower: Agar., left lower and right upper: Acon., agn., Phos., plat., plb., ran-b., rheum., rhus-t., Apis, Arg-m., arn., Ars., ars-i., Aur., Bapt., Bell., bism., Bor., brom., Bry., Calc., calc-p., cann-i., cann-s., Canth., caps., kalm., kreos., lil-t., lith., Lyc., mag-m., nux-m., Nux-v., op., pall., par., petr., phel., Phos., Ph-ac., stront., stry., Sulph., Sul-ac., sul-i., sumb., then left: Acet-ac., acon., aspar., bell., Lyc., left: Acon., all-c., aloe, am-br., anac., ant-c., ferr-p., gels., Graph., guaj., hep., ign., ip., iris, kali-chl., Kreos., Lach., lith., mag-m., Phos., phys., plb., ran-b., ran-s., rhod., Stann., staph., stront., Sulph., sul-ac., tab., then right: Acon., aloe., colch., dulc., elaps, kali-c., kreos., Lach., naja, nit-mur-ac., SITTING, while, agg.: Acon., Agar., agn., aloe, ant-t., arg-m., arn., Ars., asaf., asar., aur., Lyc., mag-c., mag-m., mang., meny., merc., petr., Phos., ph-ac., Plat., plb., prun., stann., staph., stram., stront., Sulph., Verb., viol-o., Viol-t., Zinc.
+amel.: Acon., agar., agn., alum., am-c., Nux-v., op., par., petr., phos., ph-ac., amel.: Acon., ambr., anac., ant-c., ant-t., SLEEP, before, agg.: Acon., agar., agn., alum., Ars., asar., aur., bar-c., bell., bism., bor., Bry., calad., Calc., camph., canth., caps., Merc., mez., mosch., mur-ac., nat-a., nat-c., Phos., ph-ac., plat., plb., Puls., ran-b., spong., stann., staph., stront., Sulph., at beginning of, agg.: Agar., agn., am-m., aral., arg-m., arn., Ars., aur., bapt., bar-c., Bell., bor., Bry., calad., calc., caps., carb-an., nat-m., nux-v., phos., ph-ac., Puls., ran-b., Arn., Ars., aur., bar-c., bar-m., Bell., mag-m., mang., meny., Merc., mez., phos., ph-ac., plat., plb., Puls., ran-b., ran-s., Sulph., sul-ac., thuj., valer., verat., verb., viol-t., Zinc.
+lac-c., Lach., lyc., mag-c., mur-ac., nat-a., staph., Stram., Sulph., thuj., verat.
+amel.: Acon., agar., ambr., am-m., apis, Phos., ph-ac., puls., ruta, sabin., samb., falling asleep, on, amel.: Merc.
+Sulph., verat.
+Nux-v., olnd., op., ph-ac., puls., ruta, sabin., SLOW repair of broken bones: Asaf., Calc., SMALLER, sensation: Agar., calc., croc., euphr., SMOKE agg.: Calc., caust., euphr., nat-m., SNOW-AIR agg.: Calc., caust., cic., Con., lyc., SOFTENING bones: Am-c., Asaf., bell., Calc., lyc.. Merc., mez., nit-ac., petr., phos., chel., colch., dulc., hep., kali-bi., Lach., lyc., STANDING agg.: Acon., agar., agn., aloe, ph-ac., plat., plb., Puls., ran-b., rheum., stram., stront., Sulph., sul-ac., tarax., amel.: Agar., agn., am-c., anac., ant-t., arn., Ars., asar., bar-c., Bell., bor., bry., calad., STARVING: Ign.
+STONE-CUTTERS, for: Calc., ip., lyc., nat-c., STOOP shouldered: Sulph., tub.
+STORM, approach of a: Agar., aur., bry., caust., during storm: Agar., aur., bry., carb-v., STRENGTH, sensation of: Agar., bufo, coff., STRETCHING: Acon., aesc., agar., ambr., am-c., ang., ant-t., apis, arn., Ars., arum-t., canth., caps., carb-an., carb-v., Caust., nat-c., nat-m., nat-s., Nux-v., op., ox-ac., prun., Puls., ran-b., raph., Rhus-t., rhus-v., forenoon: Aloe, ant-t., bov., mag-c., mez., night: Caust., nat-c., sulph.
+sleep, in: Nat-m.
+waking, when: Merc.
+breakfast, after: Lach.
+during: Alum., ars., bry., caps., coff., daph., menses, before: Puls.
+shuddering, during: Ars., puls.
+unsatisfactory: Graph.
+urination, before: Puls.
+SULPHUR, abuse of: Ars., calc., chin., merc., Puls., sep.
+SUN, from exposure to: Agar., Ant-c., arg-m., Nat-c., nat-m., nux-v., psor., Puls., sel., SWELLING in general: Acon., agar., agn., Apis, arg-m., arn., Ars., ars-i., asaf., aur., bar-c., Bell., bism., bor., bov., Bry., bufo, mag-m., mang., Merc., mez., mosch., Nux-v., olnd., op., par., petr., phos., ph-ac., plb., Puls., ran-b., rhod., Rhus-t., ruta, affected parts of: Acon., Act-s., agn., alum., aur., bar-c., Bell., bov., Bry., calc., cann-s., mang., Merc., Merc-c., mur-ac., nat-c., ph-ac., phyt., plb., psor., Puls., ran-b., stram., Sulph., thuj., valer., zinc.
+inflammatory: Acon., agn., alum., am-c., ant-c., apis, arn., Ars., ars-i., asaf., bar-c., Bell., bry., Calc., cann-s., Canth., carb-an., mag-c., Merc., nat-c..nat-m., nit-ac., spong., stann., Sulph., thuj., zinc.
+puffy: Acon., agar., am-c., am-m., Ant-c., Apis, apoc., arn., Ars., asaf., aur., aur-m., bar-c., bell., bry., Calc., Caps., carb-s., Ferr., Graph., guaj., Hell., hyos., iod., ip., Bones: Am-c., Asaf., aur., bell., bry., Calc., Ph-ac., plb., Puls., rhod., rhus-t., ruta, sabin., sep., Sil., spig., Staph., Sulph..
+Glands: Acon., aesc., agn., alum., ambr., Bar-c., Bar-i., Bar-m., Bell., bor., bov., Dulc., euph., ferr., ferr-ar., ferr-i., Graph., kali-c., kali-chl., kali-i., lach., led., Lyc., mag-c., mag-m., mang., Merc., Merc-c., Phos., ph-ac., phyt., plb., psor., puls., squil., stann., staph., stram., stront., Sulph., cold: Ars., asaf., bell., cocc., Con., cycl., hot: Acon., am-c., ant-c., arn., asaf., Bell., Merc., nux-v., petr., Phos., phyt., puls., arn., ars., asaf., bad., bar.c., Bell., bor., lyc., mang., Merc., mez., mur-ac., nat-c., painful: Acon., ant-c., arn., aur., Bar-m., Bell., calc., canth., carb-an., chin., clem., painless: Calc., con., dulc., ign., nit-ac., SWOLLEN sensation: Acon., agar., aloe, alum., ign., ip., kali-c., kali-n., kreos., Lach., laur., led., lyc., mag-c., mang., Merc., phos., ph-ac., plat., plb., Puls., ran-b., SYCOSIS: Alum., alumn, anac., ant-c., ant-t., kali-bi., kali-chl., Kali-i., lach., led., Merc., TENSION externally: Acon., agar., agn., aloe, carb-an., carb-v., Caust., cham., chel., chin., Phos., ph-ac., Plat., plb., Puls., ran-b., Sulph., sul-ac., tarax., teucr., thuj., valer., internally: Acon., aesc., agar., agn., alum., arn., ars., Asaf., asar., aur., bar-c., Bell., nux-m., Nux-v., olnd., op., osm., Par., Stront., Sulph., sul-ac., tab., tarax., teucr., Bones: Agar., asaf., Bell., bry., cimic., cocc., Glands: Alum., ambr., arg-m., arn., aur., Muscles: Acon., am-m., anac., ant-c., arn., Nux-v., olnd, ph-ac., Phys., phyt., plat., TOBACCO agg.: Acon., agar., alum., ambr., ant-c., arg-m., arg-n., Ars., bell., bry., calad., hydr., Ign., iod., ip., lach., lac-ac., lyc., mag-c., meny., nat-m., Nux-v., osm., par., petr., phos., Plan., Puls., ran-b., rhus-t., chewing agg.: Ars., carb-v., lyc., nux-v., TOUCH agg.: Acon., aesc., Agar., agn., aloe, Apis, Arg-m., arn., ars., Asaf., asar., aur., bar-c., Bell., bor., bov., Bry., cact., calad., Chin., chin-a., Chin-s., cic., cina, cinnb., kali-n., kali-p., kali-s., kreos., Lach., laur., led., Lyc., mag-c., mag-m., Mang., meny., nat-m., Nit-ac., nux-m., Nux-v., olnd., op., amel.: Agar., alum., am-c., am-m., anac., ant-c., arn., ars., bell., bism., bry:, Calc., illusions of: Acon., alum., anac., ant-t., arn., slight, agg.: Ars., Bell., Chin., coff., colch., ign., Lach., mag-m., Merc., mez., Nux-v., TOUCHING anything agg.: Acon., am-c., am-m., cold things agg.: Calc., Hep., lac-d., merc., warm things agg.: Sulph.
+Ars., ars-i., asaf., aur., bar-c., bar-m., bell., Lach., lact-ac., laur., led., lyc., lyss., med., meny., meph., Merc., merc-c., mez., Puls., ran-b., ran-s., rheum, rhod., Rhus-t., Stram., stront., Sulph., sul-ac., tab., tarent., verb., viol-o., visc., Zinc.
+forenoon: Ars., carb-o., lyc., nat-m., plat., noon, after sleep: Nat-m.
+night: Bell., hyos., lyc., phos.
+air, open: Calc., kali-c., laur., plat.
+anger, from: Acon., ambr., arg-n., aur., chel., anxiety, from: Ars., ambr., aur., bell., bor., ascending, on: Merc.
+cold drinks amel.: Phos.
+eating, after: Alum., ant-c.
+TREMBLING.
+brach., bry., calad., Calc., camph., caps., Graph., Iod., kali-c., kali-n., kreos., lil-t., menses, before: Alum.
+after: Chin.
+amel.: Merc., plat.
+paroxysmal: Merc.
+rising from sitting, affected parts: Caust.
+sleep, before: Nat-m.
+standing, while: Merc.
+after: Ars., carb-v., caust., Con., lil-t., sumb.
+supper, after: Alum., caust.
+thunderstorm: Agar., nat-p., phos.
+vexation, from: Acon., aur., lyc., nit-ac., voluptuous: Calc.
+writing, while: Phos., sil.
+Agar., apis, Bar-c., brom., calc., calc-s., Graph., hep., nit-ac., sil., sulph.
+erectile: Lyc., nit-ac., phos., staph.
+fibroid: Calc., Calc-f., calc-s., con., Phos., neuroma: Calc., staph.
+steatoma, suppurating: Calc., carb-v.
+reappearing every 4 weeks: Calc.
+TWITCHING: Acon., Agar., agn., alum., graph., guaj., hell., Hyos., Ign., Iod., ip., tarax., thuj., valer., viol-t., visc., Zinc.
+here and there: Agar., colch., kali-c., kali-n., TWITCHING.
+stann., stront., sulph., sul-ac., thuj., Zinc.
+on going to Acon., agar., arg-m., Ars., subsultus tendinum: Agar., ambr., am-c., mur-ac., ph-ac., phos., rhus-t., sec., Zinc.
+Ars., asaf., aur., bell., calc., canth., carb-an., kreos., lach., lyc., merc., nit-ac., Phos., cancerous: Arn., Ars., aur., bell., Bufo, calc., sep., sil., squil., sul-ac., Sulph., zinc.
+UNCOVERING agg.: Acon., acon-f., agar., am-c., ant-c., arg-m., arg-n., arn., Ars., lach., lycps., Lyc., mag-c., mag-m., Mag-p., Nux-m., Nux-v., phos., ph-ac., puls., Stront., thuj., Zinc.
+UNDRESSING, after, agg.: Am-m., Ars., calc., nat-s., Nux-v., olnd., plat., puls., Rhus-t., in the open air: Phos.
+VACCINATION, after: Apis, ars., echi., hep., kali-chl., Maland., Sil., Sulph., Thuj.
+arg-n., ars., asaf., bell., Calc., calc-f., Puls., sabin., sep., sil., spig., sulph., sul-ac., burning: Apis, Ars., calc.
+night: Ars.
+itching: Graph.
+Puls., sang.
+pimples, covered with: Graph.
+Puls., zinc.
+soreness: Graph., ham., puls.
+stinging: Apis, graph., ham., Puls.
+ulceration: Ars., Lach., lyc., puls., sil.
+swollen: Apis., berb., puls.
+VAULTS, cellars, etc., agg.: Ars., bry., calc., carb-an., caust., lyc., Puls., sep., stram.
+VOMITING agg.: Acon., ant-t., arn., Ars., asar., plb., Puls., ran-s., ruta, sabin., sars., sec., sep., sil., stann., Sulph., verat.
+amel.: Acon., agar., ars., carb-s., coc-c., colch., WAKING, on: Acon., agar., agn., alum., Ambr., Ars., aur., bar-c., bell., benz-ac., bism., bor., bov., bry., bufo, cact., cadm., calad., Calc., carb-an., carb-v., Caust., cenchr., cham., kali-i., kali-n., kali-s., kreos., Lach., laur., Nux-v., op., Onos., petr., Phos., ph-ac., phyt., plat., psor., Puls., ran-b., ran-s., Sulph., sul-ac., tarax., thuj., Valer., verat., asar., atro., aur., bapt., bar-c., Bell., berb., bov., Bry., cact., cadm., calad., Calc., carb-ac., carb-an., carb-s., carb-v., Caust., nat-s., Nit-ac., nux-m., Nux-v., olnd., op., paeon., par., petr., Phos., ph-ac., phyt., stront., Sulph., sul-ac., tarax., tarent., amel.: Acon., agar., agn., alum., ambr., par., petr., ph-ac., plat., plb., Puls., pyrog., spig., stann., staph., stront., Sulph., sul-ac., beginning of, agg.: Acon., agar., ambr., am-c., Lyc., mag-c., mang., merc., mur-ac., nat-c., ph-ac., plat., plb., Puls., ran-b., rhod., in open air agg.: Acon., agar., agn., alum., Caust., cham., chel., chin., chin-a., cic., nux-m., Nux-v., olnd., op., par., petr., Sulph., sul-ac., tarax., teucr., thuj., valer., amel.: Acon., agar., aloe, Alum., ambr., Kali-i., kali-n., Kali-s., laur., lil-t., Lyc., Puls., rhod., Rhus-t., sabin., sang., sars., fast agg: Alum., arg-m., apis, arn., Ars., ars-i., aur., aur-m., Bell., Bry., cact., calc., nux-v., olnd., Phos., plb., Puls., rheum, spig., spong., squil., staph., Sulph., sul-ac., slowly amel.: Agar., Aur., Aur-m., cact., calc-s., Ferr., ferr-ar., iris., kali-p., Puls., wind, in the, agg.: Acon., ars., asar., aur., Bell., calc., carb-v., cham., chin., con., nux-m., Nux-v., phos., plat., puls., rhus-t., WARM agg.: Acon., agar., agn., all-c., Alum., ambr., ant-c., ant-t., Apis, arg-n., arn., nat-s., op., phos., ph-ac., plat., Puls., sabad., Lach., led., lyc., Merc., mez., nat-m., plat., podo., Puls., sabin., sars., Sec., sel., becoming, in open air, agg.; Acon., agn., lach., led, Lyc., mang., merc., mez., nat-c., phos., ph-ac., plat., Puls., sabad., sabin., ant-t., Apis, arg-n., arn., asaf., ars-i., asar., Merc., mez., mur-ac., nat-c., nat-m., nit-ac., spig., spong., staph., stram., Sulph., teucr., amel.: Agar., am-c., arn., Ars., aur., bar-c., kali-p., lach., Lyc., mag-p., mosch., nit-ac., Nux-m., Nux-v., petr., phos., ant-t., Apis, arg-n., ars-i., arn., asaf., asar., Graph., hell., hyos., ign., ind., Iod., ip., Lyc., mag-m., merc., mez., mosch., mur-ac., Puls., ran-b., Sabin., sanic., Sec., sel., Seneg., spig., spong., staph., Sulph., tab., amel.: Acon., agar., am-c., Ars., aur., Hep., hyos., Ign., kali-c., mag-c., Mag-p., mang., mosch., nux-m., Nux-v., petr., Lach., Nat-s., sil.
+wraps agg.: Acon., Apis, arg-m., arg-n., ign., Iod., Kali-s., lac-c., lach., Led., Lyc., phos., plat., Puls., rhus-t., Sec., seneg., sep., spig., staph., Sulph., tab., thuj., verat.
+of: Bell., cina, Crot-t., dig., ferr., hell., WAVELIKE sensations: Am-c., Bell., bism., sars., sep., sil., stann., stront., Sulph., verb.
+Apis, apoc., aran., Arg-m., arg-n., Arn., caust., cedr., cham., Chel., chim., Chin., form., Gels..gent., glon., goss., Graph., lac-c., Lach., lachn., Laur., led., lepi., lept., meph., Merc., Merc-c., Merc-cy., merc-i-f., Nat-m., nat-n., Nat-p., Nat-s., nicc., pall., par., ped., petr., phel., Phos., Ph-ac., stront., stry., Sulph., Sul-ac., sul- i., sumb., daytime: Agar., am-c., corn., graph., iod., morning: Agar., ambr., am-c., am-m., ant-c., ant-s., apoc., arg-m., Ars., ars-i., asc-t., lac-c., lac-ac., Lach., Lyc., mag-c., mag-m., phos., Puls., sil., staph., stront.
+while sitting up in: Nat-m.
+lying: Puls.
+rising, on: Alum., asc-t., aur-m-n., bov., hep., ign., iris, Lach., lac-ac., lyc., mez., amel.: Acon., carb-v., caust., con., kali-c., waking, on: Acon., agar., alum., ambr., WEAKNESS.
+forenoon: Acon., alum., ambr., am-c., ang., afternoon: Acon., aeth., alet., am-c., amyg., Sulph., thuj., zinc., zing.
+walking, while: Lyc., mag-c., pic-ac., ran-b.
+4 p.m.: Ign.
+4 p.m.: Caust., hydr., iris, lyc., mang., or 6 p.m.: Merc.
+WEAKNESS.
+evening: Acon., aloe, am-c., apis, apoc., ars., mur-ac., naja, Nat-m., nat-n., nit-ac., nux-v., amel.: Phos.
+9: 30 p. m.: Lyc., sep.
+11 p.m.: Nat-m.
+after: Nat-m., rhus-t.
+3 a.m.: Nat-m.
+4 a.m.: Sulph.
+fresh air amel.: Calc.
+WEAKNESS.
+anger, after: Zinc.
+Calc., calc-p., coff., colch., fago., Iod., lyc., chill, before: Ars., chin., nat-m., thuj.
+coition, after: Agar., berb., Calc., chin., cold weather, in: Apis, lach.
+coldness, during: Apis, aeth., cou., guare., convulsions, after: Acon., ars., mer-c., sec., hysterical: Ars.
+dampness, from exposure to: Ars.
+death, as of approaching: Ars., olnd, diarrhea, from: Alum., ambr., apis, Ars., bor., both., bry., carb-v., Chin., coloc., Olnd., op., ox-ac., petr., Phos., phyt., WEAKNESS.
+dinner, before: Nat-m., thuj.
+cupr., dig., gel., hydr., iod., kali-c., Lyc., naja, nat-m., nat-p., Nux-v., Phos., Ph-ac., exertion, from slight: Acon., agar., ail., apis, Ars., ars-i., alum., am-c., anac., bapt., berb., Bry., Calc., carb-v., cham., clem., Ph-ac., Phos., Pic-ac., plb., psor., ptel., WEAKNESS.
+fever, during: Acon., ant-t., aran., Ars., bapt., mur-ac., nat-c., nat-m., nit-ac, Phos., food, sour, from: Aloe.
+grief, from: Caust., ign., ph-ac.
+entering, from bed: Aloe.
+hunger, from: Alum., Iod., phos., spig., Sulph., zinc.
+intermittent: Apis, nat-a.
+lying agg.: Agar., alum., bar-c., bry., carl., WEAKNESS.
+during: Agar., aloe, alum., am-c., am-m., desire to lie down, with: Bell., ip., nil-ac.
+painful: Bell., bufo.
+stool, after: Nux-v.
+after: Alum., berb., benz-ac., calc-p., mental exertion: Aloe, apis, arn., ars., aur., bell., Calc., cham., cocc., Cupr., Ferr-pic., ign., kali-c., kali-n., Lach., lyc., Nat-c., nat-m., Psor., Puls., sabad., Sel., sep., sil., motion, from: Agar., ammc., apoc., arg-m., Ars., asaf., bry., cann-s., cocc., hydr-ac., WEAKNESS.
+moving arm, on: Nat-m.
+cham., Chin., cic., cocc., coff., colch., con., nux-m., Nux-v., op., petr., Phos., ph-ac., plat., plb., Puls., rhus-t., sabin., sars., sec., paralytic: Alum., am-m., arg-m., Ars., bar-c., nux-v., olnd., Phos., Ph-ac., plb., puls., sliding down in bed: Apis, ars., arum-t., nux-m., nit-ac., Phos., Ph-ac., rhus-t.
+Carb-an., carb-v., Chin., chin-a., Chin-s., kali-n., lac-c., lyc., Merc., nat-m., nit-ac., op., Phos., ph-ac., Psor., puls., pyrog., night: Ars., bar-c., bry. carb-an., chin., rising, on: Acon-c., ammc., arn., Ars., atro., seat, from a: Chin.
+sitting: Agar., anac., ars., aur., bry., carl., after: Agar., bor., bor-ac., camph., carl., somnambulism, after: Sulph.
+spring: Apis.
+stimulants amel.: Phos.
+Ars., Ars-m., bism., bov., calc., carb-s., ip., lach., lil-t., lyc., mag-c., Merc., mez., thunderstorm, during: Caust., nat-c., nat-p., sudden: Acon., act-sp., apis, arg-m., Ars., con., Crot-h., cupr-ar., Graph., hep., ip., afternoon: Lyc., ran-b.
+eruption comes out, after the: Ars.
+supper, after: Alum., bov., chin., lach., talking, from: Act-sp., Alum., am-c., ambr., ph-ac., sep., sil., Stann., Sulph.
+of people, from the: Alum., am-c., ars., tremulous: Agar., alum., anac., apis, Arg-n., stool, after: Ars., carb-v., caust., Con.
+vexation, after: Ars., calc-p., lyc., nat-m., nux-m., op., ph-ac., podo., ptel., Puls., walking, from: Acon., aesc., agar., Alum., anac., arn., Ars., ars-i., bar-c., bar-m., berb., bov., brom., Bry., Calc., Cann-i., Phos., Ph-ac., phys., phyt., Pic-ac., plb., stann., staph., stram, Sulph., samb., tarent., ruta, Sulph.
+air, open, in: Act-s., agar., Alum., ambr., amel.: Agar., am-c., caust., fl-ac., kali-i., cough and expectoration, from: Nux-v.
+heat of the sun, in: Lach., nat-c.
+house, in the: Agar., ferr-ma., sec., sumb.
+rapidly: Agar., coc-c., olnd.
+warm room: Aloe, ambr., croc., merl., Puls.
+wine amel.: Ars., lyc., phos., thuj.
+WEARINESS(See Weakness): Acon., agar., WEARINESS.
+Ferr., ferr-p., Gels., Graph., ham., hell., Kali-p., kali-s., kreos., Lach., lac-ac., laur., led., Lyc., mag-c., mang., meny., Merc., mez., mosch., mur-ac., nat-c., Nat-m., nat-s., nit-ac., nux-m., Nux-v., olnd., op., psor., Puls., ran-b., rheum., rhod., rhus-t., Sulph., sul-ac., tab., teucr., thuj., valer., verat., verb., viol-o., Zinc.
+Nux-v., petr., staph., sulph., zinc.
+menses, before: Alum., bell., nat-m.
+sitting, while: Merc.
+talking, after: Alum., calc-p.
+bell., bor., bov., bry., Calc., canth., carb-v., staph., stront., Sulph., sul-ac., zinc.
+WET.
+bry., Calc., calc-p., calc-s., camph., carb-v., Caust., chin., colch., dulc., euph., hep., ip., lach., lyc., nit-ac., nux-m., phos., Puls., nat-m., nux-m., phos., Puls., rhus-t., sep., head: Bar-c., Bell., led., puls.
+perspiration, during: Acon., calc., colch., weather: Agar., Am-c., ant-c., ant-t., aran..
+arg-m, arg-n., Ars., ars-i., aur., Bad., Calc., calc-p..calc-s., canth., carb-an., nux-v., paeon., petr., phos., phyt., Puls., WIND: Acon., ars., ars-i., asar., aur., bell., bry., lach., Lyc., mur-ac., nat-c., nux-m., Nux-v., Phos., plat., psor., Puls., Rhod., spig., cold: Acon., ars., ars-i., asar., Bell., bry., cupr., ferr-ar., Hep., ip., kali-bi., Nux-v., WINDY and stormy weather: Acon., ars., asar., WINE: Acon., agar., am-m., ant-c., arn., Ars., gels., glon., kali-chl., lach., led., Lyc., naja, nat-a., nat-c., nat-m., nux-m., Nux-v., Op., Zinc.
+amel.: Acon., agar., ars., bell., brom., bry., WINTER, in: Acon., aesc., agar., ammc., am-c., nat-c., nat-m., nux-m., Nux-v., petr., phos., WOUNDS: Apis, arn., bor., carb-v., cic., con., bites of poisonous aaimals: Apis, arn., ars., croc., crot-h., ferr., hep., kreos., Lach., merc., mill., nat-m., Phos., ph-ac., puls., WOUNDS.
+dissecting: Apis, ars., lach., led., pyrog.
+heal, slow to: Alum., am-c., bar-c., bor., calc., graph., Hep., kali-c., Lach., lyc., mag-c., painful: Apis, Hyper., led., nat-m., nil-ac., penetrating: Apis., carb.v., cic., hep., hyper., splinters, from: Acon., apis., arn., carb-v., cic., stab wounds: Apis, arn., carb-v., cic., lach., 

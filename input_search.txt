@@ -1,0 +1,46 @@
+248-          <p className="text-slate-500 text-sm">{t('patients.desc')}</p>
+249-        </div>
+250-        <div className="flex items-center gap-3">
+251-          <div className="relative flex-1 md:w-64">
+252-            <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={18} />
+253:            <input 
+254-              type="text"
+255-              placeholder={t('patients.searchPlaceholder')}
+256-              value={searchQuery}
+257-              onChange={(e) => setSearchQuery(e.target.value)}
+258-              className="w-full pl-10 pr-4 py-2 bg-white border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-emerald-500/20 focus:border-emerald-500 transition-all shadow-sm"
+--
+300-            <p className="text-emerald-50/80 text-xs mt-1">{t('patients.fillDetails')}</p>
+301-          </div>
+302-          <form onSubmit={handleSubmit} className="p-6 grid grid-cols-1 md:grid-cols-4 gap-6">
+303-            <div className="md:col-span-2">
+304-              <label className="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">{t('patients.fullName')}</label>
+305:              <input 
+306-                type="text" 
+307-                value={name}
+308-                onChange={(e) => setName(e.target.value)}
+309-                required 
+310-                placeholder="Enter patient name..."
+311-                className="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:border-emerald-500 transition-colors" 
+312-              />
+313-            </div>
+314-            <div>
+315-              <label className="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">{t('patients.age')}</label>
+316:              <input 
+317-                type="number" 
+318-                value={age}
+319-                onChange={(e) => setAge(e.target.value)}
+320-                required 
+321-                placeholder={t('patients.age')}
+--
+334-                <option>Other</option>
+335-              </select>
+336-            </div>
+337-            <div className="md:col-span-2">
+338-              <label className="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">{t('patients.phone')}</label>
+339:              <input 
+340-                type="tel" 
+341-                value={phone}
+342-                onChange={(e) => setPhone(e.target.value)}
+343-                placeholder="Enter phone number..."
+344-                className="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:border-emerald-500 transition-colors" 

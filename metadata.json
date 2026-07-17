@@ -1,0 +1,6 @@
+{
+  "name": "HomeoDesk Pro",
+  "description": "Advanced clinical suite for homeopathic practitioners featuring patient management and Kent's Repertory.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

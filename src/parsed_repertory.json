@@ -1,0 +1,2598 @@
+{
+  "Mind": {
+    "name": "Mind",
+    "rubrics": [
+      {
+        "name": "ABANDONED (See Forsaken.)"
+      },
+      {
+        "name": "ABRUPT"
+      },
+      {
+        "name": "ABSENT-MINDED (compare \"Forgetful\")",
+        "sr": [
+          {
+            "name": "morning"
+          },
+          {
+            "name": "11 a.m. to 4 p.m."
+          },
+          {
+            "name": "noon"
+          },
+          {
+            "name": "periodical attacks of, short lasting"
+          },
+          {
+            "name": "reading, while"
+          },
+          {
+            "name": "starts when spoken to"
+          },
+          {
+            "name": "writing, while"
+          }
+        ]
+      },
+      {
+        "name": "ABSORBED, buried in thought",
+        "sr": [
+          {
+            "name": "daytime"
+          },
+          {
+            "name": "morning"
+          },
+          {
+            "name": "afternoon"
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "alternating with frivolty"
+          },
+          {
+            "name": "as to what would become of him"
+          },
+          {
+            "name": "eating, after"
+          },
+          {
+            "name": "menses, during"
+          }
+        ]
+      },
+      {
+        "name": "ABSTRACTION of mind",
+        "sr": [
+          {
+            "name": "morning"
+          }
+        ]
+      },
+      {
+        "name": "ABUSIVE",
+        "sr": [
+          {
+            "name": "forenoon"
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "angry, without being"
+          },
+          {
+            "name": "pains, with the"
+          },
+          {
+            "name": "scolds until the lips are blue and eyes stare and she falls down fainting"
+          }
+        ]
+      },
+      {
+        "name": "ACTIVITY, desires (See Industrious.)",
+        "sr": [
+          {
+            "name": "fruitless"
+          }
+        ]
+      },
+      {
+        "name": "ACUTENESS (See Memory.)"
+      },
+      {
+        "name": "ADMONITION agg."
+      },
+      {
+        "name": "AFFECTATION"
+      },
+      {
+        "name": "AFFECTIONATE"
+      },
+      {
+        "name": "AGITATION (See Excitement.)"
+      },
+      {
+        "name": "AIR castles (See Theorizing.)"
+      },
+      {
+        "name": "AMBITION, loss of",
+        "sr": [
+          {
+            "name": "afternoon and evening"
+          },
+          {
+            "name": "damp weather"
+          }
+        ]
+      },
+      {
+        "name": "AMOROUS (See Lewdness and Lascivious, also Genitalia.)"
+      },
+      {
+        "name": "AMUSEMENT, averse to",
+        "sr": [
+          {
+            "name": "desire for"
+          }
+        ]
+      },
+      {
+        "name": "ANGER, irascibility (See Irritability and Quarrelsome)",
+        "sr": [
+          {
+            "name": "morning"
+          },
+          {
+            "name": "waking, on"
+          },
+          {
+            "name": "forenoon"
+          },
+          {
+            "name": "11 a.m."
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "absent persons, at"
+          },
+          {
+            "name": "ailments after anger, vexation, etc.",
+            "sr": [
+              {
+                "name": "after anger with anxiety"
+              },
+              {
+                "name": "with fright"
+              },
+              {
+                "name": "indignation"
+              },
+              {
+                "name": "silent grief"
+              }
+            ]
+          },
+          {
+            "name": "alternating with cheerfulness"
+          },
+          {
+            "name": "quick repentance"
+          },
+          {
+            "name": "answer, when obliged to"
+          },
+          {
+            "name": "consoled, when"
+          },
+          {
+            "name": "contradiction, from"
+          },
+          {
+            "name": "convulsion, before"
+          },
+          {
+            "name": "cough, before",
+            "sr": [
+              {
+                "name": "from the"
+              }
+            ]
+          },
+          {
+            "name": "from nervous vexations, about"
+          },
+          {
+            "name": "mistakes, over his"
+          },
+          {
+            "name": "misunderstood, when"
+          },
+          {
+            "name": "past events, about"
+          },
+          {
+            "name": "stabbed, so that he could have, any one"
+          },
+          {
+            "name": "suppressed, from"
+          },
+          {
+            "name": "thinking of his ailments"
+          },
+          {
+            "name": "throws things away"
+          },
+          {
+            "name": "touched, when"
+          },
+          {
+            "name": "trembling, with"
+          },
+          {
+            "name": "violent"
+          },
+          {
+            "name": "voices of people"
+          }
+        ]
+      },
+      {
+        "name": "ANGUISH",
+        "sr": [
+          {
+            "name": "daytime"
+          },
+          {
+            "name": "5 a.m. to 5 p.m."
+          },
+          {
+            "name": "morning"
+          },
+          {
+            "name": "forenoon"
+          },
+          {
+            "name": "afternoon"
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "night"
+          },
+          {
+            "name": "4 a.m."
+          },
+          {
+            "name": "chill, during"
+          },
+          {
+            "name": "driving from place to place"
+          },
+          {
+            "name": "eating, while"
+          },
+          {
+            "name": "heat, during"
+          },
+          {
+            "name": "menses, before",
+            "sr": [
+              {
+                "name": "during"
+              }
+            ]
+          },
+          {
+            "name": "open air amel."
+          },
+          {
+            "name": "perspiration, during"
+          },
+          {
+            "name": "stool, before",
+            "sr": [
+              {
+                "name": "during"
+              }
+            ]
+          },
+          {
+            "name": "walking in open air"
+          }
+        ]
+      },
+      {
+        "name": "ANSWERS abruptly, shortly, curtly",
+        "sr": [
+          {
+            "name": "aversion to",
+            "sr": [
+              {
+                "name": "morning"
+              },
+              {
+                "name": "loquacious at other times"
+              }
+            ]
+          },
+          {
+            "name": "confusedly as though thinking of something else"
+          },
+          {
+            "name": "difficult"
+          },
+          {
+            "name": "disconnected"
+          },
+          {
+            "name": "foolish"
+          },
+          {
+            "name": "hastily"
+          },
+          {
+            "name": "imaginary questions"
+          },
+          {
+            "name": "incoherently"
+          },
+          {
+            "name": "incorrectly"
+          },
+          {
+            "name": "irrelevantly"
+          },
+          {
+            "name": "monosyllabic"
+          },
+          {
+            "name": "\"no\" to all questions"
+          },
+          {
+            "name": "reflects long"
+          },
+          {
+            "name": "refuses to"
+          },
+          {
+            "name": "repeats the question first"
+          },
+          {
+            "name": "slowly"
+          },
+          {
+            "name": "spoken to, when, yet knows no one"
+          },
+          {
+            "name": "stupor returns quickly after"
+          },
+          {
+            "name": "unintelligibly"
+          }
+        ]
+      },
+      {
+        "name": "ANTAGONISM with herself"
+      },
+      {
+        "name": "ANTHROPOPHOBIA (See Fear.)"
+      },
+      {
+        "name": "ANTICIPATION, complaints from"
+      },
+      {
+        "name": "ANTICS, plays"
+      },
+      {
+        "name": "ANXIETY",
+        "sr": [
+          {
+            "name": "daytime"
+          },
+          {
+            "name": "5 a.m. to 5 p.m."
+          },
+          {
+            "name": "morning",
+            "sr": [
+              {
+                "name": "rising, on"
+              },
+              {
+                "name": "amel."
+              },
+              {
+                "name": "waking, on"
+              }
+            ]
+          },
+          {
+            "name": "forenoon"
+          },
+          {
+            "name": "11 a.m."
+          },
+          {
+            "name": "noon"
+          },
+          {
+            "name": "till 3 p.m."
+          },
+          {
+            "name": "afternoon"
+          },
+          {
+            "name": "3 to 6 p.m."
+          },
+          {
+            "name": "4 p.m."
+          },
+          {
+            "name": "to 5 p.m."
+          },
+          {
+            "name": "6 p.m."
+          },
+          {
+            "name": "5 to 6 p.m."
+          },
+          {
+            "name": "until evening"
+          },
+          {
+            "name": "evening",
+            "sr": [
+              {
+                "name": "bed, in"
+              },
+              {
+                "name": "closing the eyes, on"
+              },
+              {
+                "name": "violent exercise, from"
+              },
+              {
+                "name": "twilight, in"
+              }
+            ]
+          },
+          {
+            "name": "6 p.m."
+          },
+          {
+            "name": "7 to 8 p.m."
+          },
+          {
+            "name": "8 p.m."
+          },
+          {
+            "name": "night",
+            "sr": [
+              {
+                "name": "waking, on"
+              },
+              {
+                "name": "midnight, before"
+              },
+              {
+                "name": "on waking, amel., on rising"
+              },
+              {
+                "name": "11 p.m."
+              },
+              {
+                "name": "midnight, after"
+              },
+              {
+                "name": "1 to 3 a.m."
+              },
+              {
+                "name": "2 a.m."
+              },
+              {
+                "name": "until 2 a.m."
+              },
+              {
+                "name": "3 a.m."
+              },
+              {
+                "name": "after"
+              },
+              {
+                "name": "4 a.m."
+              }
+            ]
+          },
+          {
+            "name": "air, in open",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "alone, when"
+          },
+          {
+            "name": "anger, during"
+          },
+          {
+            "name": "anticipating an engagement"
+          },
+          {
+            "name": "apparition, from horrible, while awake"
+          },
+          {
+            "name": "ascending steps, on"
+          },
+          {
+            "name": "bathing the feet, after"
+          },
+          {
+            "name": "bed, in"
+          },
+          {
+            "name": "breakfast, after"
+          },
+          {
+            "name": "breathing deeply, on",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "business, about"
+          },
+          {
+            "name": "chagrin, after"
+          },
+          {
+            "name": "children, in",
+            "sr": [
+              {
+                "name": "about his"
+              },
+              {
+                "name": "when lifted from the cradle"
+              }
+            ]
+          },
+          {
+            "name": "chill, before",
+            "sr": [
+              {
+                "name": "during"
+              },
+              {
+                "name": "after"
+              }
+            ]
+          },
+          {
+            "name": "church bells, from hearing"
+          },
+          {
+            "name": "closing eyes, on"
+          },
+          {
+            "name": "coffee, after"
+          },
+          {
+            "name": "coition, after",
+            "sr": [
+              {
+                "name": "thought of"
+              }
+            ]
+          },
+          {
+            "name": "company, when in"
+          },
+          {
+            "name": "conscience, of (as if guilty of a crime)"
+          },
+          {
+            "name": "continence prolonged, from"
+          },
+          {
+            "name": "conversation, from"
+          },
+          {
+            "name": "cough, before",
+            "sr": [
+              {
+                "name": "before attack of whooping cough"
+              }
+            ]
+          },
+          {
+            "name": "coughing, from"
+          },
+          {
+            "name": "crowd, in a"
+          },
+          {
+            "name": "cruelties, after hearing of"
+          },
+          {
+            "name": "dark, in"
+          },
+          {
+            "name": "dinner, during",
+            "sr": [
+              {
+                "name": "after"
+              },
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "dreams, on waking from frightful (See Dreams)"
+          },
+          {
+            "name": "drinking, after"
+          },
+          {
+            "name": "eructations amel."
+          },
+          {
+            "name": "excitement, from"
+          },
+          {
+            "name": "exercise amel."
+          },
+          {
+            "name": "exertion of eyes"
+          },
+          {
+            "name": "expected of him, when anything is"
+          },
+          {
+            "name": "fear, with"
+          },
+          {
+            "name": "fever, during",
+            "sr": [
+              {
+                "name": "prodrome, during"
+              }
+            ]
+          },
+          {
+            "name": "fits, with"
+          },
+          {
+            "name": "flatus, from",
+            "sr": [
+              {
+                "name": "emission of, amel."
+              }
+            ]
+          },
+          {
+            "name": "flushes of heat, during"
+          },
+          {
+            "name": "foot bath, after a"
+          },
+          {
+            "name": "friends at home, about"
+          },
+          {
+            "name": "fright, after"
+          },
+          {
+            "name": "future, about",
+            "sr": [
+              {
+                "name": "health, about"
+              },
+              {
+                "name": "especially during climacteric period"
+              }
+            ]
+          },
+          {
+            "name": "hot air, as if in"
+          },
+          {
+            "name": "house in",
+            "sr": [
+              {
+                "name": "amel. in"
+              },
+              {
+                "name": "on entering"
+              }
+            ]
+          },
+          {
+            "name": "hungry, when"
+          },
+          {
+            "name": "hypochondriacal"
+          },
+          {
+            "name": "looking steadily"
+          },
+          {
+            "name": "lying, while",
+            "sr": [
+              {
+                "name": "amel."
+              },
+              {
+                "name": "must lie down, with anguish"
+              },
+              {
+                "name": "side, on"
+              },
+              {
+                "name": "right from flatulence"
+              },
+              {
+                "name": "left"
+              }
+            ]
+          },
+          {
+            "name": "manual labor, from"
+          },
+          {
+            "name": "menses, before",
+            "sr": [
+              {
+                "name": "during"
+              },
+              {
+                "name": "amel."
+              },
+              {
+                "name": "after"
+              },
+              {
+                "name": "which prevents sleep"
+              }
+            ]
+          },
+          {
+            "name": "mental exertion"
+          },
+          {
+            "name": "motion, from",
+            "sr": [
+              {
+                "name": "amel."
+              },
+              {
+                "name": "downward"
+              }
+            ]
+          },
+          {
+            "name": "music, from"
+          },
+          {
+            "name": "night watching, from"
+          },
+          {
+            "name": "noise, from",
+            "sr": [
+              {
+                "name": "of rushing water"
+              }
+            ]
+          },
+          {
+            "name": "others, for"
+          },
+          {
+            "name": "pains, from the"
+          },
+          {
+            "name": "paroxysms"
+          },
+          {
+            "name": "periodical"
+          },
+          {
+            "name": "playing piano, while"
+          },
+          {
+            "name": "pressure on the chest"
+          },
+          {
+            "name": "pursued when walking, as if"
+          },
+          {
+            "name": "railroad, when about to journey by, amel., while in train"
+          },
+          {
+            "name": "reading, while"
+          },
+          {
+            "name": "riding, while",
+            "sr": [
+              {
+                "name": "downhill"
+              }
+            ]
+          },
+          {
+            "name": "rising, after",
+            "sr": [
+              {
+                "name": "from a seat, on"
+              },
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "salvation, about",
+            "sr": [
+              {
+                "name": "morning"
+              }
+            ]
+          },
+          {
+            "name": "sedentary employment, from"
+          },
+          {
+            "name": "sewing"
+          },
+          {
+            "name": "shaving, while"
+          },
+          {
+            "name": "shuddering, with"
+          },
+          {
+            "name": "sitting, while",
+            "sr": [
+              {
+                "name": "amel."
+              },
+              {
+                "name": "bent"
+              }
+            ]
+          },
+          {
+            "name": "sleep, before",
+            "sr": [
+              {
+                "name": "evening"
+              },
+              {
+                "name": "on going to"
+              },
+              {
+                "name": "during (compare Dreams)"
+              },
+              {
+                "name": "menses, after"
+              },
+              {
+                "name": "on starting from"
+              },
+              {
+                "name": "partial slumbering in the morning, during"
+              }
+            ]
+          },
+          {
+            "name": "soup, after"
+          },
+          {
+            "name": "speaking, when",
+            "sr": [
+              {
+                "name": "in company"
+              }
+            ]
+          },
+          {
+            "name": "standing, while",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "stool, before",
+            "sr": [
+              {
+                "name": "during"
+              },
+              {
+                "name": "after"
+              },
+              {
+                "name": "while straining at"
+              }
+            ]
+          },
+          {
+            "name": "stooping, when",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "storm, during a thunder"
+          },
+          {
+            "name": "strangers, in the presence of"
+          },
+          {
+            "name": "sudden"
+          },
+          {
+            "name": "suicidal"
+          },
+          {
+            "name": "supper, after"
+          },
+          {
+            "name": "thinking about it, from"
+          },
+          {
+            "name": "thoughts, from"
+          },
+          {
+            "name": "time is set, if a"
+          },
+          {
+            "name": "tobacco, from smoking"
+          },
+          {
+            "name": "trifles, about"
+          },
+          {
+            "name": "urination, before",
+            "sr": [
+              {
+                "name": "during"
+              },
+              {
+                "name": "after"
+              }
+            ]
+          },
+          {
+            "name": "vexation, after"
+          },
+          {
+            "name": "voice, on raising the"
+          },
+          {
+            "name": "waking, on"
+          },
+          {
+            "name": "walking, while",
+            "sr": [
+              {
+                "name": "in open air"
+              },
+              {
+                "name": "rapidly, when"
+              },
+              {
+                "name": "which makes him walk faster"
+              }
+            ]
+          },
+          {
+            "name": "warmth, from",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "weeping, followed by",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "work, during"
+          }
+        ]
+      },
+      {
+        "name": "APATHY (See Indifference.)"
+      },
+      {
+        "name": "APPREHENSIONS (See Fear, Anxiety, etc.)"
+      },
+      {
+        "name": "ARDENT"
+      },
+      {
+        "name": "ARROGANCE (See Haughty.)"
+      },
+      {
+        "name": "ASKS for nothing"
+      },
+      {
+        "name": "ATTENTION (See Concentration.)"
+      },
+      {
+        "name": "ATTITUDES, assumes strange"
+      },
+      {
+        "name": "AUDACITY"
+      },
+      {
+        "name": "AUTOMATIC (See Unconscious.)"
+      },
+      {
+        "name": "AVARICE"
+      },
+      {
+        "name": "AVERSION, a proached, to being",
+        "sr": [
+          {
+            "name": "everything, to"
+          },
+          {
+            "name": "friends, to",
+            "sr": [
+              {
+                "name": "during pregnancy"
+              }
+            ]
+          },
+          {
+            "name": "husband"
+          },
+          {
+            "name": "in general (See name of thing disliked.)"
+          },
+          {
+            "name": "members of family, to"
+          },
+          {
+            "name": "persons, to certain"
+          },
+          {
+            "name": "religious, to the opposite sex"
+          },
+          {
+            "name": "strangers (see Company.)"
+          },
+          {
+            "name": "those around"
+          }
+        ]
+      },
+      {
+        "name": "BAD news, ailments from"
+      },
+      {
+        "name": "BARKING"
+      },
+      {
+        "name": "BASHFUL (See Timidity.)"
+      },
+      {
+        "name": "BATTLES, talks about"
+      },
+      {
+        "name": "BED, aversion to (shuns)",
+        "sr": [
+          {
+            "name": "desires to remain in"
+          },
+          {
+            "name": "jumps out of, wants to destroy himself but lacks courage"
+          },
+          {
+            "name": "and runs recklessly about"
+          }
+        ]
+      },
+      {
+        "name": "BEGGING, entreating",
+        "sr": [
+          {
+            "name": "in sleep"
+          }
+        ]
+      },
+      {
+        "name": "BELLOWING"
+      },
+      {
+        "name": "BEMOANING (See Lamenting.)"
+      },
+      {
+        "name": "BENEVOLENCE"
+      },
+      {
+        "name": "BENUMBED (See Stupefaction.)"
+      },
+      {
+        "name": "BEWILDERED (See Confusion.)"
+      },
+      {
+        "name": "BITING",
+        "sr": [
+          {
+            "name": "night"
+          },
+          {
+            "name": "convulsions, with"
+          },
+          {
+            "name": "fingers"
+          },
+          {
+            "name": "hands"
+          },
+          {
+            "name": "himself"
+          },
+          {
+            "name": "pillow"
+          },
+          {
+            "name": "spoons, etc."
+          },
+          {
+            "name": "tumbler"
+          }
+        ]
+      },
+      {
+        "name": "BLACK and sombre, everything that is, aversion to"
+      },
+      {
+        "name": "BLINDNESS pretended"
+      },
+      {
+        "name": "BLOOD, cannot look at, or a knife"
+      },
+      {
+        "name": "BOLDNESS (See Courageous.)"
+      },
+      {
+        "name": "BREAK things, desire to"
+      },
+      {
+        "name": "BROODING (See Anxiety, Sadness)",
+        "sr": [
+          {
+            "name": "evening"
+          }
+        ]
+      },
+      {
+        "name": "BUFFOONERY (See Foolish Behavior.)"
+      },
+      {
+        "name": "BUSINESS, averse to",
+        "sr": [
+          {
+            "name": "incapacity for"
+          },
+          {
+            "name": "talks of"
+          }
+        ]
+      },
+      {
+        "name": "BUSY (See Occupied, Delirium)",
+        "sr": [
+          {
+            "name": "fruitlessly"
+          }
+        ]
+      },
+      {
+        "name": "CALMNESS (See Tranquility.)"
+      },
+      {
+        "name": "CALUMNIATE, desire to (See Slander.)"
+      },
+      {
+        "name": "CAPRICIOUSNESS",
+        "sr": [
+          {
+            "name": "morning"
+          }
+        ]
+      },
+      {
+        "name": "CAREFULNESS"
+      },
+      {
+        "name": "CARELESS (See Heedless.)"
+      },
+      {
+        "name": "CARES, full of (See Anxiety)",
+        "sr": [
+          {
+            "name": "ailments, from"
+          },
+          {
+            "name": "domestic affairs, about"
+          },
+          {
+            "name": "trifles, about"
+          }
+        ]
+      },
+      {
+        "name": "CARPHOLOGIA (See Gestures.)"
+      },
+      {
+        "name": "CARRIED, desires to be",
+        "sr": [
+          {
+            "name": "in croup"
+          },
+          {
+            "name": "fast"
+          },
+          {
+            "name": "slowly"
+          }
+        ]
+      },
+      {
+        "name": "CAUTIOUS",
+        "sr": [
+          {
+            "name": "anxiously"
+          }
+        ]
+      },
+      {
+        "name": "CENSORIOUS, critical",
+        "sr": [
+          {
+            "name": "afternoon"
+          },
+          {
+            "name": "dearest friends, with"
+          },
+          {
+            "name": "disposed to find fault or is silent"
+          }
+        ]
+      },
+      {
+        "name": "CHAGRIN (See Mortification.)"
+      },
+      {
+        "name": "CHANGEABLE (See Mood.)"
+      },
+      {
+        "name": "CHAOTIC"
+      },
+      {
+        "name": "CHASES imaginary objects",
+        "sr": [
+          {
+            "name": "persons"
+          }
+        ]
+      },
+      {
+        "name": "CHEERFUL, gay, happy (See Mirth)",
+        "sr": [
+          {
+            "name": "daytime"
+          },
+          {
+            "name": "morning",
+            "sr": [
+              {
+                "name": "rising, on"
+              },
+              {
+                "name": "waking, on"
+              }
+            ]
+          },
+          {
+            "name": "8 a.m."
+          },
+          {
+            "name": "forenoon"
+          },
+          {
+            "name": "afternoon"
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "night"
+          },
+          {
+            "name": "air, in open"
+          },
+          {
+            "name": "alternating with aversion to work"
+          },
+          {
+            "name": "ill humor, with (See Irritability.)"
+          },
+          {
+            "name": "mania, with"
+          },
+          {
+            "name": "pain, with"
+          },
+          {
+            "name": "passion, with burst of"
+          },
+          {
+            "name": "sadness, with"
+          },
+          {
+            "name": "violence, with"
+          },
+          {
+            "name": "want of sympathy, with"
+          },
+          {
+            "name": "weeping, with (See Weeping.)"
+          },
+          {
+            "name": "bed, in"
+          },
+          {
+            "name": "chill, during"
+          },
+          {
+            "name": "coition, after"
+          },
+          {
+            "name": "constipated, when"
+          },
+          {
+            "name": "convulsions, after"
+          },
+          {
+            "name": "eating, while",
+            "sr": [
+              {
+                "name": "after"
+              },
+              {
+                "name": "followed by irritability, etc."
+              },
+              {
+                "name": "melancholy"
+              },
+              {
+                "name": "prostration, etc."
+              },
+              {
+                "name": "sleepiness"
+              }
+            ]
+          },
+          {
+            "name": "heat, during"
+          },
+          {
+            "name": "menses, before",
+            "sr": [
+              {
+                "name": "during"
+              }
+            ]
+          },
+          {
+            "name": "pain, with all"
+          },
+          {
+            "name": "perspiration, during"
+          },
+          {
+            "name": "room, in the, amel."
+          },
+          {
+            "name": "stools, after"
+          },
+          {
+            "name": "supper, after"
+          },
+          {
+            "name": "thinking of death, while"
+          },
+          {
+            "name": "thunders and lightens, when it"
+          },
+          {
+            "name": "urination, after"
+          },
+          {
+            "name": "waking, on"
+          },
+          {
+            "name": "walking in open air"
+          }
+        ]
+      },
+      {
+        "name": "CHILDISH behavior (See Foolish)"
+      },
+      {
+        "name": "CHILDREN, aversion to",
+        "sr": [
+          {
+            "name": "desires to beat"
+          },
+          {
+            "name": "to have, to beget"
+          },
+          {
+            "name": "dislikes her own",
+            "sr": [
+              {
+                "name": "especially little girls (a woman)"
+              }
+            ]
+          },
+          {
+            "name": "flies from his own"
+          }
+        ]
+      },
+      {
+        "name": "CIRCUMSPECTION, lack of (See Indiscretion.)"
+      },
+      {
+        "name": "CLAIRVOYANCE"
+      },
+      {
+        "name": "CLINGING to persons or furniture",
+        "sr": [
+          {
+            "name": "child awakens terrified, knows no one, screams, clings to those near"
+          }
+        ]
+      },
+      {
+        "name": "CLOSING eyes amel."
+      },
+      {
+        "name": "CLOUDINESS, confusion (See Confusion, Stupefaction.)"
+      },
+      {
+        "name": "COLOR, aversion to red, yellow, green and black"
+      },
+      {
+        "name": "COMPANY, aversion to",
+        "sr": [
+          {
+            "name": "forenoon"
+          },
+          {
+            "name": "amel. when alone"
+          },
+          {
+            "name": "avoids the sight of people",
+            "sr": [
+              {
+                "name": "and lies with closed eyes"
+              },
+              {
+                "name": "shuts herself up"
+              }
+            ]
+          },
+          {
+            "name": "country away from people, wants to get into the"
+          },
+          {
+            "name": "deep corner alone, wants to get into a"
+          },
+          {
+            "name": "desires solitude to practice masturbation",
+            "sr": [
+              {
+                "name": "to indulge her fancy"
+              },
+              {
+                "name": "lie with closed eyes"
+              }
+            ]
+          },
+          {
+            "name": "dreads being alone, yet"
+          },
+          {
+            "name": "friends, of intimate"
+          },
+          {
+            "name": "heat, during"
+          },
+          {
+            "name": "meeting of friends, whom he imagines he has offended"
+          },
+          {
+            "name": "menses, during",
+            "sr": [
+              {
+                "name": "desires to be let alone"
+              }
+            ]
+          },
+          {
+            "name": "perspiration, during"
+          },
+          {
+            "name": "pregnant, when"
+          },
+          {
+            "name": "presence of strangers, to"
+          },
+          {
+            "name": "people intolerable to her during stool",
+            "sr": [
+              {
+                "name": "during urination"
+              }
+            ]
+          },
+          {
+            "name": "walk alone, wants to"
+          },
+          {
+            "name": "desire for",
+            "sr": [
+              {
+                "name": "evening"
+              },
+              {
+                "name": "night"
+              },
+              {
+                "name": "alone, while agg."
+              },
+              {
+                "name": "friend, of a"
+              },
+              {
+                "name": "menses, during"
+              },
+              {
+                "name": "yet treats them outrageously"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "COMPLAINING (See Lamenting)",
+        "sr": [
+          {
+            "name": "offenses long past"
+          },
+          {
+            "name": "sleep, in"
+          },
+          {
+            "name": "supposed injury, of"
+          },
+          {
+            "name": "waking, on"
+          }
+        ]
+      },
+      {
+        "name": "COMPREHENSION difficult (See Dullness.)"
+      },
+      {
+        "name": "CONCENTRATION active",
+        "sr": [
+          {
+            "name": "difficult",
+            "sr": [
+              {
+                "name": "morning"
+              },
+              {
+                "name": "alternating with uterine pains"
+              },
+              {
+                "name": "calculating, while"
+              },
+              {
+                "name": "children, in"
+              },
+              {
+                "name": "conversation, during"
+              },
+              {
+                "name": "crazy feeling on top of head, wild feeling in head, with confusion of ideas"
+              },
+              {
+                "name": "interrupted, if"
+              },
+              {
+                "name": "on attempting to, it becomes dark before the eyes"
+              },
+              {
+                "name": "has a vacant feeling"
+              },
+              {
+                "name": "studying, reading, etc., while"
+              },
+              {
+                "name": "talking, while"
+              },
+              {
+                "name": "writing, while"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CONFIDENCE, want of self",
+        "sr": [
+          {
+            "name": "and thinks others have none which makes her unhappy"
+          }
+        ]
+      },
+      {
+        "name": "CONFIDING"
+      },
+      {
+        "name": "CONFOUNDING objects and ideas"
+      },
+      {
+        "name": "CONFUSION of mind (See Concentration)",
+        "sr": [
+          {
+            "name": "morning",
+            "sr": [
+              {
+                "name": "rising, on"
+              },
+              {
+                "name": "after, amel."
+              },
+              {
+                "name": "waking, on"
+              }
+            ]
+          },
+          {
+            "name": "afternoon"
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "night",
+            "sr": [
+              {
+                "name": "lying down, on"
+              },
+              {
+                "name": "waking, on"
+              }
+            ]
+          },
+          {
+            "name": "air, in open",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "arouse himself, compelled to"
+          },
+          {
+            "name": "ascending agg."
+          },
+          {
+            "name": "bed, while in",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "beer, from"
+          },
+          {
+            "name": "bread agg."
+          },
+          {
+            "name": "breakfast, before",
+            "sr": [
+              {
+                "name": "after"
+              },
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "calculating, when"
+          },
+          {
+            "name": "carousal, after a"
+          },
+          {
+            "name": "chill, during"
+          },
+          {
+            "name": "coffee, after",
+            "sr": [
+              {
+                "name": "amel., after"
+              }
+            ]
+          },
+          {
+            "name": "coition, after"
+          },
+          {
+            "name": "cold bath amel."
+          },
+          {
+            "name": "concentrate the mind, on attempting to"
+          },
+          {
+            "name": "conversation agg."
+          },
+          {
+            "name": "cough, before paroxysm of"
+          },
+          {
+            "name": "dinner, after"
+          },
+          {
+            "name": "dream, as if in"
+          },
+          {
+            "name": "drinking, after"
+          },
+          {
+            "name": "eating, after",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "emissions"
+          },
+          {
+            "name": "epistaxis amel."
+          },
+          {
+            "name": "eructations amel."
+          },
+          {
+            "name": "hat, putting on, agg."
+          },
+          {
+            "name": "heat, during the"
+          },
+          {
+            "name": "identity, as to his"
+          },
+          {
+            "name": "injury to head, after"
+          },
+          {
+            "name": "interruption, from"
+          },
+          {
+            "name": "intoxicated, as if",
+            "sr": [
+              {
+                "name": "as after being"
+              }
+            ]
+          },
+          {
+            "name": "laughing agg."
+          },
+          {
+            "name": "loses his way in well-known streets"
+          },
+          {
+            "name": "lying, when"
+          },
+          {
+            "name": "menses, before",
+            "sr": [
+              {
+                "name": "during"
+              },
+              {
+                "name": "after"
+              }
+            ]
+          },
+          {
+            "name": "mental exertion, from",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "motion, from",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "paroxysms of pain, during"
+          },
+          {
+            "name": "periodic"
+          },
+          {
+            "name": "perspiration, during"
+          },
+          {
+            "name": "pregnancy, during"
+          },
+          {
+            "name": "reading, while"
+          },
+          {
+            "name": "riding, while"
+          },
+          {
+            "name": "rising, after"
+          },
+          {
+            "name": "sitting, while"
+          },
+          {
+            "name": "sleeping, after",
+            "sr": [
+              {
+                "name": "after a siesta"
+              }
+            ]
+          },
+          {
+            "name": "smoking, after"
+          },
+          {
+            "name": "spirituous liquors, from"
+          },
+          {
+            "name": "spoken to, when"
+          },
+          {
+            "name": "standing, while"
+          },
+          {
+            "name": "stool amel."
+          },
+          {
+            "name": "stooping, when",
+            "sr": [
+              {
+                "name": "amel."
+              }
+            ]
+          },
+          {
+            "name": "sun, in the"
+          },
+          {
+            "name": "talking, while"
+          },
+          {
+            "name": "thinking of it agg."
+          },
+          {
+            "name": "urination amel."
+          },
+          {
+            "name": "vexation, after"
+          },
+          {
+            "name": "waking, on"
+          },
+          {
+            "name": "walking, while",
+            "sr": [
+              {
+                "name": "amel."
+              },
+              {
+                "name": "open air, in"
+              },
+              {
+                "name": "warm room, in"
+              }
+            ]
+          },
+          {
+            "name": "washing the face amel."
+          },
+          {
+            "name": "weeping amel."
+          },
+          {
+            "name": "will, strong effort of, amel."
+          },
+          {
+            "name": "wine, after"
+          },
+          {
+            "name": "wrapping up head amel."
+          },
+          {
+            "name": "writing, while"
+          },
+          {
+            "name": "yawning amel."
+          }
+        ]
+      },
+      {
+        "name": "CONSCIENTIOUS about trifles",
+        "sr": [
+          {
+            "name": "4 to 8 p.m."
+          },
+          {
+            "name": "eating, after"
+          }
+        ]
+      },
+      {
+        "name": "CONSOLATION agg."
+      },
+      {
+        "name": "CONTEMPTUOUS (See Scorn)",
+        "sr": [
+          {
+            "name": "in open air or when sun shines into room"
+          },
+          {
+            "name": "paroxysms against her will"
+          },
+          {
+            "name": "of everything"
+          },
+          {
+            "name": "self"
+          }
+        ]
+      },
+      {
+        "name": "CONTENTED (See Cheerful.)"
+      },
+      {
+        "name": "CONTENTIONS (See Quarrelsome.)"
+      },
+      {
+        "name": "CONTRADICT, disposition to",
+        "sr": [
+          {
+            "name": "afternoon"
+          }
+        ]
+      },
+      {
+        "name": "CONTRADICTION, is intolerant of",
+        "sr": [
+          {
+            "name": "has to restrain himself to keep from violence"
+          }
+        ]
+      },
+      {
+        "name": "CONTRARY (See Obstinate, Irritable)"
+      },
+      {
+        "name": "CONVERSATION agg. (See Talking)"
+      },
+      {
+        "name": "COSMOPOLITAN (See Travel.)"
+      },
+      {
+        "name": "COUNTING continually"
+      },
+      {
+        "name": "COURAGEOUS"
+      },
+      {
+        "name": "COVETOUS (See Avarice.)"
+      },
+      {
+        "name": "COWARDICE"
+      },
+      {
+        "name": "CRAWLING on floor"
+      },
+      {
+        "name": "CRAZY (See Insanity, Delusions.)"
+      },
+      {
+        "name": "CRITICAL (See Censorious.)"
+      },
+      {
+        "name": "CROAKING",
+        "sr": [
+          {
+            "name": "in sleep"
+          }
+        ]
+      },
+      {
+        "name": "CRUELTY (See Moral feeling, Malicious)"
+      },
+      {
+        "name": "CURSING",
+        "sr": [
+          {
+            "name": "all night, and complains of stupid feeling"
+          },
+          {
+            "name": "convulsions, during"
+          }
+        ]
+      },
+      {
+        "name": "CUT others, desires to"
+      },
+      {
+        "name": "DANCING",
+        "sr": [
+          {
+            "name": "alternating with sighing"
+          },
+          {
+            "name": "grotesque"
+          },
+          {
+            "name": "unconscious"
+          },
+          {
+            "name": "wild"
+          }
+        ]
+      },
+      {
+        "name": "DARKNESS, agg. (See Fear)"
+      },
+      {
+        "name": "DEAFNESS, pretended"
+      },
+      {
+        "name": "DEATH, desires (See Loathing of Life)",
+        "sr": [
+          {
+            "name": "forenoon"
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "chill, during"
+          },
+          {
+            "name": "convalescence, during"
+          },
+          {
+            "name": "presentiment of",
+            "sr": [
+              {
+                "name": "believes that she will die soon, and that she cannot be helped"
+              },
+              {
+                "name": "predicts the time"
+              },
+              {
+                "name": "thinks of death calmly"
+              }
+            ]
+          },
+          {
+            "name": "sensation of",
+            "sr": [
+              {
+                "name": "chill, during"
+              },
+              {
+                "name": "spasm, during"
+              }
+            ]
+          },
+          {
+            "name": "thoughts of",
+            "sr": [
+              {
+                "name": "morning"
+              },
+              {
+                "name": "alone, when"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DECEITFUL"
+      },
+      {
+        "name": "DEEDS, feels as if he could do great"
+      },
+      {
+        "name": "DEFIANT"
+      },
+      {
+        "name": "DEJECTION (See Sadness.)"
+      },
+      {
+        "name": "DELIRIUM",
+        "sr": [
+          {
+            "name": "morning",
+            "sr": [
+              {
+                "name": "at daybreak"
+              },
+              {
+                "name": "waking, on"
+              }
+            ]
+          },
+          {
+            "name": "evening"
+          },
+          {
+            "name": "dark, in the"
+          },
+          {
+            "name": "nap, during"
+          },
+          {
+            "name": "night",
+            "sr": [
+              {
+                "name": "1 to 2 a.m."
+              }
+            ]
+          },
+          {
+            "name": "abandons her relatives"
+          },
+          {
+            "name": "absurd things, does"
+          },
+          {
+            "name": "alternating with colic"
+          },
+          {
+            "name": "coma, also with somnolency",
+            "sr": [
+              {
+                "name": "sopor"
+              },
+              {
+                "name": "tetanic convulsions, lies on his back, knees and thighs flexed, hands joined"
+              }
+            ]
+          },
+          {
+            "name": "angry"
+          },
+          {
+            "name": "antics, plays"
+          },
+          {
+            "name": "anxious"
+          },
+          {
+            "name": "apathetic"
+          },
+          {
+            "name": "arms, throws about"
+          },
+          {
+            "name": "aroused, on being"
+          },
+          {
+            "name": "attacks people with knife"
+          },
+          {
+            "name": "bed, attempts to leave (See Escape.)",
+            "sr": [
+              {
+                "name": "creeps about in"
+              }
+            ]
+          },
+          {
+            "name": "bellows like a calf"
+          },
+          {
+            "name": "blames himself for his folly"
+          },
+          {
+            "name": "busy"
+          },
+          {
+            "name": "catches at flocks in air (See Gestures.)"
+          },
+          {
+            "name": "changing subject rapidly"
+          },
+          {
+            "name": "cheerful"
+          },
+          {
+            "name": "chill, during"
+          },
+          {
+            "name": "closing the eyes, on"
+          },
+          {
+            "name": "coldness, with"
+          },
+          {
+            "name": "comical"
+          },
+          {
+            "name": "constant"
+          },
+          {
+            "name": "convulsions, before",
+            "sr": [
+              {
+                "name": "during"
+              },
+              {
+                "name": "after"
+              }
+            ]
+          },
+          {
+            "name": "crying",
+            "sr": [
+              {
+                "name": "for help"
+              }
+            ]
+          },
+          {
+            "name": "dark, in"
+          },
+          {
+            "name": "depletion, after"
+          },
+          {
+            "name": "drunkards, of (See Mania-a-potu.)"
+          },
+          {
+            "name": "eating amel."
+          },
+          {
+            "name": "embraces the stove"
+          },
+          {
+            "name": "epilepsy, during",
+            "sr": [
+              {
+                "name": "after"
+              }
+            ]
+          },
+          {
+            "name": "erotic"
+          },
+          {
+            "name": "exaltation of strength, with"
+          },
+          {
+            "name": "fantastic"
+          },
+          {
+            "name": "fatigue, study, etc., from"
+          },
+          {
+            "name": "fear of men, with"
+          },
+          {
+            "name": "fierce"
+          },
+          {
+            "name": "fire, talks of"
+          },
+          {
+            "name": "foolish, silly"
+          },
+          {
+            "name": "foreign countries, talks of",
+            "sr": [
+              {
+                "name": "language, talks in a"
+              }
+            ]
+          },
+          {
+            "name": "frightful"
+          },
+          {
+            "name": "gathers objects off the wall, tries to"
+          },
+          {
+            "name": "gay",
+            "sr": [
+              {
+                "name": "alternating, with laughing, singing, whistling, crying, etc."
+              },
+              {
+                "name": "with melancholy"
+              }
+            ]
+          },
+          {
+            "name": "headache, during"
+          },
+          {
+            "name": "heat agg."
+          },
+          {
+            "name": "hemorrhage, after"
+          },
+          {
+            "name": "hysterical, almost"
+          },
+          {
+            "name": "intermittent"
+          },
+          {
+            "name": "laughing"
+          },
+          {
+            "name": "look fixed on one point, staring",
+            "sr": [
+              {
+                "name": "staring, with wrinkled face"
+              }
+            ]
+          },
+          {
+            "name": "loquacious",
+            "sr": [
+              {
+                "name": "indistinct"
+              }
+            ]
+          },
+          {
+            "name": "maniacal"
+          },
+          {
+            "name": "menses, before",
+            "sr": [
+              {
+                "name": "during"
+              }
+            ]
+          },
+          {
+            "name": "merry (See Gay.)"
+          },
+          {
+            "name": "miscarriage, after"
+          },
+          {
+            "name": "mouth, moves lips as if talking",
+            "sr": [
+              {
+                "name": "puts stones in"
+              }
+            ]
+          },
+          {
+            "name": "murmuring",
+            "sr": [
+              {
+                "name": "slowly"
+              },
+              {
+                "name": "to himself"
+              }
+            ]
+          },
+          {
+            "name": "muttering",
+            "sr": [
+              {
+                "name": "himself, to"
+              },
+              {
+                "name": "sleep, in"
+              },
+              {
+                "name": "slowly"
+              }
+            ]
+          },
+          {
+            "name": "noisy"
+          },
+          {
+            "name": "nonsense, with eyes open"
+          },
+          {
+            "name": "pains, with the"
+          },
+          {
+            "name": "paroxysmal"
+          },
+          {
+            "name": "periodic"
+          },
+          {
+            "name": "perspiration amel."
+          },
+          {
+            "name": "picking at nose or lips, with"
+          },
+          {
+            "name": "quiet"
+          },
+          {
+            "name": "rabid"
+          },
+          {
+            "name": "raging, raving"
+          },
+          {
+            "name": "rambling"
+          },
+          {
+            "name": "recognizes no one"
+          },
+          {
+            "name": "religious"
+          },
+          {
+            "name": "repeats the same sentence"
+          },
+          {
+            "name": "reproachful"
+          },
+          {
+            "name": "restless"
+          },
+          {
+            "name": "rocking to and fro"
+          },
+          {
+            "name": "rolls on floor"
+          },
+          {
+            "name": "romping with children"
+          },
+          {
+            "name": "rope across the sky, sees a"
+          },
+          {
+            "name": "same subject all the time"
+          },
+          {
+            "name": "scolding"
+          },
+          {
+            "name": "silent"
+          },
+          {
+            "name": "sleep, during",
+            "sr": [
+              {
+                "name": "amel., after"
+              },
+              {
+                "name": "falling, on"
+              }
+            ]
+          },
+          {
+            "name": "sleepiness, with"
+          },
+          {
+            "name": "sorrowful"
+          },
+          {
+            "name": "trembling, with"
+          },
+          {
+            "name": "tremens (See Mania-a-potu.)"
+          },
+          {
+            "name": "urinate on the floor, tries to",
+            "sr": [
+              {
+                "name": "urinates outside the pot"
+              }
+            ]
+          },
+          {
+            "name": "violent",
+            "sr": [
+              {
+                "name": "is restrained and calmed with great difficulty"
+              }
+            ]
+          },
+          {
+            "name": "vivid"
+          },
+          {
+            "name": "waking, on"
+          },
+          {
+            "name": "water, jumping into"
+          },
+          {
+            "name": "wedding, prepares for"
+          },
+          {
+            "name": "well, declares she is"
+          },
+          {
+            "name": "wild",
+            "sr": [
+              {
+                "name": "at night"
+              }
+            ]
+          },
+          {
+            "name": "wraps up in fur during Summer"
+          },
+          {
+            "name": "wrongs, of fancied"
+          }
+        ]
+      }
+    ]
+  }
+}
