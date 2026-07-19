@@ -35,7 +35,7 @@ export default defineConfig(({mode}) => {
           ]
         },
         workbox: {
-          maximumFileSizeToCacheInBytes: 10 * 1024 * 1024 // 10 MiB
+          maximumFileSizeToCacheInBytes: 20 * 1024 * 1024 // 20 MiB
         }
       })
     ],
