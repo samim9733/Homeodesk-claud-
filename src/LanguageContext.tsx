@@ -64,7 +64,7 @@ export const translations: Translations = {
   'header.drTitle': { en: 'Chief Physician', bn: 'চিফ ফিজিশিয়ান', hi: 'मुख्य चिकित्सक' },
   
   // Sidebar Case Card
-  'sidebar.clinicalCaseRecord': { en: 'Clinical Case Record', bn: 'ক্লিনিকাল কেস রেকর্ড', hi: 'नैदानिक केस रिकॉर्ड' },
+  'sidebar.clinicalCaseRecord': { en: 'Patient Profile Record', bn: 'রোগী প্রোফাইল রেকর্ড', hi: 'मरीज़ प्रोफ़ाइल रिकॉर्ड' },
   'sidebar.coreRubrics': { en: 'Core Rubrics', bn: 'মূল রুব্রিক্স', hi: 'कोर रूब्रिक्स' },
   'sidebar.openCaseFile': { en: 'Open Full Case File', bn: 'সম্পূর্ণ কেস ফাইল খুলুন', hi: 'पूरी केस फाइल खोलें' },
   'sidebar.currentPotency': { en: 'Current Potency', bn: 'বর্তমান শক্তি (Potency)', hi: 'वर्तमान शक्ति' },

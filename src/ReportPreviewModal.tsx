@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'motion/react';
-import { Printer, Hexagon, Pill, ArrowLeft, Download } from 'lucide-react';
+import { Printer, Hexagon, Pill, ArrowLeft, Download, FileDown } from 'lucide-react';
 import { Patient } from './types';
 
 interface ReportPreviewModalProps {
@@ -74,8 +74,8 @@ export const ReportPreviewModal: React.FC<ReportPreviewModalProps> = ({ patient,
               onClick={() => window.print()}
               className="flex items-center gap-2 px-5 py-2.5 rounded bg-[#105a5e] text-white font-bold hover:bg-[#0c4447] transition text-xs tracking-wider shadow-sm"
             >
-              <Printer size={16} />
-              PRINT RX
+              <FileDown size={16} />
+              SAVE PDF
             </button>
           </div>
         </header>

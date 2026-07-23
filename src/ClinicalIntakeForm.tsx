@@ -315,7 +315,55 @@ export const ClinicalIntakeForm = ({ patient, onAnalyze, onReport, onSave, onAdd
       </div>
 
       <div className="max-w-5xl mx-auto p-6 space-y-6">
-        
+
+        {/* Linked Repertory Rubrics — auto-populated from Kent's Repertory tab */}
+        {formData.coreRubrics && formData.coreRubrics.length > 0 && (
+          <section className="bg-emerald-50/60 rounded-3xl p-6 border border-emerald-100 shadow-sm relative">
+            <div className="flex items-center justify-between mb-4">
+              <h3 className="text-sm font-black text-emerald-800 flex items-center gap-2 uppercase tracking-wider">
+                <BookOpen className="text-emerald-600" size={18} />
+                Repertory Rubrics Linked ({formData.coreRubrics.length})
+              </h3>
+              {onOpenRepertory && (
+                <button
+                  type="button"
+                  onClick={onOpenRepertory}
+                  className="text-[10px] font-black text-emerald-700 hover:underline flex items-center gap-1"
+                >
+                  + ADD MORE
+                </button>
+              )}
+            </div>
+            <div className="flex flex-wrap gap-2">
+              {formData.coreRubrics.map((rubric, rIdx) => (
+                <span
+                  key={rIdx}
+                  className="pl-3 pr-2 py-1.5 bg-white text-emerald-800 border border-emerald-200 rounded-lg text-xs font-bold flex items-center gap-2 shadow-sm"
+                  title={rubric.remedies?.length ? `${rubric.remedies.length} remedies` : undefined}
+                >
+                  <span className="flex flex-col leading-tight">
+                    <span>{rubric.subrubric || rubric.rubric}</span>
+                    <span className="text-[9px] font-medium text-emerald-500 uppercase opacity-70">
+                      {rubric.chapter}{rubric.rubric && rubric.subrubric ? ` — ${rubric.rubric}` : ''}
+                    </span>
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      const updated = (formData.coreRubrics || []).filter((_, i) => i !== rIdx);
+                      updateFormData('coreRubrics', updated);
+                    }}
+                    className="w-4 h-4 rounded-full bg-emerald-100 hover:bg-emerald-200 text-emerald-800 flex items-center justify-center transition-colors shrink-0"
+                    title="Remove"
+                  >
+                    <X size={10} />
+                  </button>
+                </span>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* Presenting Complaints */}
         <section className="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm relative">
           <div className="flex items-center justify-between mb-6">
@@ -475,13 +523,6 @@ export const ClinicalIntakeForm = ({ patient, onAnalyze, onReport, onSave, onAdd
                       </div>
                     </div>
                 </div>
-                  <datalist id={`subrubrics-${idx}`}>
-                    {patient.coreRubrics?.map((rubric, rIdx) => (
-                      <option key={rIdx} value={rubric.subrubric || rubric.rubric}>
-                        {rubric.chapter} - {rubric.rubric}
-                      </option>
-                    ))}
-                  </datalist>
                   <div className="flex gap-3 mt-3">
                     <span className="flex items-center gap-1.5 text-[10px] font-bold text-slate-500 uppercase tracking-wider bg-white px-2 py-1 border border-slate-200 rounded-md">
                       <Clock size={12} className="text-emerald-600"/> DURATION: 

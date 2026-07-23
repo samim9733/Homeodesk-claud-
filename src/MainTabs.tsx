@@ -2,7 +2,7 @@ import React, { useState, useMemo, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import {
   Users, UserPlus, Bell, User, Calendar, ChevronRight, ChevronLeft, Search, Plus, Trash2, X, AlertCircle, Stethoscope, Save, ClipboardList,
- Microscope, Leaf, BookOpen, GraduationCap, Scroll, Quote, ArrowRight, Activity, Filter, FileText, ListFilter, ArrowUpDown, Database, ChevronDown} from 'lucide-react';
+ Microscope, Leaf, BookOpen, GraduationCap, Scroll, Quote, ArrowRight, Activity, Filter, FileText, ListFilter, ArrowUpDown, Database, ChevronDown, FileDown} from 'lucide-react';
 import { Patient, Reminder, AnalysisItem, RubricData, Remedy as RepertoryRemedy, Rubric } from './types';
 import { CHAPTER_INDEX, REPERTORY_DATA, CATEGORIES, CHAPTER_CATEGORIES, cleanRubricName } from './constants';
 import { useLanguage } from './LanguageContext';
@@ -183,13 +183,14 @@ export const Dashboard = ({ patients, analysisCount, reminders, setActiveTab }: 
   );
 };
 
-export const PatientsTab = ({ patients, addPatient, removePatient, setSelectedPatientForRx, onSetReminder, onOpenPD }: { 
+export const PatientsTab = ({ patients, addPatient, removePatient, setSelectedPatientForRx, onSetReminder, onOpenPD, onOpenReportHistory }: { 
   patients: Patient[], 
   addPatient: (p: Omit<Patient, 'id' | 'date'>) => void,
   removePatient: (id: string) => void,
   setSelectedPatientForRx: (p: Patient | null) => void,
   onSetReminder: (p: Patient) => void,
-  onOpenPD: (p: Patient) => void
+  onOpenPD: (p: Patient) => void,
+  onOpenReportHistory: (p: Patient) => void
 }) => {
   const { t } = useLanguage();
   const [name, setName] = useState('');
@@ -504,6 +505,13 @@ export const PatientsTab = ({ patients, addPatient, removePatient, setSelectedPa
                           <ClipboardList size={18} />
                         </button>
                         <button 
+                          onClick={() => onOpenReportHistory(p)}
+                          className="p-2 text-rose-500 hover:bg-rose-50 rounded-lg transition-colors" 
+                          title="Report History (Save/Print old &amp; new reports)"
+                        >
+                          <FileDown size={18} />
+                        </button>
+                        <button 
                           onClick={() => setSelectedPatientForRx(p)}
                           className="p-2 text-emerald-500 hover:bg-emerald-50 rounded-lg transition-colors" 
                           title="Write Prescription (Rx)"
@@ -603,6 +611,13 @@ export const PatientsTab = ({ patients, addPatient, removePatient, setSelectedPa
                       className="flex-1 flex items-center justify-center gap-2 py-2 bg-slate-100 text-slate-600 rounded-xl text-[10px] font-black uppercase tracking-widest"
                     >
                       <ClipboardList size={14} /> PD
+                    </button>
+                    <button 
+                      onClick={() => onOpenReportHistory(p)}
+                      className="p-2 text-rose-500 bg-rose-50 rounded-xl"
+                      title="Report History (Save/Print old &amp; new reports)"
+                    >
+                      <FileDown size={14} />
                     </button>
                     <button 
                       onClick={() => setSelectedPatientForRx(p)}
@@ -842,7 +857,7 @@ export const RepertoryTab = ({ analysis, addToAnalysis, runRepertorization, setA
         if (!remedyScores[r.n]) {
           remedyScores[r.n] = { score: 0, count: 0 };
         }
-        const points = r.g === 3 ? 3 : (r.g === 2 ? 2 : 1);
+        const points = r.g === 1 ? 3 : (r.g === 2 ? 2 : 1);
         remedyScores[r.n].score += points;
         remedyScores[r.n].count += 1;
       });
@@ -860,7 +875,7 @@ export const RepertoryTab = ({ analysis, addToAnalysis, runRepertorization, setA
     analysis.forEach(item => {
       item.remedies.forEach(r => {
         if (!remedyScores[r.n]) remedyScores[r.n] = { score: 0, count: 0 };
-        remedyScores[r.n].score += (r.g === 3 ? 3 : (r.g === 2 ? 2 : 1));
+        remedyScores[r.n].score += (r.g === 1 ? 3 : (r.g === 2 ? 2 : 1));
         remedyScores[r.n].count += 1;
       });
     });

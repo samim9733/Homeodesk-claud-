@@ -42,6 +42,9 @@ export interface Patient {
     frequency: string;
     duration: string;
     type: string;
+    date?: string;
+    basedOnRubrics?: { chapter: string; rubric: string; subrubric: string; text: string }[];
+    topRemedyMatches?: { name: string; score: number; count: number }[];
   }>;
   dietaryRestrictions?: string[];
   regimen?: string;

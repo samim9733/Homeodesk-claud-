@@ -1,5 +1,5 @@
 import { Sidebar } from './AppComponents';
-import { PatientDetailsCanvas } from './PatientModals';
+import { PatientDetailsCanvas, ReportHistoryModal } from './PatientModals';
 import { QRScannerModal, AnalysisResultModal, ImageEditorModal } from './Modals';
 import { Dashboard, PatientsTab, RepertoryTab } from './MainTabs';
 import { RemindersTab, AnalysisTab } from './AnalysisRemindersTabs';
@@ -43,6 +43,7 @@ export default function App() {
   const [quickRemedyForRx, setQuickRemedyForRx] = useState<string | undefined>(undefined);
   const [nextRemedyForRx, setNextRemedyForRx] = useState<string | undefined>(undefined);
   const [selectedPatientForPD, setSelectedPatientForPD] = useState<Patient | null>(null);
+  const [selectedPatientForReportHistory, setSelectedPatientForReportHistory] = useState<Patient | null>(null);
   const [preSelectedPatientId, setPreSelectedPatientId] = useState<string | null>(null);
   const [showGlobalReportPatient, setShowGlobalReportPatient] = useState<Patient | null>(null);
   const [isQRScannerOpen, setIsQRScannerOpen] = useState(false);
@@ -154,13 +155,23 @@ Data: ${data}`,
       return updated;
     });
     
-    // Automatically add to chief symptoms of the currently active patient (for non-Generalities)
+    // Automatically carry selected repertory rubrics into the active
+    // patient's ClinicalIntakeForm (patient.coreRubrics) so the
+    // "Repertory Suggestions" section there shows them immediately.
     const activePatientId = preSelectedPatientId || (patients.length > 0 ? patients[0].id : null);
     if (activePatientId) {
       const p = patients.find(pat => pat.id === activePatientId);
       if (p) {
+        const existingCoreRubrics = p.coreRubrics || [];
+        const newCoreRubrics = items.filter(
+          it => !existingCoreRubrics.some(a => a.text === it.text)
+        );
+        let updatedCoreRubrics = existingCoreRubrics;
+        if (newCoreRubrics.length > 0) {
+          updatedCoreRubrics = [...existingCoreRubrics, ...newCoreRubrics];
+        }
         let updatedSymptoms = [...(p.chiefSymptoms || [])];
-        let changed = false;
+        let changed = newCoreRubrics.length > 0;
         
         items.forEach(it => {
           if (it.chapter !== 'Generalities') {
@@ -183,7 +194,8 @@ Data: ${data}`,
         if (changed) {
           const updatedPatient = {
             ...p,
-            chiefSymptoms: updatedSymptoms
+            chiefSymptoms: updatedSymptoms,
+            coreRubrics: updatedCoreRubrics
           };
           updatePatient(updatedPatient);
         }
@@ -371,6 +383,7 @@ Data: ${data}`,
                   removePatient={removePatient}
                   setSelectedPatientForRx={setSelectedPatientForRx}
                   onOpenPD={setSelectedPatientForPD}
+                  onOpenReportHistory={setSelectedPatientForReportHistory}
                   onSetReminder={(p) => {
                     setPreSelectedPatientId(p.id);
                     setActiveTab('reminders');
@@ -823,6 +836,13 @@ Data: ${data}`,
                 await updatePatient(updatedPatient);
                 setSelectedPatientForPD(updatedPatient);
               }}
+            />
+          )}
+          {selectedPatientForReportHistory && (
+            <ReportHistoryModal
+              patient={selectedPatientForReportHistory}
+              onClose={() => setSelectedPatientForReportHistory(null)}
+              onNewReport={(p) => setSelectedPatientForRx(p)}
             />
           )}
         </AnimatePresence>

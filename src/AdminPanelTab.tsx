@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useLanguage } from './LanguageContext';
 import { PharmacyManual } from './PharmacyManual';
 import { PhysiologyAnatomyTab } from './PhysiologyAnatomyTab';
-import { REPERTORY_DATA } from './repertoryData';
+import { REPERTORY_DATA } from './constants';
 import { ORGANON_DATA, PREFACES_DATA } from './organonData';
 import { MATERIA_MEDICA_DATA } from './materiaMedicaData';
 import { PATHOLOGY_DATA, PHYSIOLOGY_ANATOMY_DATA } from './medicalData';

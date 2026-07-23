@@ -4,6 +4,8 @@ export interface Aphorism {
   title?: string;
   banglaTitle?: string;
   banglaText?: string;
+  intro?: string;
+  banglaIntro?: string;
 }
 
 export interface Preface {
@@ -58,28 +60,36 @@ export const ORGANON_DATA: Aphorism[] = [
     title: "The Physician's Mission",
     banglaTitle: "চিকিৎসকের লক্ষ্য",
     text: "The physician's high and only mission is to restore the sick to health, to cure, as it is termed.",
-    banglaText: "চিকিৎসকের একমাত্র এবং উচ্চতর লক্ষ্য হলো অসুস্থ ব্যক্তিকে স্বাস্থ্যে ফিরিয়ে আনা, যাকে আরোগ্য বলা হয়।"
+    banglaText: "চিকিৎসকের একমাত্র এবং উচ্চতর লক্ষ্য হলো অসুস্থ ব্যক্তিকে স্বাস্থ্যে ফিরিয়ে আনা, যাকে আরোগ্য বলা হয়।",
+    intro: "Homeopathy begins with a single, uncompromising goal: cure, not merely symptom control.",
+    banglaIntro: "হোমিওপ্যাথি শুরু হয় একটাই লক্ষ্য নিয়ে — শুধু লক্ষণ দমন নয়, প্রকৃত আরোগ্য।"
   },
   {
     id: 2,
     title: "The Ideal of Cure",
     banglaTitle: "আরোগ্যের আদর্শ",
     text: "The highest ideal of cure is rapid, gentle and permanent restoration of the health, or removal and annihilation of the disease in its whole extent, in the shortest, most reliable, and most harmless way, on easily comprehensible principles.",
-    banglaText: "আরোগ্যের সর্বোচ্চ আদর্শ হলো দ্রুত, মৃদু এবং স্থায়ীভাবে স্বাস্থ্যের পুনরুদ্ধার করা, অথবা রোগের সম্পূর্ণ বিস্তারকে সংক্ষিপ্ততম, নির্ভরযোগ্য এবং ক্ষতিকর নয় এমন উপায়ে নির্মূল করা, যা সহজে বোধগম্য নীতির ওপর ভিত্তি করে।"
+    banglaText: "আরোগ্যের সর্বোচ্চ আদর্শ হলো দ্রুত, মৃদু এবং স্থায়ীভাবে স্বাস্থ্যের পুনরুদ্ধার করা, অথবা রোগের সম্পূর্ণ বিস্তারকে সংক্ষিপ্ততম, নির্ভরযোগ্য এবং ক্ষতিকর নয় এমন উপায়ে নির্মূল করা, যা সহজে বোধগম্য নীতির ওপর ভিত্তি করে।",
+    intro: "A cure only counts as ideal when it is fast, gentle, and lasting — anything less falls short.",
+    banglaIntro: "দ্রুত, মৃদু আর স্থায়ী — এই তিনটে না মিললে আরোগ্যকে পরিপূর্ণ বলা যায় না।"
   },
   {
     id: 3,
     title: "Knowledge of the Physician",
     banglaTitle: "চিকিৎসকের জ্ঞান",
     text: "If the physician clearly perceives what is to be cured in diseases, that is to say, in every individual case of disease (knowledge of disease, indication), if he clearly perceives what is curative in medicines, that is to say, in each individual medicine (knowledge of medicinal powers), and if he knows how to adapt, according to clearly defined principles, what is curative in medicines to what he has discovered to be undoubtedly morbid in the patient, so that the recovery must ensue - to adapt it, as well in respect to the suitability of the medicine most appropriate according to its mode of action to the case before him (choice of the remedy, the medicine indicated), as also in respect to the exact mode of preparation and quantity of it required (proper dose), and the proper period for repeating the dose; - if, finally, he knows the obstacles to recovery in each case and is aware how to remove them, so that the restoration may be permanent, then he understands how to treat judiciously and rationally, and he is a true practitioner of the healing art.",
-    banglaText: "যদি চিকিৎসক স্পষ্টভাবে বুঝতে পারেন রোগের মধ্যে কী আরোগ্য করতে হবে (রোগের জ্ঞান), যদি তিনি স্পষ্টভাবে বুঝতে পারেন ওষুধের মধ্যে কী আরোগ্যকারী শক্তি আছে (ওষুধের জ্ঞান), এবং যদি তিনি জানেন কীভাবে সুনির্দিষ্ট নীতি অনুযায়ী ওষুধের আরোগ্যকারী শক্তিকে রোগীর অসুস্থতার সাথে প্রয়োগ করতে হয় যাতে আরোগ্য নিশ্চিত হয় - তবেই তিনি একজন প্রকৃত চিকিৎসক।"
+    banglaText: "যদি চিকিৎসক স্পষ্টভাবে বুঝতে পারেন রোগের মধ্যে কী আরোগ্য করতে হবে (রোগের জ্ঞান), যদি তিনি স্পষ্টভাবে বুঝতে পারেন ওষুধের মধ্যে কী আরোগ্যকারী শক্তি আছে (ওষুধের জ্ঞান), এবং যদি তিনি জানেন কীভাবে সুনির্দিষ্ট নীতি অনুযায়ী ওষুধের আরোগ্যকারী শক্তিকে রোগীর অসুস্থতার সাথে প্রয়োগ করতে হয় যাতে আরোগ্য নিশ্চিত হয় - তবেই তিনি একজন প্রকৃত চিকিৎসক।",
+    intro: "Three skills define a competent homeopath: knowing the disease, knowing the remedy, and knowing how to match the two.",
+    banglaIntro: "প্রকৃত চিকিৎসক তিনিই যিনি রোগ চেনেন, ওষুধ চেনেন, আর দুটোকে সঠিকভাবে মেলাতে জানেন।"
   },
   {
     id: 4,
     title: "Preserver of Health",
     banglaTitle: "স্বাস্থ্য রক্ষক",
     text: "He is likewise a preserver of health if he knows the things that derange health and cause disease, and how to remove them from persons in health.",
-    banglaText: "তিনি স্বাস্থ্যের রক্ষকও বটে, যদি তিনি জানেন কোন বিষয়গুলো স্বাস্থ্য নষ্ট করে এবং রোগ সৃষ্টি করে, এবং কীভাবে সুস্থ ব্যক্তিদের থেকে সেগুলো দূর করতে হয়।"
+    banglaText: "তিনি স্বাস্থ্যের রক্ষকও বটে, যদি তিনি জানেন কোন বিষয়গুলো স্বাস্থ্য নষ্ট করে এবং রোগ সৃষ্টি করে, এবং কীভাবে সুস্থ ব্যক্তিদের থেকে সেগুলো দূর করতে হয়।",
+    intro: "Good medicine isn't only about curing illness — it's also about recognizing and removing what causes it in the first place.",
+    banglaIntro: "ভালো চিকিৎসা শুধু রোগ সারানো নয় — রোগ যা তৈরি করে তা চিনে আগেভাগে সরিয়ে দেওয়াও।"
   },
   {
     id: 5,
@@ -1486,98 +1496,126 @@ export const ORGANON_DATA: Aphorism[] = [
     title: "The Mode of Administration",
     banglaTitle: "প্রয়োগের ধরণ",
     text: "Medicines can be given in various forms, but the dynamic effect is what matters.",
-    banglaText: "ওষুধ বিভিন্ন আকারে দেওয়া যেতে পারে, তবে গতিশীল প্রভাবই আসল।"
+    banglaText: "ওষুধ বিভিন্ন আকারে দেওয়া যেতে পারে, তবে গতিশীল প্রভাবই আসল।",
+    intro: "However a remedy is given, what actually heals is its dynamic action on the vital force — not its physical form.",
+    banglaIntro: "ওষুধ যেভাবেই দেওয়া হোক না কেন, আসল কাজ করে তার গতিশীল (energetic) প্রভাব — রূপ নয়।"
   },
   {
     id: 246,
     title: "The Repetition of the Dose",
     banglaTitle: "মাত্রার পুনরাবৃত্তি",
     text: "The dose should be repeated only when the improvement stops.",
-    banglaText: "উন্নতি বন্ধ হলেই কেবল মাত্রা পুনরাবৃত্তি করা উচিত।"
+    banglaText: "উন্নতি বন্ধ হলেই কেবল মাত্রা পুনরাবৃত্তি করা উচিত।",
+    intro: "Don't repeat a dose out of habit — wait until improvement has genuinely stalled.",
+    banglaIntro: "স্বয়ংক্রিয়ভাবে ডোজ পুনরাবৃত্তি না করে — উন্নতি সত্যিই থেমে গেলে তবেই আবার দিন।"
   },
   {
     id: 247,
     title: "The Change of Potency",
     banglaTitle: "শক্তির পরিবর্তন",
     text: "Changing the potency can sometimes help when the progress of cure is slow.",
-    banglaText: "আরোগ্যের গতি ধীর হলে শক্তির পরিবর্তন কখনও কখনও সাহায্য করতে পারে।"
+    banglaText: "আরোগ্যের গতি ধীর হলে শক্তির পরিবর্তন কখনও কখনও সাহায্য করতে পারে।",
+    intro: "When healing slows down, switching potency — not the remedy itself — can often restart progress.",
+    banglaIntro: "আরোগ্যের গতি ধীর হলে, মাঝেমধ্যে ওষুধ না বদলে শুধু শক্তি (potency) বদলালেই কাজ হয়।"
   },
   {
     id: 248,
     title: "The LM Potencies",
     banglaTitle: "এলএম শক্তি",
     text: "The LM potencies allow for more frequent repetition with less risk of aggravation.",
-    banglaText: "এলএম শক্তি বৃদ্ধির ঝুঁকি কমিয়ে আরও ঘন ঘন পুনরাবৃত্তির সুযোগ দেয়।"
+    banglaText: "এলএম শক্তি বৃদ্ধির ঝুঁকি কমিয়ে আরও ঘন ঘন পুনরাবৃত্তির সুযোগ দেয়।",
+    intro: "The 50-millesimal (LM) scale was Hahnemann's later refinement, built for gentler, more frequent dosing.",
+    banglaIntro: "৫০-মিলেসিমাল (LM) স্কেল হ্যানিম্যানের পরবর্তী উদ্ভাবন — মৃদু ও ঘন ঘন ডোজের জন্য।"
   },
   {
     id: 249,
     title: "Antidoting the Remedy",
     banglaTitle: "ওষুধের বিষক্রিয়া নাশক",
     text: "If a remedy produces severe aggravation, it may need to be antidoted.",
-    banglaText: "যদি কোনো ওষুধ মারাত্মক বৃদ্ধি ঘটায়, তবে তার বিষক্রিয়া নাশক প্রয়োজন হতে পারে।"
+    banglaText: "যদি কোনো ওষুধ মারাত্মক বৃদ্ধি ঘটায়, তবে তার বিষক্রিয়া নাশক প্রয়োজন হতে পারে।",
+    intro: "A remedy that overshoots and causes real harm can itself be counteracted.",
+    banglaIntro: "কোনো ওষুধ বেশি বেড়ে গিয়ে সত্যিকারের ক্ষতি করলে, তাকে প্রতিষেধক দিয়ে থামানো যায়।"
   },
   {
     id: 250,
     title: "The Signs of Improvement",
     banglaTitle: "উন্নতির লক্ষণ",
     text: "The patient's general sense of well-being is a good sign of improvement.",
-    banglaText: "রোগীর সাধারণ সুস্থতার অনুভূতি উন্নতির একটি ভালো লক্ষণ।"
+    banglaText: "রোগীর সাধারণ সুস্থতার অনুভূতি উন্নতির একটি ভালো লক্ষণ।",
+    intro: "Look past the symptom checklist — how the patient feels overall is often the clearest sign of healing.",
+    banglaIntro: "লক্ষণের তালিকার বাইরেও তাকান — রোগী সার্বিকভাবে কেমন বোধ করছেন সেটাই প্রায়ই উন্নতির সবচেয়ে স্পষ্ট চিহ্ন।"
   },
   {
     id: 251,
     title: "The Signs of Aggravation",
     banglaTitle: "বৃদ্ধির লক্ষণ",
     text: "An increase in the existing symptoms is a sign of homoeopathic aggravation.",
-    banglaText: "বিদ্যমান লক্ষণের বৃদ্ধি হলো হোমিওপ্যাথিক বৃদ্ধির একটি লক্ষণ।"
+    banglaText: "বিদ্যমান লক্ষণের বৃদ্ধি হলো হোমিওপ্যাথিক বৃদ্ধির একটি লক্ষণ।",
+    intro: "A brief worsening of existing symptoms right after dosing is usually a good sign, not a bad one.",
+    banglaIntro: "ডোজের পরপরই বিদ্যমান লক্ষণ সামান্য বেড়ে যাওয়া সাধারণত খারাপ নয়, বরং ভালো লক্ষণ।"
   },
   {
     id: 252,
     title: "Obstacles to Cure",
     banglaTitle: "আরোগ্যের বাধা",
     text: "The physician must identify and remove any obstacles to cure, such as bad habits or environment.",
-    banglaText: "চিকিৎসককে আরোগ্যের যেকোনো বাধা, যেমন খারাপ অভ্যাস বা পরিবেশ, চিহ্নিত এবং দূর করতে হবে।"
+    banglaText: "চিকিৎসককে আরোগ্যের যেকোনো বাধা, যেমন খারাপ অভ্যাস বা পরিবেশ, চিহ্নিত এবং দূর করতে হবে।",
+    intro: "No remedy can out-perform a lifestyle or environment that keeps recreating the disease.",
+    banglaIntro: "জীবনযাপন বা পরিবেশ বারবার রোগ তৈরি করতে থাকলে, কোনো ওষুধই তার সাথে পাল্লা দিতে পারে না।"
   },
   {
     id: 253,
     title: "The Patient's Report",
     banglaTitle: "রোগীর রিপোর্ট",
     text: "The patient's own report of his condition is very important.",
-    banglaText: "রোগীর নিজের অবস্থার রিপোর্ট খুব গুরুত্বপূর্ণ।"
+    banglaText: "রোগীর নিজের অবস্থার রিপোর্ট খুব গুরুত্বপূর্ণ।",
+    intro: "The patient's own account of how they feel carries real clinical weight — it isn't just anecdote.",
+    banglaIntro: "রোগী নিজে কেমন বোধ করছেন তার বর্ণনার সত্যিকারের ক্লিনিক্যাল গুরুত্ব আছে — নিছক গল্প নয়।"
   },
   {
     id: 254,
     title: "The Physician's Observation",
     banglaTitle: "চিকিৎসকের পর্যবেক্ষণ",
     text: "The physician must also use his own observation to monitor the progress.",
-    banglaText: "চিকিৎসককেও অগ্রগতি পর্যবেক্ষণের জন্য নিজের পর্যবেক্ষণ ব্যবহার করতে হবে।"
+    banglaText: "চিকিৎসককেও অগ্রগতি পর্যবেক্ষণের জন্য নিজের পর্যবেক্ষণ ব্যবহার করতে হবে।",
+    intro: "Trust the patient's report, but pair it with your own trained observation.",
+    banglaIntro: "রোগীর বর্ণনায় ভরসা রাখুন, তবে সাথে নিজের প্রশিক্ষিত পর্যবেক্ষণও যোগ করুন।"
   },
   {
     id: 255,
     title: "The False Improvement",
     banglaTitle: "মিথ্যা উন্নতি",
     text: "The physician must be able to distinguish between true improvement and temporary relief.",
-    banglaText: "চিকিৎসককে প্রকৃত উন্নতি এবং সাময়িক উপশমের মধ্যে পার্থক্য করতে সক্ষম হতে হবে।"
+    banglaText: "চিকিৎসককে প্রকৃত উন্নতি এবং সাময়িক উপশমের মধ্যে পার্থক্য করতে সক্ষম হতে হবে।",
+    intro: "Not all relief is cure — some improvement is temporary, and a careful physician learns to tell the difference.",
+    banglaIntro: "সব উপশমই আরোগ্য নয় — কিছু উপশম সাময়িক, আর সতর্ক চিকিৎসক এই পার্থক্য ধরতে শেখেন।"
   },
   {
     id: 256,
     title: "The Patient's Disposition",
     banglaTitle: "রোগীর মেজাজ",
     text: "A change in the patient's disposition is a very important sign of the remedy's action.",
-    banglaText: "রোগীর মেজাজের পরিবর্তন ওষুধের ক্রিয়ার একটি খুব গুরুত্বপূর্ণ লক্ষণ।"
+    banglaText: "রোগীর মেজাজের পরিবর্তন ওষুধের ক্রিয়ার একটি খুব গুরুত্বপূর্ণ লক্ষণ।",
+    intro: "A shift in mood or temperament often reveals a remedy's action before physical symptoms catch up.",
+    banglaIntro: "শারীরিক লক্ষণ পাল্টানোর আগেই প্রায়ই মেজাজ বা মানসিকতার পরিবর্তনে ওষুধের কাজ ধরা পড়ে।"
   },
   {
     id: 257,
     title: "The Choice of Potency",
     banglaTitle: "শক্তি নির্বাচন",
     text: "The choice of potency depends on the nature of the disease and the sensitivity of the patient.",
-    banglaText: "শক্তি নির্বাচন রোগের প্রকৃতি এবং রোগীর সংবেদনশীলতার ওপর নির্ভর করে।"
+    banglaText: "শক্তি নির্বাচন রোগের প্রকৃতি এবং রোগীর সংবেদনশীলতার ওপর নির্ভর করে।",
+    intro: "There's no universal potency — the right strength depends on the case and the person in front of you.",
+    banglaIntro: "সব ক্ষেত্রে এক শক্তি চলে না — সঠিক শক্তি নির্ভর করে কেস আর রোগীর ওপর।"
   },
   {
     id: 258,
     title: "The High Potencies",
     banglaTitle: "উচ্চ শক্তি",
     text: "High potencies are often needed for deep-seated chronic diseases.",
-    banglaText: "গভীরভাবে প্রোথিত দীর্ঘস্থায়ী রোগের জন্য প্রায়ই উচ্চ শক্তির প্রয়োজন হয়।"
+    banglaText: "গভীরভাবে প্রোথিত দীর্ঘস্থায়ী রোগের জন্য প্রায়ই উচ্চ শক্তির প্রয়োজন হয়।",
+    intro: "Chronic, deep-rooted disease often calls for higher potencies than acute complaints do.",
+    banglaIntro: "দীর্ঘস্থায়ী, গভীর রোগে প্রায়ই তীব্র (আকস্মিক) রোগের চেয়ে উচ্চ শক্তি লাগে।"
   },
   {
     id: 259,

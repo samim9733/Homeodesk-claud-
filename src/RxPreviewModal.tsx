@@ -66,7 +66,19 @@ export const PrescriptionCanvas: React.FC<RxPreviewModalProps> = ({ patient, onC
       dosage: rxDosage,
       frequency: rxFrequency,
       duration: rxDuration,
-      type: 'Liquid dilution'
+      type: 'Liquid dilution',
+      date: new Date().toISOString(),
+      basedOnRubrics: (initialAnalysis && initialAnalysis.length > 0)
+        ? initialAnalysis.map(item => ({
+            chapter: item.chapter,
+            rubric: item.rubric,
+            subrubric: item.subrubric,
+            text: item.text
+          }))
+        : undefined,
+      topRemedyMatches: (initialResults && initialResults.length > 0)
+        ? initialResults.slice(0, 10).map((r: any) => ({ name: r.name, score: r.score, count: r.count }))
+        : undefined
     };
 
     const updatedPatient: Patient = {
@@ -336,7 +348,7 @@ export const PrescriptionCanvas: React.FC<RxPreviewModalProps> = ({ patient, onC
               className="flex items-center gap-2 px-5 py-2 rounded bg-slate-100 text-slate-700 font-medium hover:bg-slate-200 transition text-[13px] shadow-sm"
             >
               <Printer size={16} />
-              <span>Print Prescription</span>
+              <span>Save PDF</span>
             </button>
             <button 
               onClick={(e) => { e.stopPropagation(); handleDownload(); }}
@@ -511,6 +523,38 @@ export const PrescriptionCanvas: React.FC<RxPreviewModalProps> = ({ patient, onC
                   )}
                 </ul>
               </div>
+
+              {/* Repertory Analysis (auto-carried from Kent's Repertory tab) */}
+              {(initialAnalysis && initialAnalysis.length > 0) && (
+                <div>
+                  <h3 className="text-[10px] font-bold uppercase tracking-[0.1em] text-[#1e612a] border-b border-[#e2ebd9] pb-2 mb-4">
+                    REPERTORY ANALYSIS
+                  </h3>
+                  {initialResults && initialResults.length > 0 && (
+                    <div className="mb-4 flex flex-wrap gap-1.5">
+                      {initialResults.slice(0, 5).map((r, i) => (
+                        <span
+                          key={r.name}
+                          className={`text-[10px] font-bold px-2 py-1 rounded-full border ${i === 0 ? 'bg-[#1e612a] text-white border-[#1e612a]' : 'bg-[#f3f7ee] text-[#1e612a] border-[#e2ebd9]'}`}
+                        >
+                          {r.name} ({r.score})
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                  <ul className="text-[11px] text-slate-700 space-y-2 font-medium">
+                    {initialAnalysis.map((item, i) => (
+                      <li key={i} className="flex items-start gap-2.5">
+                        <span className="w-1 h-1 rounded-full bg-[#1e612a] mt-1.5 shrink-0"></span>
+                        <span className="leading-snug">
+                          <span className="font-bold text-slate-900">{item.chapter}</span>
+                          {' — '}{item.text}
+                        </span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
 
               {/* Miasmatic Analysis */}
               <div>

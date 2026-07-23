@@ -26,6 +26,57 @@ export const OrganonTab = () => {
     return saved ? JSON.parse(saved) : [];
   });
   const [showBookmarksOnly, setShowBookmarksOnly] = useState(false);
+  const [expandedCoreGroups, setExpandedCoreGroups] = useState<string[]>([]);
+  const toggleCoreGroup = (id: string) => {
+    setExpandedCoreGroups(prev => prev.includes(id) ? prev.filter(g => g !== id) : [...prev, id]);
+  };
+  const CORE_PRINCIPLE_GROUPS = [
+    { id: 'mission', label: "The Physician's Mission", bn: 'চিকিৎসকের লক্ষ্য', range: [1, 2],
+      intro: "Defines the physician's single true purpose: restoring the sick to health, quickly, gently, and permanently.",
+      banglaIntro: "চিকিৎসকের একমাত্র প্রকৃত লক্ষ্য কী তা নির্ধারণ করে — দ্রুত, মৃদুভাবে এবং স্থায়ীভাবে রোগীকে সুস্থ করে তোলা।" },
+    { id: 'requisites', label: 'Requisites for a Rational Cure', bn: 'যুক্তিসঙ্গত আরোগ্যের শর্ত', range: [3, 4],
+      intro: "What a physician must know and do before treatment begins: understand the disease, know the remedy's action, and remove obstacles to cure.",
+      banglaIntro: "চিকিৎসা শুরুর আগে একজন চিকিৎসকের যা জানা ও করা প্রয়োজন — রোগ বোঝা, ওষুধের ক্রিয়া জানা এবং আরোগ্যের পথে বাধা দূর করা।" },
+    { id: 'obstacles', label: 'Removing Obstacles to Cure', bn: 'আরোগ্যের অন্তরায় দূরীকরণ', range: [5, 8],
+      intro: "Covers gathering the patient's history, circumstances, and habits, and clearing away factors that keep a disease going.",
+      banglaIntro: "রোগীর ইতিহাস, পারিপার্শ্বিকতা ও অভ্যাস জানা এবং রোগ টিকিয়ে রাখা এমন কারণ দূর করার বিষয়ে আলোচনা।" },
+    { id: 'vital_force', label: 'The Vital Force & Nature of Disease', bn: 'জীবনীশক্তি ও রোগের প্রকৃতি', range: [9, 18],
+      intro: "Explains disease as a disturbance of the invisible vital force, which expresses itself through symptoms rather than through a fixed material lesion.",
+      banglaIntro: "রোগকে অদৃশ্য জীবনীশক্তির বিশৃঙ্খলা হিসেবে ব্যাখ্যা করে, যা কোনো স্থায়ী বস্তুগত ক্ষতের বদলে লক্ষণের মাধ্যমে প্রকাশ পায়।" },
+    { id: 'symptom_totality', label: 'The Totality of Symptoms', bn: 'লক্ষণসমষ্টি', range: [19, 27],
+      intro: "The complete set of a patient's symptoms — not a diagnostic label — is the true target of homeopathic treatment.",
+      banglaIntro: "রোগীর সম্পূর্ণ লক্ষণসমষ্টিই — কোনো রোগ-নাম নয় — হোমিওপ্যাথিক চিকিৎসার আসল লক্ষ্যবস্তু।" },
+    { id: 'law_of_similars', label: 'The Law of Similars', bn: 'সদৃশ বিধান', range: [24, 27],
+      intro: "States and defends the central homeopathic principle: a substance that can produce a set of symptoms in a healthy person can cure a similar set in a sick one.",
+      banglaIntro: "হোমিওপ্যাথির মূল নীতি প্রতিষ্ঠা করে — সুস্থ মানুষে যে পদার্থ যে লক্ষণ তৈরি করতে পারে, রোগীর একই ধরনের লক্ষণ তা আরোগ্য করতে পারে।" },
+    { id: 'drug_provings', label: 'Drug Provings', bn: 'ঔষধ পরীক্ষা (প্রুভিং)', range: [105, 145],
+      intro: "How remedies are tested on healthy subjects to record their true symptom-producing power, forming the basis of the Materia Medica.",
+      banglaIntro: "সুস্থ মানুষের উপর পরীক্ষা করে ওষুধের প্রকৃত লক্ষণ-উৎপাদন ক্ষমতা রেকর্ড করার পদ্ধতি, যা মেটেরিয়া মেডিকার ভিত্তি।" },
+    { id: 'case_taking', label: 'Case Taking & Examining the Patient', bn: 'কেস টেকিং', range: [83, 104],
+      intro: "Guidance on observing and questioning the patient without leading them, to record symptoms exactly as they naturally occur.",
+      banglaIntro: "রোগীকে প্রভাবিত না করে পর্যবেক্ষণ ও প্রশ্ন করার নির্দেশনা, যাতে লক্ষণ যেমন স্বাভাবিকভাবে দেখা দেয় ঠিক সেভাবেই লিপিবদ্ধ হয়।" },
+    { id: 'remedy_selection', label: 'Selecting the Remedy', bn: 'ওষুধ নির্বাচন', range: [146, 171],
+      intro: "How to match the recorded symptom-picture of the patient against proven remedy-pictures to find the most similar match.",
+      banglaIntro: "রোগীর লিপিবদ্ধ লক্ষণচিত্রকে পরীক্ষিত ওষুধ-চিত্রের সাথে মিলিয়ে সবচেয়ে সদৃশ ওষুধ খুঁজে বের করার পদ্ধতি।" },
+    { id: 'chronic_disease', label: 'Chronic Diseases', bn: 'পুরাতন রোগ', range: [72, 82],
+      intro: "Distinguishes acute from chronic disease and introduces the deeper, underlying causes behind long-standing complaints.",
+      banglaIntro: "তীব্র ও পুরাতন রোগের পার্থক্য এবং দীর্ঘস্থায়ী রোগের গভীর অন্তর্নিহিত কারণ সম্পর্কে ধারণা দেয়।" },
+    { id: 'one_sided', label: 'One-Sided & Difficult Diseases', bn: 'একপার্শ্বিক ও জটিল রোগ', range: [231, 244],
+      intro: "How to manage cases where few symptoms are visible, or a strong local symptom dominates the picture.",
+      banglaIntro: "যেসব ক্ষেত্রে লক্ষণ কম দেখা যায় বা একটি প্রবল স্থানিক লক্ষণ সমগ্র চিত্রে প্রাধান্য পায়, তা সামলানোর উপায়।" },
+    { id: 'mental_disease', label: 'Mental & Emotional Diseases', bn: 'মানসিক রোগ', range: [210, 230],
+      intro: "Mental and emotional symptoms are treated as an integral part of the disease picture, not a separate category.",
+      banglaIntro: "মানসিক ও আবেগগত লক্ষণকে রোগচিত্রের একটি অবিচ্ছেদ্য অংশ হিসেবে বিবেচনা করা হয়, আলাদা বিভাগ হিসেবে নয়।" },
+    { id: 'dosage', label: 'Dosage & Administration', bn: 'মাত্রা ও প্রয়োগ', range: [245, 263],
+      intro: "Practical directions on potency, repetition, and administering the smallest effective dose.",
+      banglaIntro: "শক্তি নির্বাচন, পুনরাবৃত্তি এবং সর্বনিম্ন কার্যকর মাত্রা প্রয়োগের ব্যবহারিক নির্দেশনা।" },
+    { id: 'regimen', label: 'Diet & Regimen', bn: 'খাদ্য ও দিনচর্যা', range: [259, 263],
+      intro: "Advice on diet and lifestyle during treatment, so nothing interferes with the remedy's action.",
+      banglaIntro: "চিকিৎসাকালীন খাদ্য ও জীবনযাত্রা সংক্রান্ত পরামর্শ, যাতে ওষুধের কাজে কোনো বাধা না আসে।" },
+    { id: 'other_methods', label: 'Auxiliary & Other Methods of Treatment', bn: 'সহায়ক চিকিৎসা পদ্ধতি', range: [264, 291],
+      intro: "Discusses mechanical and external aids alongside remedies, and closes with concluding reflections.",
+      banglaIntro: "ওষুধের পাশাপাশি যান্ত্রিক ও বাহ্যিক সহায়ক ব্যবস্থার আলোচনা এবং সামগ্রিক উপসংহার।" },
+  ];
 
   const [isReaderOpen, setIsReaderOpen] = useState(false);
 
@@ -141,7 +192,7 @@ export const OrganonTab = () => {
               {[
                 { id: 'all', label: 'All', bn: 'সব' },
                 { id: 'food', label: 'Food Note', bn: 'খাদ্য নোট' },
-                { id: 'dr_choice', label: 'Dr Choice', bn: 'চিকিৎসকের পছন্দ' },
+                { id: 'dr_choice', label: 'Core Principles', bn: 'মূলনীতি' },
                 { id: 'case_taking', label: 'Case Taking', bn: 'কেস টেকিং' }
               ].map(filter => (
                 <button
@@ -164,6 +215,83 @@ export const OrganonTab = () => {
 
           <div className="px-4 md:px-6 space-y-3 pb-12">
             {organonSubTab === 'aphorisms' ? (
+              activeFilter === 'dr_choice' ? (
+                CORE_PRINCIPLE_GROUPS.map(group => {
+                  const groupAphorisms = filteredAphorisms.filter(a => a.id >= group.range[0] && a.id <= group.range[1]);
+                  const isOpen = expandedCoreGroups.includes(group.id);
+                  return (
+                    <div key={group.id} className="rounded-3xl border-2 border-slate-100 bg-white/60 overflow-hidden">
+                      <button
+                        type="button"
+                        onClick={() => toggleCoreGroup(group.id)}
+                        className="w-full flex items-center justify-between gap-3 px-4 md:px-5 py-4 text-left hover:bg-slate-50 transition-colors"
+                      >
+                        <div className="min-w-0">
+                          <div className="flex items-center gap-2">
+                            <span className="text-[9px] md:text-[10px] font-black uppercase tracking-[0.15em] text-primary">
+                              §{group.range[0]}–{group.range[1]}
+                            </span>
+                            <span className="text-[9px] font-bold text-slate-400">({groupAphorisms.length})</span>
+                          </div>
+                          <h4 className="text-xs md:text-sm font-black text-slate-900 mt-0.5">{group.label}</h4>
+                          <p className="text-[9px] md:text-[10px] text-slate-400 font-bold mt-0.5">{group.bn}</p>
+                        </div>
+                        <span className={`material-symbols-outlined text-slate-400 shrink-0 transition-transform duration-300 ${isOpen ? 'rotate-180' : ''}`}>
+                          expand_more
+                        </span>
+                      </button>
+
+                      <AnimatePresence initial={false}>
+                        {isOpen && (
+                          <motion.div
+                            initial={{ height: 0, opacity: 0 }}
+                            animate={{ height: 'auto', opacity: 1 }}
+                            exit={{ height: 0, opacity: 0 }}
+                            transition={{ duration: 0.25 }}
+                            className="overflow-hidden"
+                          >
+                            <div className="px-4 md:px-5 pb-2 -mt-1">
+                              <p className="text-[10px] md:text-[11px] text-slate-500 font-medium leading-relaxed border-t border-slate-100 pt-3">
+                                {group.intro}
+                              </p>
+                              <p className="text-[9px] md:text-[10px] text-slate-400 font-medium leading-relaxed mt-1">
+                                {group.banglaIntro}
+                              </p>
+                            </div>
+                            <div className="px-4 md:px-5 pb-4 space-y-2">
+                              {groupAphorisms.map(a => (
+                                <div
+                                  key={a.id}
+                                  onClick={() => { setSelectedAphorism(a); setIsReaderOpen(true); }}
+                                  className={`p-3 rounded-2xl cursor-pointer transition-all border ${
+                                    selectedAphorism?.id === a.id
+                                      ? 'bg-primary/5 border-primary'
+                                      : 'bg-white border-slate-100 hover:border-slate-200'
+                                  }`}
+                                >
+                                  <div className="flex justify-between items-start mb-1.5">
+                                    <span className={`text-[9px] font-black uppercase tracking-[0.15em] ${selectedAphorism?.id === a.id ? 'text-primary' : 'text-slate-400'}`}>
+                                      {t('library.aphorism')} {a.id}
+                                    </span>
+                                    {bookmarks.includes(a.id) && (
+                                      <span className="material-symbols-outlined text-primary text-base">verified</span>
+                                    )}
+                                  </div>
+                                  <h3 className="text-xs font-black text-slate-900 leading-tight mb-1">{a.title || `${t('library.aphorism')} ${a.id}`}</h3>
+                                  <p className="text-[9px] text-slate-500 font-bold line-clamp-2 leading-relaxed">{a.text}</p>
+                                </div>
+                              ))}
+                              {groupAphorisms.length === 0 && (
+                                <p className="text-[10px] text-slate-300 font-bold italic py-2">No aphorisms loaded in this range yet.</p>
+                              )}
+                            </div>
+                          </motion.div>
+                        )}
+                      </AnimatePresence>
+                    </div>
+                  );
+                })
+              ) : (
               filteredAphorisms.map((a) => (
                 <motion.div
                   key={a.id}
@@ -187,6 +315,7 @@ export const OrganonTab = () => {
                   <p className="text-[9px] md:text-[10px] text-slate-500 font-bold line-clamp-2 leading-relaxed">{a.text}</p>
                 </motion.div>
               ))
+              )
             ) : (
               filteredPrefaces.map((p) => (
                 <motion.div
@@ -435,7 +564,7 @@ export const PracticeMedicineTab = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedDiagnosis, setSelectedDiagnosis] = useState<ClinicalDiagnosis | null>(DIAGNOSES_DATA.find(d => d.name === 'Dengue Fever') || DIAGNOSES_DATA[0]);
   const [activeTab, setActiveTab] = useState<'symptoms' | 'diagnosis' | 'medicine' | 'repertory' | 'complications' | 'differential' | 'keypoints' | 'summary'>('medicine');
-  const [expandedSections, setExpandedSections] = useState<string[]>(['Section A: জ্বর ও সংক্রামক রোগ']);
+  const [expandedSections, setExpandedSections] = useState<string[]>([]);
   const [activeFilter, setActiveFilter] = useState<string>('সব রোগ');
   const [mcqAnswered, setMcqAnswered] = useState(false);
   const [selectedMcqOption, setSelectedMcqOption] = useState<string | null>(null);

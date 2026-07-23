@@ -578,7 +578,7 @@ export const AnalysisTab = ({ patients, analysis, onClearAnalysis, onRemoveRubri
       physicalGenerals,
       caseAnalysis,
       remedy: selectedRemedies.length > 0 ? selectedRemedies[0] : undefined,
-      prescriptions: [{ ...rx }]
+      prescriptions: [...(selectedPatient.prescriptions || []), { ...rx }]
     };
     onUpdatePatient(updatedPatient);
     setSelectedPatient(updatedPatient);
@@ -757,17 +757,14 @@ export const AnalysisTab = ({ patients, analysis, onClearAnalysis, onRemoveRubri
             <button 
               onClick={() => {
                 if (!selectedPatient) return;
-                // Prefer the last selected remedy as the next remedy
-                const candidates = selectedRemedies.filter(r => r !== selectedPatient.remedy);
-                const nextRemedy = candidates.length > 1 ? candidates[candidates.length - 1] : (candidates.length > 0 ? candidates[0] : (selectedRemedies.length > 1 ? selectedRemedies[selectedRemedies.length - 1] : (selectedRemedies[0] || '')));
-                if (!nextRemedy) {
+                if (selectedRemedies.length === 0) {
                   alert("Please select a medicine from the repertorization table first.");
                   return;
                 }
-                onTransferToRx(selectedPatient, nextRemedy);
+                handleTransfer();
               }}
               className="px-3 py-3 md:px-6 md:py-3 bg-amber-600 text-white font-black text-[10px] uppercase tracking-widest rounded-xl shadow-lg shadow-amber-600/20 hover:bg-amber-700 transition-all flex items-center gap-2 flex-1 sm:flex-none justify-center"
-              title="Next Time"
+              title="Next Time — saves selected remedies in order and opens the Report"
             >
               <Clock size={14} /> 
               <span>Next Time</span>

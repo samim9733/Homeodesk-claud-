@@ -1,6 +1,7 @@
 import { ChapterIndex, Category, GeneralSubCategory } from './types';
 
-import { REPERTORY_DATA } from './repertoryData';
+import repertoryDataJson from './repertoryData.json';
+const REPERTORY_DATA = repertoryDataJson as import('./types').Chapter[];
 
 export { REPERTORY_DATA };
 

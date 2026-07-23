@@ -3,7 +3,7 @@ import { CHAPTER_INDEX } from './constants';
 import { motion } from 'motion/react';
 import { 
   X, Printer, FileText, Clock, Brain, AlertCircle, Droplets, Zap, Move, Thermometer
-, Stethoscope, Activity, ArrowRightLeft, RefreshCw, Utensils, ClipboardList, ChevronLeft, ChevronRight, Users, Database, Calendar, Plus, FlaskConical, BookmarkCheck, ChevronDown, TrendingUp, Bookmark} from 'lucide-react';
+, Stethoscope, Activity, ArrowRightLeft, RefreshCw, Utensils, ClipboardList, ChevronLeft, ChevronRight, Users, Database, Calendar, Plus, FlaskConical, BookmarkCheck, ChevronDown, TrendingUp, Bookmark, History} from 'lucide-react';
 import { Patient, ChiefSymptom, PhysicalGeneral } from './types';
 
 
@@ -20,7 +20,7 @@ export const PatientDetailsCanvas = ({
   onPrevious?: () => void,
   onSave: (updatedPatient: Patient) => void
 }) => {
-  const [activeTab, setActiveTab] = useState<'chief' | 'mental' | 'physical' | 'analysis'>('chief');
+  const [activeTab, setActiveTab] = useState<'chief' | 'mental' | 'physical' | 'history' | 'analysis'>('chief');
   const [chiefSymptoms, setChiefSymptoms] = useState<ChiefSymptom[]>([]);
   const [mentalSymptoms, setMentalSymptoms] = useState<string[]>([]);
   const [physicalGeneralsState, setPhysicalGeneralsState] = useState<PhysicalGeneral[]>([]);
@@ -196,7 +196,7 @@ export const PatientDetailsCanvas = ({
               </div>
               <div>
                 <div className="flex items-center gap-3 mb-1">
-                  <h2 className="text-2xl font-black text-slate-900 uppercase tracking-tight print:text-xl">Clinical Case Record</h2>
+                  <h2 className="text-2xl font-black text-slate-900 uppercase tracking-tight print:text-xl">Patient Profile Record</h2>
                   <div className="flex items-center gap-2 print:hidden">
                     {onPrevious && (
                       <button 
@@ -250,9 +250,10 @@ export const PatientDetailsCanvas = ({
         {/* Navigation Tabs - Hidden on Print */}
         <div className="px-8 py-4 bg-slate-50/50 border-b border-slate-100 flex gap-2 overflow-x-auto custom-scrollbar print:hidden">
           {[
-            { id: 'chief', label: 'Chief Symptoms', icon: <Plus size={14} />, count: 5 },
+            { id: 'chief', label: 'Presenting Complaints', icon: <Plus size={14} />, count: 5 },
             { id: 'mental', label: 'Mental State', icon: <Brain size={14} />, count: 5 },
             { id: 'physical', label: 'Physical Generals', icon: <Activity size={14} />, count: 10 },
+            { id: 'history', label: 'History', icon: <History size={14} />, count: null },
             { id: 'analysis', label: 'Case Analysis', icon: <FlaskConical size={14} />, count: null }
           ].map((tab) => (
             <button
@@ -533,6 +534,62 @@ export const PatientDetailsCanvas = ({
               </div>
             </section>
 
+            {/* History Section */}
+            <section className={activeTab === 'history' ? 'block pt-16 border-t border-slate-50' : 'hidden print:block'}>
+              <div className="flex items-center gap-3 mb-8 print:mb-4">
+                <div className="w-10 h-10 bg-amber-600 rounded-xl flex items-center justify-center text-white">
+                  <History size={20} />
+                </div>
+                <div>
+                  <h3 className="text-lg font-black text-slate-900 uppercase tracking-tight">History</h3>
+                  <p className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">অতীত ইতিহাস</p>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                  <label className="block text-[10px] font-black uppercase text-slate-400 tracking-widest mb-2">Past Illness</label>
+                  <p className="text-sm font-medium text-slate-700 leading-relaxed">
+                    {[...(patient.history?.pastIllnessOptions || [])].join(', ')}
+                    {patient.history?.pastIllnessDetails ? ` — ${patient.history.pastIllnessDetails}` : ''}
+                    {!patient.history?.pastIllnessOptions?.length && !patient.history?.pastIllnessDetails && <span className="text-slate-300">Not recorded</span>}
+                  </p>
+                </div>
+                <div>
+                  <label className="block text-[10px] font-black uppercase text-slate-400 tracking-widest mb-2">Family History</label>
+                  <p className="text-sm font-medium text-slate-700 leading-relaxed">
+                    {patient.history?.familyPaternal && <span>Paternal: {patient.history.familyPaternal}</span>}
+                    {patient.history?.familyPaternal && patient.history?.familyMaternal && <br/>}
+                    {patient.history?.familyMaternal && <span>Maternal: {patient.history.familyMaternal}</span>}
+                    {!patient.history?.familyPaternal && !patient.history?.familyMaternal && <span className="text-slate-300">Not recorded</span>}
+                  </p>
+                </div>
+                <div>
+                  <label className="block text-[10px] font-black uppercase text-slate-400 tracking-widest mb-2">Previous Treatment</label>
+                  <p className="text-sm font-medium text-slate-700 leading-relaxed">
+                    {patient.history?.treatmentMode && <span>{patient.history.treatmentMode}</span>}
+                    {patient.history?.treatmentResponse && <span> — Response: {patient.history.treatmentResponse}</span>}
+                    {patient.history?.treatmentDetails && <span><br/>{patient.history.treatmentDetails}</span>}
+                    {!patient.history?.treatmentMode && !patient.history?.treatmentResponse && !patient.history?.treatmentDetails && <span className="text-slate-300">Not recorded</span>}
+                  </p>
+                </div>
+                <div>
+                  <label className="block text-[10px] font-black uppercase text-slate-400 tracking-widest mb-2">Vaccination Status</label>
+                  <p className="text-sm font-medium text-slate-700 leading-relaxed">
+                    {patient.history?.vaccinationStatus || (patient.history?.vaccinations || []).join(', ') || <span className="text-slate-300">Not recorded</span>}
+                  </p>
+                </div>
+                <div className="md:col-span-2">
+                  <label className="block text-[10px] font-black uppercase text-slate-400 tracking-widest mb-2">Personal Habits</label>
+                  <p className="text-sm font-medium text-slate-700 leading-relaxed">
+                    {[...(patient.history?.habits || [])].join(', ')}
+                    {patient.history?.personalHabits ? ` — ${patient.history.personalHabits}` : ''}
+                    {!patient.history?.habits?.length && !patient.history?.personalHabits && <span className="text-slate-300">Not recorded</span>}
+                  </p>
+                </div>
+              </div>
+            </section>
+
             {/* Totality & Analysis Section */}
             <section className={activeTab === 'analysis' ? 'block pt-16 border-t border-slate-50 pb-12' : 'hidden print:block'}>
               <div className="flex items-center gap-3 mb-8 print:mb-4">
@@ -654,6 +711,145 @@ export const PatientDetailsCanvas = ({
       </motion.div>
     </motion.div>
     </>
+  );
+};
+
+// ============================================================
+// ReportHistoryModal — old + new prescription reports, PDF save
+// Opened via the PDF icon next to "PD" (Patient Profile) in the
+// patient list. Lists every saved prescription (oldest→newest) with
+// a per-entry "Save PDF" (browser print) action, plus a button to
+// start a brand-new report (opens the Rx flow).
+// ============================================================
+export const ReportHistoryModal = ({
+  patient,
+  onClose,
+  onNewReport
+}: {
+  patient: Patient;
+  onClose: () => void;
+  onNewReport: (patient: Patient) => void;
+}) => {
+  const [printingIndex, setPrintingIndex] = useState<number | null>(null);
+  const reports = [...(patient.prescriptions || [])].reverse(); // newest first
+
+  const formatDate = (iso?: string) => {
+    if (!iso) return 'Undated';
+    try {
+      return new Date(iso).toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+    } catch {
+      return 'Undated';
+    }
+  };
+
+  const handlePrint = (idx: number) => {
+    setPrintingIndex(idx);
+    setTimeout(() => {
+      window.print();
+      setPrintingIndex(null);
+    }, 50);
+  };
+
+  return (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-[70] flex items-center justify-center p-4 print:hidden"
+      onClick={onClose}
+    >
+      <motion.div
+        initial={{ opacity: 0, scale: 0.96, y: 10 }}
+        animate={{ opacity: 1, scale: 1, y: 0 }}
+        exit={{ opacity: 0, scale: 0.96, y: 10 }}
+        onClick={(e) => e.stopPropagation()}
+        className="bg-white rounded-3xl w-full max-w-lg max-h-[85vh] overflow-hidden shadow-2xl flex flex-col"
+      >
+        <div className="flex items-center justify-between px-6 py-5 border-b border-slate-100">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-2xl bg-emerald-50 flex items-center justify-center">
+              <FileText className="text-emerald-600" size={18} />
+            </div>
+            <div>
+              <h2 className="text-sm font-black text-slate-900">Report History</h2>
+              <p className="text-[10px] font-bold text-slate-400">{patient.name} — {reports.length} saved report{reports.length !== 1 ? 's' : ''}</p>
+            </div>
+          </div>
+          <button onClick={onClose} className="p-2 hover:bg-slate-100 rounded-xl transition-colors">
+            <X size={18} className="text-slate-400" />
+          </button>
+        </div>
+
+        <div className="flex-1 overflow-y-auto p-5 space-y-2.5">
+          {reports.length === 0 && (
+            <div className="text-center py-14">
+              <FileText className="mx-auto text-slate-200 mb-3" size={40} />
+              <p className="text-xs font-bold text-slate-400">No reports saved yet for this patient.</p>
+            </div>
+          )}
+          {reports.map((rx, i) => (
+            <div
+              key={i}
+              className={`rounded-2xl border p-4 flex items-center justify-between gap-3 ${i === 0 ? 'border-emerald-200 bg-emerald-50/40' : 'border-slate-100'}`}
+            >
+              <div className="min-w-0">
+                <div className="flex items-center gap-2">
+                  <span className="text-xs font-black text-slate-900">{rx.remedy}</span>
+                  <span className="text-[10px] font-bold text-slate-400">{rx.potency}</span>
+                  {i === 0 && (
+                    <span className="text-[8px] font-black uppercase tracking-wider text-emerald-600 bg-emerald-100 px-1.5 py-0.5 rounded-full">Latest</span>
+                  )}
+                </div>
+                <p className="text-[10px] text-slate-400 font-bold mt-0.5 flex items-center gap-1">
+                  <Calendar size={10} /> {formatDate(rx.date)}
+                  {rx.basedOnRubrics && rx.basedOnRubrics.length > 0 && (
+                    <span className="text-slate-300">• {rx.basedOnRubrics.length} rubric{rx.basedOnRubrics.length !== 1 ? 's' : ''}</span>
+                  )}
+                </p>
+              </div>
+              <button
+                onClick={() => handlePrint(i)}
+                className="shrink-0 px-3 py-2 bg-slate-900 hover:bg-slate-800 text-white text-[10px] font-black uppercase tracking-wider rounded-xl transition-colors flex items-center gap-1.5"
+              >
+                <Printer size={12} /> Save PDF
+              </button>
+            </div>
+          ))}
+        </div>
+
+        <div className="p-5 border-t border-slate-100">
+          <button
+            onClick={() => { onClose(); onNewReport(patient); }}
+            className="w-full py-3.5 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-black uppercase tracking-widest rounded-2xl transition-colors flex items-center justify-center gap-2"
+          >
+            <Plus size={16} /> New Report
+          </button>
+        </div>
+      </motion.div>
+
+      {/* Print-only view of the report currently being saved */}
+      {printingIndex !== null && reports[printingIndex] && (
+        <div className="hidden print:block fixed inset-0 bg-white p-10">
+          <h1 className="text-xl font-black mb-1">{patient.name}</h1>
+          <p className="text-xs text-slate-500 mb-6">{formatDate(reports[printingIndex].date)}</p>
+          <div className="border-t border-slate-200 pt-4">
+            <p className="text-sm"><strong>Remedy:</strong> {reports[printingIndex].remedy}</p>
+            <p className="text-sm"><strong>Potency:</strong> {reports[printingIndex].potency}</p>
+            <p className="text-sm"><strong>Dosage:</strong> {reports[printingIndex].dosage}</p>
+            <p className="text-sm"><strong>Frequency:</strong> {reports[printingIndex].frequency}</p>
+            <p className="text-sm"><strong>Duration:</strong> {reports[printingIndex].duration}</p>
+          </div>
+          {reports[printingIndex].basedOnRubrics && reports[printingIndex].basedOnRubrics!.length > 0 && (
+            <div className="mt-6 border-t border-slate-200 pt-4">
+              <p className="text-xs font-black uppercase tracking-wider text-slate-400 mb-2">Repertory Analysis</p>
+              {reports[printingIndex].basedOnRubrics!.map((r, ri) => (
+                <p key={ri} className="text-xs text-slate-600">{r.chapter} — {r.text}</p>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+    </motion.div>
   );
 };
 
